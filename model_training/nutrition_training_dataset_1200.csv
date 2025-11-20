@@ -1,0 +1,1201 @@
+Barcode,Product_Name,Category,Sugar_g_per_100g,Fat_g_per_100g,Sodium_mg_per_100g,Protein_g_per_100g,Additives,Ingredient_Text,Ingredient_Sentiment,Health_Score,Health_Label
+8908628574525,Bournvita Health Drink,Beverage,49.0,2.4,85,13.5,E220,"salt, ragi, tamarind, coriander, preservative",Unhealthy,54,Moderate
+8905805971677,Amul Toned Milk,Beverage,25.7,2.6,10,1.2,E100,"sugar, invert sugar, preservative, emulsifier, quinoa",Unhealthy,58,Moderate
+8900052737759,ChocoBite Energy Bar,Snack,4.6,19.9,429,2.2,E120,"glucose, invert sugar, ragi, stabilizer, refined oil, turmeric, protein",Unhealthy,50,Moderate
+8903257563556,Kellogg's Corn Flakes,Breakfast,14.5,9.9,425,4.5,E150d,"emulsifier, glucose, quinoa, millets, coriander",Unhealthy,49,Unhealthy
+8904961432793,Paper Boat Aam Panna,Beverage,50.2,0.0,10,4.0,E330,"peanuts, natural, tamarind, invert sugar, salt, garlic, trans fat",Unhealthy,35,Unhealthy
+8904776521565,Britannia Marie Gold,Snack,3.8,17.0,583,6.4,E211,"barley, whey protein, palm oil, garlic, quinoa, invert sugar",Healthy,61,Moderate
+8907371171474,EnergyPlus Drink,Beverage,46.6,0.7,92,0.4,None,"artificial flavor, turmeric, tamarind, protein, walnuts",Healthy,39,Unhealthy
+8904209409348,SodaPop Drink,Beverage,38.1,0.0,60,0.0,E102,"brown rice, walnuts, maltodextrin, fiber",Healthy,44,Unhealthy
+8909750730762,Parle-G Biscuits,Snack,14.5,19.2,529,2.6,E211,"invert sugar, maltodextrin, artificial color, trans fat, walnuts",Unhealthy,30,Unhealthy
+8901861863832,Bournvita Health Drink,Beverage,11.5,0.0,52,3.9,E330,"invert sugar, clove, black pepper, barley",Unhealthy,83,Healthy
+8901563254037,Lays Classic Salted,Snack,18.7,17.0,556,4.9,E211,"artificial color, refined oil, glucose, quinoa, flaxseed, fructose, vitamin",Healthy,39,Unhealthy
+8901992403822,Tropicana Orange,Beverage,13.3,2.6,79,0.0,None,"refined oil, turmeric, emulsifier, peanuts, salt, cardamom",Unhealthy,72,Moderate
+8900835018559,Real Mixed Fruit,Beverage,34.3,0.0,99,2.1,E202,"trans fat, peanuts, quinoa, refined oil, oats, salt, walnuts",Healthy,55,Moderate
+8904837554099,SodaPop Drink,Beverage,50.0,1.7,141,0.8,E102,"flaxseed, hing, fiber, natural, corn syrup",Healthy,25,Unhealthy
+8901599467136,Sunfeast Dark Fantasy,Snack,12.8,15.9,579,1.0,E296,"flaxseed, vitamin, stabilizer, artificial flavor, green gram, whole grain",Healthy,41,Unhealthy
+8902494745081,Lays Classic Salted,Snack,13.3,24.6,243,7.8,E296,"garlic, jaggery, walnuts, refined oil, almonds, quinoa, millets",Healthy,64,Moderate
+8907427562014,ChocoBite Energy Bar,Snack,13.7,19.9,319,1.0,E202,"protein, peanuts, invert sugar, palm oil, green gram, ginger, clove",Healthy,48,Unhealthy
+8904575477346,Lays Classic Salted,Snack,21.3,21.7,668,5.4,E296,"corn syrup, salt, palm oil, whey protein, artificial color, chia, protein",Unhealthy,22,Unhealthy
+8900739826065,Granola Delight,Breakfast,9.4,7.5,99,9.8,E330,"cumin, salt, ragi, sugar, chia",Unhealthy,90,Healthy
+8900487122158,Parle-G Biscuits,Snack,1.5,13.1,495,4.1,E202,"palm oil, ginger, corn syrup, hing, artificial color, whey protein, preservative, tamarind, sugar",Unhealthy,62,Moderate
+8906539239896,Haldiram Bhujia,Snack,6.8,17.6,404,4.2,E330,"turmeric, clove, sugar, vitamin, peanuts",Healthy,63,Moderate
+8902145481166,Paper Boat Jaljeera,Beverage,65.3,1.0,118,0.0,E330,"clove, quinoa, artificial flavor, preservative, emulsifier, natural, cardamom, invert sugar",Unhealthy,0,Unhealthy
+8905143906358,Horlicks Classic Malt,Beverage,0.0,0.0,85,8.1,E296,"salt, sugar, barley",Unhealthy,100,Healthy
+8907474746749,Haldiram Bhujia,Snack,9.5,18.3,163,5.4,E296,"refined oil, ginger, palm oil, ragi, cumin, walnuts",Unhealthy,66,Moderate
+8903920830863,Bournvita Health Drink,Beverage,41.6,0.9,168,2.0,E120,"ginger, whey protein, hing, trans fat, glucose, preservative",Unhealthy,33,Unhealthy
+8907510899759,Haldiram Bhujia,Snack,13.7,18.6,296,7.2,E211,"cumin, garlic, artificial flavor, fructose, honey, preservative",Unhealthy,55,Moderate
+8909359623751,SodaPop Drink,Beverage,73.5,0.7,133,0.0,E202,"sugar, coriander, barley, millets, black pepper, ragi, vitamin",Healthy,0,Unhealthy
+8909931434566,Mother Dairy Dahi,Beverage,78.9,0.3,171,0.1,E110,"oats, tamarind, vitamin, emulsifier, ginger, fiber",Healthy,0,Unhealthy
+8909304318960,BrownBread Slice,Breakfast,0.0,5.4,181,11.6,E202,"ragi, artificial color, brown rice, vitamin, trans fat, whole grain, peanuts",Healthy,100,Healthy
+8900269708558,Haldiram Bhujia,Snack,21.0,27.8,455,3.3,E330,"quinoa, whey protein, artificial flavor, maltodextrin, green gram, honey",Unhealthy,22,Unhealthy
+8908739569962,Tropicana Orange,Beverage,68.4,1.6,171,5.5,E102,"honey, corn syrup, stabilizer, whey protein, ginger, cardamom, preservative, black pepper",Unhealthy,3,Unhealthy
+8905314373708,PowerBite Protein Bar,Snack,10.7,14.4,320,2.7,None,"palm oil, peanuts, maltodextrin, fiber, fructose, ragi, chia, salt, artificial color",Unhealthy,58,Moderate
+8906492378269,Granola Delight,Breakfast,21.4,6.9,172,8.9,E110,"invert sugar, coriander, vitamin, tamarind, preservative",Unhealthy,67,Moderate
+8901704076663,Parle-G Biscuits,Snack,10.0,20.2,449,7.6,None,"fructose, cardamom, ginger, refined oil, sugar, invert sugar, trans fat, green gram",Unhealthy,58,Moderate
+8908000612640,Too Yumm Multigrain Chips,Snack,7.0,20.6,504,1.2,E150d,"flaxseed, barley, quinoa, refined oil, vitamin",Healthy,44,Unhealthy
+8905618014502,Horlicks Classic Malt,Beverage,6.1,0.0,116,0.0,E150d,"protein, palm oil, cardamom, whole grain, refined oil",Unhealthy,75,Moderate
+8900788143899,Kellogg's Corn Flakes,Breakfast,34.1,6.3,269,7.6,E296,"protein, green gram, tamarind, palm oil, coriander",Healthy,54,Moderate
+8904312811943,Soy Protein Drink,Beverage,52.0,0.0,58,2.5,E200,"ginger, peanuts, millets, artificial color",Healthy,35,Unhealthy
+8909865402497,Tropicana Orange,Beverage,0.0,1.7,84,0.0,None,"stabilizer, quinoa, hing, sugar, cardamom, maltodextrin",Unhealthy,90,Healthy
+8905515485412,Bingo Tedhe Medhe,Snack,0.0,11.6,538,2.9,E200,"palm oil, maltodextrin, whey protein, artificial color, preservative, black pepper",Unhealthy,60,Moderate
+8900402296698,ZeroSugar Soda,Beverage,60.7,1.3,14,2.2,E200,"millets, trans fat, tamarind, maltodextrin, brown rice, artificial flavor, chia, palm oil",Unhealthy,16,Unhealthy
+8906666799970,Paper Boat Aam Panna,Beverage,0.0,0.2,82,3.2,E220,"cardamom, fiber, natural, hing, oats, turmeric, whey protein, trans fat",Healthy,100,Healthy
+8906533604358,Bingo Tedhe Medhe,Snack,10.1,24.7,550,7.5,E330,"garlic, ragi, sugar, salt, oats",Unhealthy,44,Unhealthy
+8909506146942,OatCrunch Cookies,Snack,21.3,20.6,363,2.8,None,"glucose, emulsifier, tamarind, cumin, invert sugar, trans fat, turmeric",Unhealthy,36,Unhealthy
+8909528751275,Sunfeast Dark Fantasy,Snack,12.2,29.1,578,13.7,E200,"stabilizer, invert sugar, palm oil, artificial color, quinoa, cumin, green gram, cardamom, almonds",Unhealthy,51,Moderate
+8901512831807,Kellogg's Muesli,Breakfast,22.3,2.2,357,4.6,E220,"millets, turmeric, oats, emulsifier, flaxseed, barley, whole grain, black pepper",Healthy,62,Moderate
+8900642229453,ZeroSugar Soda,Beverage,44.6,3.4,89,0.0,E102,"whole grain, preservative, sugar, clove, almonds, cardamom",Unhealthy,23,Unhealthy
+8900391385730,Baked Veggie Chips,Snack,16.7,16.1,583,2.8,None,"fiber, coriander, invert sugar, refined oil, almonds",Unhealthy,35,Unhealthy
+8904253421182,Britannia Marie Gold,Snack,15.8,21.2,283,6.6,E150d,"cumin, protein, salt, green gram, glucose, jaggery",Healthy,56,Moderate
+8904039061316,Yakult Probiotic,Beverage,51.2,0.0,61,0.0,None,"trans fat, sugar, tamarind, invert sugar, fiber, fructose, coriander",Unhealthy,26,Unhealthy
+8906259706801,Baked Veggie Chips,Snack,14.3,20.3,347,2.6,E296,"fructose, tamarind, glucose, peanuts, cumin, trans fat",Unhealthy,42,Unhealthy
+8907090612125,HealthyNut Mix,Snack,12.9,28.2,643,3.9,E202,"ginger, hing, walnuts, refined oil, quinoa",Healthy,32,Unhealthy
+8903806084774,Paper Boat Jaljeera,Beverage,95.6,0.4,19,0.4,E120,"maltodextrin, green gram, protein, cumin, artificial color, fructose, corn syrup, whole grain",Unhealthy,0,Unhealthy
+8906498670133,Yakult Probiotic,Beverage,64.5,0.0,62,4.0,None,"invert sugar, ginger, brown rice, flaxseed, millets",Healthy,26,Unhealthy
+8902722382246,Mother Dairy Dahi,Beverage,2.6,0.0,19,1.8,None,"flaxseed, green gram, fructose, refined oil, natural, black pepper, emulsifier",Unhealthy,96,Healthy
+8907104526904,Yakult Probiotic,Beverage,41.0,2.2,10,1.1,E220,"black pepper, peanuts, garlic, palm oil, salt, coriander, artificial flavor",Unhealthy,38,Unhealthy
+8906505720408,Maggi Masala Noodles,Snack,22.7,12.2,549,7.9,E150d,"sugar, vitamin, artificial color, hing, brown rice",Unhealthy,38,Unhealthy
+8908765803189,Quaker Oats,Breakfast,17.4,6.7,30,4.8,E200,"maltodextrin, natural, peanuts, quinoa",Healthy,80,Healthy
+8904385931231,SodaPop Drink,Beverage,53.4,0.0,25,2.6,E110,"coriander, invert sugar, refined oil, salt, palm oil, flaxseed, tamarind",Unhealthy,24,Unhealthy
+8909254385374,PowerBite Protein Bar,Snack,9.5,18.5,472,3.7,E120,"oats, natural, turmeric, hing, quinoa",Healthy,54,Moderate
+8906639453837,Paper Boat Jaljeera,Beverage,0.0,1.5,19,3.2,E100,"ginger, artificial flavor, ragi, green gram, glucose, barley, invert sugar",Healthy,100,Healthy
+8906116143207,PowerBite Protein Bar,Snack,7.5,18.2,92,6.9,E202,"preservative, garlic, ragi, honey, whey protein, coriander",Unhealthy,76,Moderate
+8902326549468,Oreo Vanilla,Snack,23.8,19.1,752,2.2,E500,"walnuts, corn syrup, sugar, stabilizer, preservative, turmeric",Unhealthy,9,Unhealthy
+8907738444997,Real Mixed Fruit,Beverage,65.4,0.8,166,3.2,E296,"tamarind, cumin, ragi, jaggery, fiber, artificial flavor",Healthy,13,Unhealthy
+8909819284126,Soy Protein Drink,Beverage,47.4,0.6,10,1.0,E150d,"trans fat, corn syrup, glucose, preservative, vitamin, flaxseed",Unhealthy,28,Unhealthy
+8903971420143,Tropicana Orange,Beverage,44.5,0.0,33,5.0,E500,"ginger, oats, sugar, salt, honey, chia",Healthy,52,Moderate
+8907340382507,Granola Delight,Breakfast,11.6,2.5,323,6.9,E296,"stabilizer, clove, refined oil, walnuts, hing",Unhealthy,74,Moderate
+8905038134955,Yakult Probiotic,Beverage,100.0,0.9,160,0.5,E150d,"emulsifier, oats, barley, jaggery, fructose, whey protein, quinoa",Healthy,0,Unhealthy
+8908553895409,Horlicks Classic Malt,Beverage,14.4,0.8,157,14.3,E102,"coriander, maltodextrin, whole grain, ragi, fructose, artificial color, preservative",Unhealthy,95,Healthy
+8903455810850,OatCrunch Cookies,Snack,8.9,22.1,509,12.6,E200,"tamarind, artificial flavor, brown rice, preservative",Unhealthy,63,Moderate
+8901931984672,Kellogg's Corn Flakes,Breakfast,14.5,4.1,185,4.9,E120,"honey, hing, jaggery, maltodextrin, stabilizer, vitamin, emulsifier, coriander",Healthy,79,Moderate
+8907824005370,PowerBite Protein Bar,Snack,11.0,25.5,407,4.7,E330,"clove, salt, vitamin, sugar, preservative, invert sugar, almonds",Unhealthy,43,Unhealthy
+8907070748215,Granola Delight,Breakfast,18.9,8.0,181,10.0,E500,"flaxseed, jaggery, maltodextrin, trans fat, turmeric, millets, corn syrup, artificial flavor",Unhealthy,74,Moderate
+8906303188653,Paper Boat Aam Panna,Beverage,56.0,0.0,31,1.8,E110,"garlic, honey, turmeric, barley, coriander",Healthy,26,Unhealthy
+8901548283789,Mother Dairy Dahi,Beverage,65.7,2.9,125,0.0,E500,"peanuts, tamarind, emulsifier, almonds",Healthy,5,Unhealthy
+8907301325135,Parle-G Biscuits,Snack,4.4,13.2,193,5.9,E330,"quinoa, ragi, glucose, fructose, stabilizer, turmeric, coriander",Unhealthy,77,Moderate
+8909420138643,Kellogg's Muesli,Breakfast,0.0,4.4,322,11.1,E102,"almonds, refined oil, invert sugar, whole grain, green gram, jaggery, artificial color",Healthy,100,Healthy
+8909398751855,Horlicks Classic Malt,Beverage,0.0,0.0,176,0.6,E102,"oats, refined oil, honey, artificial flavor, almonds, sugar, glucose, salt",Unhealthy,81,Healthy
+8900926091569,ChocoBite Energy Bar,Snack,3.8,28.0,435,3.5,E102,"ragi, maltodextrin, quinoa, hing, ginger, cardamom, fructose",Unhealthy,42,Unhealthy
+8901912694609,HealthyNut Mix,Snack,2.6,13.4,429,14.7,E220,"garlic, palm oil, coriander, invert sugar, almonds, sugar, salt, green gram, flaxseed",Unhealthy,88,Healthy
+8900946484069,BrownBread Slice,Breakfast,1.4,9.6,417,6.6,E220,"almonds, invert sugar, brown rice, honey",Healthy,83,Healthy
+8901024100098,Sunfeast Dark Fantasy,Snack,0.0,16.8,280,2.6,E330,"quinoa, invert sugar, peanuts, fiber",Healthy,75,Moderate
+8907939687545,Tropicana Orange,Beverage,14.3,2.0,122,4.5,E110,"cumin, oats, maltodextrin, green gram, chia, trans fat, sugar, jaggery",Unhealthy,73,Moderate
+8904290907990,HealthyNut Mix,Snack,12.5,19.1,495,5.0,E120,"corn syrup, whole grain, vitamin, green gram, fructose, ginger, garlic",Healthy,51,Moderate
+8904230099432,Paper Boat Aam Panna,Beverage,51.5,2.0,68,0.0,E202,"protein, hing, honey, oats, salt, peanuts, ginger",Healthy,27,Unhealthy
+8904459172312,HealthyNut Mix,Snack,5.8,22.0,208,7.5,E220,"stabilizer, quinoa, garlic, ginger, fructose, sugar, glucose, chia, hing",Unhealthy,70,Moderate
+8907956289495,Britannia Marie Gold,Snack,9.7,7.6,615,3.8,E200,"glucose, green gram, quinoa, salt, flaxseed, vitamin, maltodextrin, artificial flavor",Unhealthy,50,Moderate
+8909755199758,OatCrunch Cookies,Snack,10.4,38.0,498,5.5,E211,"coriander, honey, ragi, corn syrup, fiber, invert sugar, vitamin",Healthy,33,Unhealthy
+8900759066694,Paper Boat Jaljeera,Beverage,67.9,0.0,61,1.7,E150d,"natural, stabilizer, salt, honey, trans fat, walnuts, almonds",Healthy,9,Unhealthy
+8907393359518,Yakult Probiotic,Beverage,8.6,3.4,158,0.0,E110,"palm oil, invert sugar, corn syrup, hing, protein",Unhealthy,66,Moderate
+8903049933541,Granola Delight,Breakfast,19.0,8.1,199,2.0,E500,"jaggery, whole grain, black pepper, tamarind, maltodextrin, preservative",Unhealthy,54,Moderate
+8906869086057,EnergyPlus Drink,Beverage,44.5,1.9,65,2.6,E296,"coriander, ginger, refined oil, maltodextrin, turmeric",Unhealthy,35,Unhealthy
+8902675489832,EnergyPlus Drink,Beverage,41.1,1.3,91,2.6,E102,"invert sugar, walnuts, artificial color, clove, garlic",Unhealthy,36,Unhealthy
+8905731217953,Amul Lassi,Beverage,18.9,0.3,10,0.9,E296,"invert sugar, emulsifier, ginger, flaxseed, coriander",Unhealthy,68,Moderate
+8906278815782,Too Yumm Multigrain Chips,Snack,16.1,15.0,296,3.9,E100,"protein, fructose, palm oil, salt, walnuts, vitamin",Unhealthy,50,Moderate
+8908339488255,Too Yumm Multigrain Chips,Snack,0.0,21.8,464,7.8,E296,"cumin, trans fat, vitamin, garlic, sugar",Unhealthy,65,Moderate
+8908931543145,ChocoBite Energy Bar,Snack,11.7,17.3,175,8.2,E100,"ragi, stabilizer, cumin, glucose, tamarind",Unhealthy,70,Moderate
+8900950520078,Real Mixed Fruit,Beverage,36.4,2.2,208,1.4,E296,"corn syrup, ginger, cardamom, cumin, oats",Unhealthy,35,Unhealthy
+8906900991623,Haldiram Bhujia,Snack,20.8,28.9,394,1.0,E211,"stabilizer, corn syrup, millets, refined oil, turmeric, jaggery, invert sugar",Unhealthy,15,Unhealthy
+8901805725064,Kellogg's Corn Flakes,Breakfast,31.9,10.4,313,3.0,None,"glucose, palm oil, whey protein, millets, clove",Healthy,43,Unhealthy
+8908439436971,Parle-G Biscuits,Snack,8.0,18.8,598,5.4,E211,"turmeric, preservative, jaggery, whole grain, whey protein",Healthy,50,Moderate
+8906757094179,Tropicana Orange,Beverage,48.4,2.0,42,1.5,E500,"oats, almonds, glucose, cardamom, stabilizer",Healthy,36,Unhealthy
+8904170382019,Britannia Marie Gold,Snack,13.6,6.4,514,9.0,E110,"refined oil, barley, whole grain, brown rice, almonds, oats",Healthy,68,Moderate
+8904582909486,Horlicks Classic Malt,Beverage,31.7,0.0,97,0.7,E202,"chia, palm oil, maltodextrin, honey, salt",Unhealthy,47,Unhealthy
+8906494402681,SodaPop Drink,Beverage,45.2,0.0,128,5.3,E200,"maltodextrin, invert sugar, artificial color, garlic, hing, refined oil, fructose",Unhealthy,39,Unhealthy
+8907593754743,HealthyNut Mix,Snack,9.5,13.3,418,7.1,E110,"hing, tamarind, emulsifier, artificial color, brown rice, walnuts",Healthy,67,Moderate
+8902782633108,Soy Protein Drink,Beverage,93.5,1.9,142,0.4,None,"fiber, fructose, palm oil, glucose, emulsifier",Unhealthy,0,Unhealthy
+8902623590417,Amul Lassi,Beverage,0.0,1.5,73,1.6,None,"peanuts, green gram, artificial flavor, cardamom, black pepper, ragi, natural, corn syrup",Healthy,100,Healthy
+8900400736716,Kellogg's Corn Flakes,Breakfast,7.2,4.4,223,3.8,E330,"flaxseed, trans fat",Unhealthy,76,Moderate
+8907049085047,Mother Dairy Dahi,Beverage,36.6,1.1,88,0.0,E211,"glucose, invert sugar, trans fat, stabilizer, corn syrup, millets",Unhealthy,35,Unhealthy
+8901754416548,Yakult Probiotic,Beverage,60.2,0.1,130,0.0,E220,"sugar, oats, corn syrup, ginger",Unhealthy,7,Unhealthy
+8907289716950,Granola Delight,Breakfast,25.3,5.6,30,7.4,None,"emulsifier, artificial color, turmeric, oats, almonds, ginger, millets",Healthy,81,Healthy
+8900072749207,Granola Delight,Breakfast,26.5,9.9,156,6.6,E102,"maltodextrin, coriander, green gram, fiber, vitamin, turmeric, salt, natural, almonds",Healthy,60,Moderate
+8906808453394,SodaPop Drink,Beverage,43.6,0.0,13,2.3,E120,"protein, green gram, coriander, sugar, chia",Healthy,48,Unhealthy
+8906166081232,Soy Protein Drink,Beverage,72.6,0.6,140,7.6,E296,"artificial flavor, barley, trans fat, preservative, refined oil, glucose",Unhealthy,8,Unhealthy
+8906461948622,Kurkure Masala Munch,Snack,23.3,18.9,226,7.1,E211,"preservative, millets, stabilizer, fructose, cumin, coriander, emulsifier, oats, refined oil",Unhealthy,45,Unhealthy
+8901199452564,Granola Delight,Breakfast,20.6,4.2,484,9.1,E500,"coriander, maltodextrin, glucose, barley, salt, whey protein",Healthy,66,Moderate
+8903471015350,Tropicana Orange,Beverage,21.9,1.3,66,0.0,E330,"walnuts, ragi, flaxseed, corn syrup, palm oil, artificial color, preservative",Unhealthy,58,Moderate
+8900152921438,PowerBite Protein Bar,Snack,6.0,15.3,425,7.8,E200,"cumin, sugar, protein, fiber, walnuts",Healthy,74,Moderate
+8907974099596,Tropicana Orange,Beverage,69.9,0.0,144,2.0,E120,"salt, walnuts, quinoa, green gram, tamarind, stabilizer",Healthy,6,Unhealthy
+8905272825777,Bournvita Health Drink,Beverage,84.8,2.4,74,0.0,E200,"oats, fructose, cumin, garlic, invert sugar, sugar",Unhealthy,0,Unhealthy
+8900210901480,Saffola Oats,Breakfast,19.4,9.1,228,9.1,None,"chia, flaxseed, palm oil, green gram, black pepper, protein, coriander",Healthy,80,Healthy
+8904357698460,OatCrunch Cookies,Snack,20.4,23.2,485,4.4,E200,"emulsifier, ginger, whole grain, natural, refined oil, trans fat, black pepper",Unhealthy,28,Unhealthy
+8907184366930,Baked Veggie Chips,Snack,18.0,28.7,343,3.3,E296,"artificial flavor, cardamom, flaxseed, hing",Unhealthy,30,Unhealthy
+8900801621859,Sunfeast Dark Fantasy,Snack,15.4,26.8,385,1.0,E220,"palm oil, fructose, black pepper, coriander, tamarind, walnuts, corn syrup",Unhealthy,28,Unhealthy
+8901766969919,Kellogg's Muesli,Breakfast,10.2,1.4,304,5.1,E211,"corn syrup, stabilizer, millets, garlic, palm oil, preservative, quinoa",Unhealthy,71,Moderate
+8902865159927,Kellogg's Muesli,Breakfast,1.7,7.6,270,6.5,E102,"glucose, ginger, chia, black pepper",Unhealthy,81,Healthy
+8904738118624,Paper Boat Aam Panna,Beverage,57.3,0.0,132,11.7,E200,"sugar, artificial color, whole grain, trans fat, artificial flavor",Unhealthy,39,Unhealthy
+8906825259721,Tropicana Orange,Beverage,43.4,0.0,81,3.1,E120,"peanuts, emulsifier, natural, vitamin, ginger, millets",Healthy,47,Unhealthy
+8906724172140,Amul Lassi,Beverage,2.0,2.6,79,4.0,E200,"palm oil, peanuts, quinoa, sugar, tamarind, artificial flavor",Unhealthy,92,Healthy
+8908616870097,Kellogg's Corn Flakes,Breakfast,17.7,6.9,30,7.7,E110,"barley, emulsifier, chia, hing, natural, cumin",Healthy,84,Healthy
+8908641038895,PowerBite Protein Bar,Snack,12.3,10.9,211,22.3,None,"peanuts, artificial flavor, glucose, quinoa, emulsifier, brown rice, maltodextrin",Unhealthy,100,Healthy
+8907068511509,Amul Lassi,Beverage,80.3,0.7,90,0.0,E120,"palm oil, barley, artificial color, turmeric, walnuts",Unhealthy,0,Unhealthy
+8906288993988,Haldiram Bhujia,Snack,0.0,16.5,483,1.6,E220,"preservative, quinoa, almonds, peanuts, fiber, hing",Healthy,63,Moderate
+8906947413116,PowerBite Protein Bar,Snack,11.3,25.7,494,23.1,E110,"stabilizer, quinoa, ragi, fructose, coriander, hing",Unhealthy,79,Moderate
+8903154923496,Real Mixed Fruit,Beverage,50.6,0.4,133,4.4,E296,"refined oil, cumin, coriander, ragi, trans fat, jaggery, ginger, whey protein",Unhealthy,29,Unhealthy
+8905582493932,Real Mixed Fruit,Beverage,69.3,0.7,129,0.0,E220,"fiber, emulsifier, coriander, salt, artificial color, hing, whey protein, garlic",Unhealthy,0,Unhealthy
+8905460180238,Real Mixed Fruit,Beverage,60.6,1.1,159,4.2,E120,"invert sugar, whole grain, almonds, quinoa, stabilizer, preservative, walnuts",Unhealthy,14,Unhealthy
+8905515391681,Horlicks Classic Malt,Beverage,12.9,1.9,22,0.1,E200,"garlic, whey protein, jaggery, corn syrup, glucose",Unhealthy,72,Moderate
+8901007822190,Kellogg's Corn Flakes,Breakfast,5.7,7.8,30,5.7,E110,"salt, peanuts, refined oil, clove, trans fat, maltodextrin",Unhealthy,85,Healthy
+8906271765732,Kellogg's Muesli,Breakfast,10.8,5.2,312,5.0,E100,"fructose, artificial flavor, vitamin, coriander, emulsifier, peanuts",Unhealthy,69,Moderate
+8906146887199,Kellogg's Corn Flakes,Breakfast,7.5,5.5,179,8.5,E150d,"hing, walnuts, corn syrup, glucose, fructose, almonds, preservative, brown rice",Unhealthy,85,Healthy
+8908546602942,OatCrunch Cookies,Snack,1.5,28.6,425,5.3,E211,"sugar, fiber, fructose, walnuts, maltodextrin",Unhealthy,49,Unhealthy
+8908057768289,Bournvita Health Drink,Beverage,88.1,3.0,31,0.0,E120,"glucose, honey, stabilizer, salt, protein, flaxseed, green gram",Healthy,0,Unhealthy
+8903108684246,Tropicana Orange,Beverage,47.3,1.5,124,14.5,E500,"trans fat, ragi, honey, walnuts, flaxseed, turmeric, ginger",Healthy,65,Moderate
+8904925765207,Saffola Oats,Breakfast,11.2,3.3,243,7.2,E202,"protein, maltodextrin, corn syrup, stabilizer, preservative, ragi",Unhealthy,79,Moderate
+8904397707341,BrownBread Slice,Breakfast,30.5,4.8,207,7.0,E200,"trans fat, maltodextrin, ragi, barley, walnuts, emulsifier, natural",Healthy,62,Moderate
+8904676745013,ChocoBite Energy Bar,Snack,1.5,12.2,120,4.4,E202,"artificial color, fructose, walnuts, maltodextrin",Unhealthy,82,Healthy
+8903457674166,Real Mixed Fruit,Beverage,100.0,3.0,165,1.5,E110,"ginger, maltodextrin, quinoa, artificial flavor, honey, garlic",Healthy,0,Unhealthy
+8900273302657,HealthyNut Mix,Snack,35.9,19.6,339,3.4,E120,"preservative, quinoa, emulsifier, fructose, flaxseed, corn syrup, hing",Unhealthy,16,Unhealthy
+8909423220337,Maggi Masala Noodles,Snack,5.8,17.1,225,6.3,None,"chia, artificial flavor, walnuts, corn syrup, fiber, coriander, green gram",Healthy,83,Healthy
+8905375492084,Mother Dairy Dahi,Beverage,22.3,2.8,110,4.8,E211,"fiber, black pepper, chia, maltodextrin, cumin",Healthy,71,Moderate
+8907029852299,Tropicana Orange,Beverage,43.6,2.0,75,5.5,E296,"fructose, artificial color, turmeric, ginger, brown rice",Unhealthy,42,Unhealthy
+8907075538538,Kellogg's Muesli,Breakfast,4.5,0.2,170,8.9,E102,"tamarind, green gram, chia, quinoa, flaxseed, stabilizer, salt, black pepper",Healthy,100,Healthy
+8903375117376,Britannia Marie Gold,Snack,9.3,17.2,365,4.3,E150d,"quinoa, fiber, millets, walnuts, coriander, preservative",Healthy,59,Moderate
+8906262804829,Saffola Oats,Breakfast,23.8,5.2,261,7.9,E110,"turmeric, ragi, refined oil, barley, vitamin",Healthy,66,Moderate
+8907450313450,Parle-G Biscuits,Snack,15.5,9.7,365,3.5,E110,"hing, stabilizer, walnuts, fiber, ragi",Healthy,57,Moderate
+8901878164755,Amul Toned Milk,Beverage,64.7,1.0,109,0.0,E220,"cardamom, whey protein, chia, refined oil, black pepper, trans fat, tamarind, preservative",Unhealthy,1,Unhealthy
+8909019605078,EnergyPlus Drink,Beverage,1.6,1.9,99,0.0,E330,"artificial color, vitamin, hing, cardamom, natural, maltodextrin, clove",Unhealthy,83,Healthy
+8904207581613,Tropicana Orange,Beverage,38.2,0.0,120,0.0,E211,"stabilizer, preservative, fiber, salt, emulsifier",Unhealthy,33,Unhealthy
+8907891518695,ZeroSugar Soda,Beverage,17.1,0.1,46,4.6,E296,"ragi, jaggery, walnuts, almonds, palm oil",Healthy,86,Healthy
+8903610697387,ChocoBite Energy Bar,Snack,0.0,17.4,263,3.2,E100,"stabilizer, jaggery, coriander, green gram, whey protein",Healthy,77,Moderate
+8903554093231,Kellogg's Muesli,Breakfast,7.6,9.2,122,5.8,E296,"stabilizer, quinoa, green gram, black pepper, preservative, maltodextrin, artificial flavor, tamarind",Unhealthy,80,Healthy
+8907126831522,Horlicks Classic Malt,Beverage,42.3,1.9,132,0.0,E211,"palm oil, ginger, artificial color, barley, whey protein",Unhealthy,25,Unhealthy
+8906920832255,Kellogg's Muesli,Breakfast,2.0,6.5,157,9.5,E120,"palm oil, preservative, emulsifier, invert sugar, black pepper, millets",Unhealthy,97,Healthy
+8907099784449,Yakult Probiotic,Beverage,31.8,2.5,10,0.7,E296,"preservative, emulsifier, turmeric, walnuts, almonds",Unhealthy,49,Unhealthy
+8902615178464,Paper Boat Jaljeera,Beverage,63.0,0.0,121,2.7,E211,"clove, quinoa, artificial flavor, tamarind, invert sugar, millets, brown rice",Healthy,15,Unhealthy
+8900717993489,Yakult Probiotic,Beverage,28.3,0.8,79,7.9,E296,"oats, maltodextrin, fiber, coriander, chia, stabilizer, artificial color",Unhealthy,69,Moderate
+8902851071350,SodaPop Drink,Beverage,17.2,1.8,108,1.1,E202,"cardamom, sugar, preservative, vitamin, coriander",Unhealthy,65,Moderate
+8909704285314,Parle-G Biscuits,Snack,22.1,11.5,293,6.3,E220,"garlic, clove, maltodextrin, artificial color, fiber",Unhealthy,52,Moderate
+8907565537532,SodaPop Drink,Beverage,39.8,0.8,80,12.2,None,"brown rice, honey, trans fat, hing, whey protein, artificial color, oats",Healthy,76,Moderate
+8909533244943,Too Yumm Multigrain Chips,Snack,1.6,11.5,547,3.4,E211,"oats, whole grain, honey, garlic, palm oil, cumin, peanuts",Healthy,64,Moderate
+8905729344563,Amul Toned Milk,Beverage,28.0,1.4,112,3.5,E200,"maltodextrin, flaxseed, peanuts, invert sugar, refined oil, quinoa",Unhealthy,56,Moderate
+8900197417859,Kellogg's Muesli,Breakfast,13.3,5.8,237,12.9,E220,"cardamom, salt, invert sugar, oats, protein, millets, coriander",Healthy,96,Healthy
+8906442222551,Britannia Marie Gold,Snack,10.3,7.4,354,9.5,E296,"stabilizer, protein, tamarind, honey, green gram, sugar, artificial flavor",Healthy,84,Healthy
+8909085912590,Tropicana Orange,Beverage,0.0,0.9,65,3.6,E120,"fructose, refined oil, glucose, preservative, chia, whole grain",Unhealthy,96,Healthy
+8901633249082,Britannia Marie Gold,Snack,0.0,32.4,439,4.7,E110,"tamarind, refined oil, clove, turmeric, fiber, flaxseed, peanuts",Healthy,53,Moderate
+8900302955671,Too Yumm Multigrain Chips,Snack,7.4,18.4,392,4.8,E202,"palm oil, flaxseed, whey protein, natural, honey, fructose",Unhealthy,56,Moderate
+8902049238562,Bingo Tedhe Medhe,Snack,19.6,13.8,328,4.3,E200,"garlic, fructose, millets, protein, sugar, invert sugar, almonds, corn syrup",Unhealthy,46,Unhealthy
+8903753480118,BrownBread Slice,Breakfast,15.9,0.6,92,10.8,E110,"garlic, glucose, whey protein, emulsifier, barley, black pepper",Unhealthy,88,Healthy
+8901295865574,Soy Protein Drink,Beverage,7.1,1.3,36,2.2,E102,"coriander, flaxseed, brown rice, protein, salt, glucose, tamarind",Unhealthy,82,Healthy
+8905831180377,Paper Boat Aam Panna,Beverage,39.2,1.6,137,3.0,E102,"fiber, barley, artificial flavor, trans fat, brown rice, maltodextrin, whey protein",Healthy,44,Unhealthy
+8904706335181,Paper Boat Jaljeera,Beverage,27.6,2.0,64,1.9,E202,"quinoa, fructose, jaggery, coriander, whey protein, artificial color, corn syrup",Unhealthy,55,Moderate
+8902238766296,EnergyPlus Drink,Beverage,88.2,3.3,196,1.6,None,"glucose, honey, invert sugar, hing",Unhealthy,0,Unhealthy
+8907823885632,OatCrunch Cookies,Snack,2.8,19.7,509,12.5,E100,"protein, clove, cumin, whole grain, vitamin, emulsifier, ginger",Healthy,81,Healthy
+8908766838415,Too Yumm Multigrain Chips,Snack,33.0,17.9,546,7.9,E500,"fiber, black pepper, ragi, chia, glucose",Healthy,30,Unhealthy
+8906868709615,Quaker Oats,Breakfast,9.6,5.0,325,9.2,E200,"refined oil, brown rice, millets, peanuts",Healthy,88,Healthy
+8906215978543,Bournvita Health Drink,Beverage,50.8,1.8,165,0.6,E296,"clove, garlic, fructose, vitamin, brown rice, protein, artificial flavor, cardamom, trans fat",Healthy,25,Unhealthy
+8907544066927,Bingo Tedhe Medhe,Snack,17.6,23.7,355,3.6,E200,"preservative, stabilizer, quinoa, glucose, oats, trans fat",Unhealthy,36,Unhealthy
+8905011045772,Horlicks Classic Malt,Beverage,80.7,2.7,55,3.7,E200,"trans fat, glucose, oats, coriander, peanuts, protein, artificial color, maltodextrin, walnuts",Healthy,0,Unhealthy
+8909869963379,Parle-G Biscuits,Snack,13.8,14.2,307,6.3,E110,"vitamin, maltodextrin, protein, artificial color, cardamom",Unhealthy,56,Moderate
+8905818953992,Too Yumm Multigrain Chips,Snack,22.8,18.1,668,4.6,E330,"ragi, artificial color, cumin, stabilizer, tamarind, invert sugar, garlic, fructose, peanuts",Unhealthy,21,Unhealthy
+8900595913784,BrownBread Slice,Breakfast,2.8,12.8,161,2.0,E200,"millets, cardamom, hing, clove, walnuts, maltodextrin, protein",Healthy,80,Healthy
+8900454429417,EnergyPlus Drink,Beverage,77.7,1.7,120,2.6,E102,"tamarind, almonds, salt, glucose, quinoa, jaggery",Healthy,0,Unhealthy
+8900894201386,Yakult Probiotic,Beverage,35.1,2.8,10,0.0,E150d,"green gram, quinoa, glucose, black pepper, ragi, brown rice",Healthy,48,Unhealthy
+8904527741775,HealthyNut Mix,Snack,17.6,16.5,493,9.6,E100,"hing, cumin, salt, flaxseed, palm oil, artificial color",Unhealthy,51,Moderate
+8909841380112,Baked Veggie Chips,Snack,16.4,16.9,338,1.0,E120,"artificial color, whey protein, tamarind, artificial flavor, ginger, fiber, trans fat",Unhealthy,39,Unhealthy
+8902659555296,Maggi Masala Noodles,Snack,11.2,20.0,364,10.6,E102,"artificial flavor, emulsifier, artificial color, cumin, vitamin, green gram",Unhealthy,61,Moderate
+8908438347997,Real Mixed Fruit,Beverage,89.2,0.4,72,0.0,E500,"turmeric, fructose, natural, palm oil, barley",Unhealthy,0,Unhealthy
+8904720245854,Amul Lassi,Beverage,39.5,1.5,84,0.0,E296,"flaxseed, hing, cardamom, preservative, garlic, whey protein, vitamin",Healthy,42,Unhealthy
+8906474688457,Kellogg's Corn Flakes,Breakfast,22.2,13.2,288,5.0,E330,"glucose, salt, natural, millets, maltodextrin",Healthy,55,Moderate
+8901576920269,Amul Toned Milk,Beverage,54.1,0.0,10,0.2,E220,"protein, whey protein, preservative, maltodextrin, turmeric",Unhealthy,21,Unhealthy
+8903438596102,Paper Boat Jaljeera,Beverage,47.7,1.8,143,2.0,E330,"honey, oats, fructose, peanuts, almonds, invert sugar, fiber",Healthy,33,Unhealthy
+8902852068611,Amul Toned Milk,Beverage,77.7,0.9,144,2.2,E150d,"artificial color, refined oil, ragi, trans fat, oats, palm oil, invert sugar",Unhealthy,0,Unhealthy
+8908608577360,PowerBite Protein Bar,Snack,12.4,5.0,388,12.7,E110,"refined oil, trans fat, salt, barley, emulsifier",Unhealthy,79,Moderate
+8901637328229,OatCrunch Cookies,Snack,20.9,26.1,404,4.4,E102,"trans fat, artificial flavor, tamarind, jaggery, cardamom",Unhealthy,25,Unhealthy
+8905492357232,Soy Protein Drink,Beverage,33.1,1.0,10,3.7,E200,"garlic, oats, invert sugar, chia, flaxseed, natural, green gram",Healthy,64,Moderate
+8905508165068,EnergyPlus Drink,Beverage,0.0,0.0,56,2.8,E330,"maltodextrin, cardamom, sugar, millets, black pepper, hing",Unhealthy,96,Healthy
+8909413916072,BrownBread Slice,Breakfast,1.7,8.5,252,5.3,E102,"invert sugar, refined oil, millets, fructose, peanuts, jaggery, coriander, walnuts, flaxseed",Healthy,86,Healthy
+8907945090193,ZeroSugar Soda,Beverage,1.2,0.0,61,0.1,E202,"glucose, preservative, vitamin, refined oil, ginger, tamarind, black pepper, natural",Unhealthy,87,Healthy
+8901100868366,OatCrunch Cookies,Snack,19.5,20.0,453,5.3,E220,"whey protein, millets, honey, preservative, emulsifier",Unhealthy,36,Unhealthy
+8900091466349,Real Mixed Fruit,Beverage,43.4,0.0,10,7.8,E150d,"garlic, invert sugar, fructose, corn syrup, millets",Unhealthy,50,Moderate
+8909989498928,EnergyPlus Drink,Beverage,69.4,1.6,162,4.9,E110,"emulsifier, salt, black pepper, cardamom, millets, whole grain, hing, refined oil",Unhealthy,0,Unhealthy
+8906378240326,Kellogg's Muesli,Breakfast,20.2,6.4,409,10.8,E296,"hing, jaggery, salt, sugar, walnuts, quinoa, refined oil, emulsifier",Unhealthy,64,Moderate
+8900703645358,Quaker Oats,Breakfast,17.4,7.5,300,6.2,E150d,"whole grain, turmeric, preservative, cumin",Unhealthy,58,Moderate
+8905788076941,Bingo Tedhe Medhe,Snack,3.7,30.2,517,6.0,E150d,"maltodextrin, palm oil, ginger, coriander, flaxseed, brown rice",Unhealthy,42,Unhealthy
+8903524327328,Kellogg's Muesli,Breakfast,17.6,9.3,192,7.0,E102,"emulsifier, stabilizer, flaxseed, cumin, clove, barley",Unhealthy,63,Moderate
+8902080368529,Granola Delight,Breakfast,17.7,6.3,391,7.6,E500,"cumin, garlic, green gram, palm oil, oats, corn syrup, invert sugar",Healthy,69,Moderate
+8906818675790,Paper Boat Aam Panna,Beverage,68.1,2.6,100,1.0,E102,"natural, whey protein, honey, fructose, artificial flavor, trans fat, stabilizer",Unhealthy,0,Unhealthy
+8900025742368,Bingo Tedhe Medhe,Snack,27.0,17.9,248,22.4,E220,"stabilizer, ragi, oats, green gram, protein, garlic, cardamom, tamarind",Healthy,88,Healthy
+8900572014031,ZeroSugar Soda,Beverage,69.8,0.8,104,0.0,E200,"stabilizer, peanuts, hing, ragi, palm oil, natural, whole grain",Healthy,3,Unhealthy
+8900837652502,Paper Boat Jaljeera,Beverage,42.4,1.3,95,5.1,E330,"ragi, natural, refined oil, chia, tamarind, coriander, hing",Healthy,51,Moderate
+8903493195158,Mother Dairy Dahi,Beverage,37.3,0.0,10,0.1,E296,"natural, whole grain, clove, ginger, chia",Healthy,51,Moderate
+8909503072125,Kellogg's Muesli,Breakfast,11.5,5.6,386,3.6,E330,"whey protein, fructose, stabilizer, whole grain, maltodextrin",Healthy,68,Moderate
+8903537457570,Maggi Masala Noodles,Snack,25.1,16.2,292,12.3,E100,"stabilizer, palm oil, garlic, coriander, salt, vitamin, glucose, flaxseed",Unhealthy,58,Moderate
+8901846657216,Kurkure Masala Munch,Snack,7.1,17.1,529,6.6,E102,"millets, preservative, black pepper, glucose, corn syrup",Unhealthy,52,Moderate
+8902032096965,HealthyNut Mix,Snack,10.3,31.7,288,3.5,E220,"fructose, clove, jaggery, hing, honey",Unhealthy,40,Unhealthy
+8905690300544,Paper Boat Aam Panna,Beverage,29.2,1.3,10,12.5,E202,"fructose, preservative, peanuts, clove, quinoa, coriander, artificial flavor, honey, tamarind",Unhealthy,82,Healthy
+8903516126206,EnergyPlus Drink,Beverage,65.8,0.0,48,0.9,E120,"jaggery, sugar, fiber, oats, fructose, barley, salt, quinoa",Healthy,14,Unhealthy
+8909640023780,Mother Dairy Dahi,Beverage,2.9,0.0,100,4.1,E211,"artificial color, fructose, vitamin, turmeric, walnuts, palm oil, flaxseed",Unhealthy,90,Healthy
+8900631212397,Lays Classic Salted,Snack,0.4,5.0,291,3.2,E220,"ginger, maltodextrin, whey protein, emulsifier, invert sugar, artificial flavor, almonds, honey",Unhealthy,79,Moderate
+8905260096189,ChocoBite Energy Bar,Snack,0.0,19.9,248,7.0,E200,"corn syrup, clove, emulsifier, artificial flavor, honey, salt, cumin, artificial color, coriander",Unhealthy,76,Moderate
+8907047479108,ZeroSugar Soda,Beverage,26.3,1.1,34,8.6,E220,"turmeric, black pepper, fructose, refined oil, maltodextrin, jaggery, ginger",Healthy,83,Healthy
+8901767627115,Amul Lassi,Beverage,1.5,0.3,55,8.2,E102,"stabilizer, trans fat, honey, sugar, quinoa",Healthy,100,Healthy
+8904384272615,Parle-G Biscuits,Snack,23.2,19.3,421,14.2,E100,"artificial color, protein, invert sugar, green gram, jaggery",Healthy,63,Moderate
+8907860451238,Bingo Tedhe Medhe,Snack,6.1,27.7,309,2.8,E200,"coriander, fiber, tamarind, emulsifier, whey protein, almonds",Healthy,55,Moderate
+8906290007144,EnergyPlus Drink,Beverage,39.9,1.3,172,0.4,E330,"walnuts, salt, oats, brown rice, honey, green gram",Healthy,39,Unhealthy
+8906435262809,PowerBite Protein Bar,Snack,22.0,15.4,573,4.0,E220,"barley, maltodextrin, whey protein, peanuts, turmeric, vitamin, almonds, tamarind",Healthy,36,Unhealthy
+8907987028328,PowerBite Protein Bar,Snack,8.4,17.6,440,9.0,E150d,"flaxseed, vitamin, millets, garlic, honey, quinoa, emulsifier, artificial flavor, coriander",Healthy,68,Moderate
+8909193724005,Real Mixed Fruit,Beverage,27.1,0.8,67,2.1,E211,"ginger, whey protein, stabilizer, millets, fructose",Healthy,62,Moderate
+8907595073826,Tropicana Orange,Beverage,100.0,1.4,83,0.0,E330,"maltodextrin, ragi, palm oil, artificial color, flaxseed",Unhealthy,0,Unhealthy
+8908023609667,Sunfeast Dark Fantasy,Snack,0.0,13.9,212,13.7,E100,"emulsifier, protein, fructose, maltodextrin, trans fat, corn syrup, ragi",Unhealthy,100,Healthy
+8903054206815,Kellogg's Muesli,Breakfast,21.3,4.0,262,5.6,E150d,"artificial color, sugar, cumin, garlic, turmeric, brown rice",Unhealthy,57,Moderate
+8904518088572,Kellogg's Corn Flakes,Breakfast,30.5,4.3,240,7.2,E296,"hing, fiber, clove, chia, whole grain, garlic, flaxseed",Healthy,61,Moderate
+8905069958694,SodaPop Drink,Beverage,13.5,1.7,111,1.4,E120,"barley, almonds, cumin, ginger, fructose, stabilizer, black pepper, sugar, preservative",Unhealthy,70,Moderate
+8904293851805,Oreo Vanilla,Snack,25.1,7.6,578,3.6,E200,"preservative, clove, corn syrup, whole grain",Unhealthy,31,Unhealthy
+8907598173196,Soy Protein Drink,Beverage,79.9,1.8,79,2.3,E110,"maltodextrin, glucose, emulsifier, barley, coriander, corn syrup, jaggery, tamarind",Unhealthy,0,Unhealthy
+8900619610571,Kurkure Masala Munch,Snack,1.1,25.0,465,1.0,None,"emulsifier, ragi, walnuts, artificial color, barley, sugar",Healthy,56,Moderate
+8900037350054,Quaker Oats,Breakfast,10.7,3.4,200,11.7,E110,"ragi, oats, chia, trans fat, coriander, salt",Healthy,97,Healthy
+8900780914210,Soy Protein Drink,Beverage,0.0,0.9,16,7.9,E202,"artificial flavor, maltodextrin, chia, invert sugar",Unhealthy,100,Healthy
+8907222884233,EnergyPlus Drink,Beverage,49.3,0.9,194,3.5,E211,"whey protein, emulsifier, cardamom, artificial color, turmeric, chia, quinoa, coriander",Unhealthy,22,Unhealthy
+8902712432397,Sunfeast Dark Fantasy,Snack,21.5,22.3,528,9.5,E211,"artificial color, artificial flavor, jaggery, preservative, invert sugar",Unhealthy,35,Unhealthy
+8909911501271,Haldiram Bhujia,Snack,15.2,7.5,542,1.2,E330,"invert sugar, trans fat, preservative, maltodextrin, brown rice, refined oil",Unhealthy,40,Unhealthy
+8900530545722,Saffola Oats,Breakfast,20.8,4.0,369,10.6,E150d,"stabilizer, sugar, artificial flavor, tamarind, fiber, invert sugar, chia",Healthy,72,Moderate
+8900639908160,Britannia Marie Gold,Snack,7.1,8.8,419,7.9,E100,"artificial flavor, maltodextrin, brown rice, trans fat, hing",Unhealthy,72,Moderate
+8908731748684,Amul Lassi,Beverage,99.5,0.7,62,1.3,None,"fructose, artificial color, chia, emulsifier, jaggery, vitamin, trans fat",Unhealthy,0,Unhealthy
+8903937302799,Granola Delight,Breakfast,11.2,6.7,144,8.6,E296,"palm oil, fructose, green gram, brown rice, sugar, corn syrup",Unhealthy,84,Healthy
+8909060552128,Saffola Oats,Breakfast,4.9,7.4,143,5.5,E100,"barley, glucose, jaggery, chia, quinoa, oats",Healthy,92,Healthy
+8903184177557,Sunfeast Dark Fantasy,Snack,24.0,19.8,323,5.2,E100,"hing, turmeric, black pepper, walnuts, glucose, emulsifier",Unhealthy,37,Unhealthy
+8904137825212,Saffola Oats,Breakfast,2.5,9.2,351,7.6,E220,"glucose, turmeric, artificial color, natural, refined oil, salt, green gram",Unhealthy,80,Healthy
+8906497447375,Tropicana Orange,Beverage,72.1,2.4,90,0.0,E330,"trans fat, ragi, ginger, corn syrup, palm oil",Unhealthy,0,Unhealthy
+8901226056733,Paper Boat Aam Panna,Beverage,13.5,0.9,36,1.6,E296,"almonds, black pepper, invert sugar, flaxseed, honey, ginger, fructose",Healthy,83,Healthy
+8904773115920,Kellogg's Corn Flakes,Breakfast,14.3,0.4,114,11.3,E110,"emulsifier, almonds, walnuts, green gram, jaggery, stabilizer, glucose, chia",Healthy,99,Healthy
+8902794530610,Mother Dairy Dahi,Beverage,61.0,0.0,68,10.5,E296,"maltodextrin, quinoa, black pepper, flaxseed, artificial flavor",Unhealthy,34,Unhealthy
+8904301685927,BrownBread Slice,Breakfast,22.0,7.2,313,3.6,None,"honey, clove, glucose, invert sugar, whole grain, salt, natural",Healthy,61,Moderate
+8905499962343,Granola Delight,Breakfast,14.0,8.7,212,6.7,E150d,"natural, preservative, vitamin, trans fat, honey, millets",Healthy,75,Moderate
+8904960153053,Britannia Marie Gold,Snack,10.3,15.7,389,21.3,E120,"natural, trans fat, preservative, coriander, walnuts, barley",Healthy,100,Healthy
+8903591882274,Mother Dairy Dahi,Beverage,76.5,1.3,196,0.0,E296,"barley, preservative, emulsifier, honey, clove",Unhealthy,0,Unhealthy
+8900303617363,Kellogg's Corn Flakes,Breakfast,11.9,11.5,267,9.2,E200,"ragi, chia, fiber, honey, salt",Healthy,81,Healthy
+8902266906268,Yakult Probiotic,Beverage,61.3,1.6,96,0.2,E100,"barley, whole grain, jaggery, millets, palm oil, vitamin, artificial color, preservative",Healthy,14,Unhealthy
+8902193180542,Maggi Masala Noodles,Snack,15.0,21.1,502,9.3,E100,"maltodextrin, corn syrup, ginger, trans fat, whey protein",Unhealthy,48,Unhealthy
+8900724308043,Kellogg's Corn Flakes,Breakfast,22.3,7.7,455,9.1,E120,"fructose, preservative, corn syrup, almonds, black pepper, brown rice, coriander",Unhealthy,54,Moderate
+8907879432746,Paper Boat Jaljeera,Beverage,0.0,3.6,15,4.5,E120,"chia, hing, cardamom, palm oil, corn syrup, artificial color",Unhealthy,98,Healthy
+8908841683830,Bingo Tedhe Medhe,Snack,22.8,35.8,405,4.5,E110,"quinoa, whole grain, hing, jaggery, cumin, artificial flavor, peanuts",Unhealthy,13,Unhealthy
+8905924968662,Saffola Oats,Breakfast,13.4,4.6,196,9.9,E211,"jaggery, invert sugar, black pepper, chia, cardamom, whole grain, ginger",Healthy,89,Healthy
+8900159572764,Horlicks Classic Malt,Beverage,100.0,1.3,105,1.4,E296,"honey, flaxseed, garlic, protein, whole grain, maltodextrin, almonds, refined oil",Healthy,0,Unhealthy
+8909424500963,Real Mixed Fruit,Beverage,28.0,1.8,23,11.1,E202,"jaggery, peanuts, natural, whey protein, flaxseed",Healthy,87,Healthy
+8908519281255,Real Mixed Fruit,Beverage,57.6,1.2,10,0.3,E100,"walnuts, fructose, stabilizer, glucose, turmeric, almonds, black pepper",Unhealthy,16,Unhealthy
+8906837590637,Haldiram Bhujia,Snack,26.1,22.3,304,4.9,E296,"artificial color, flaxseed, millets, whole grain, chia, refined oil, black pepper, hing, maltodextrin",Healthy,40,Unhealthy
+8909572152359,Oreo Vanilla,Snack,7.4,26.8,263,15.3,E150d,"almonds, artificial flavor, maltodextrin, garlic, stabilizer, fructose, salt",Unhealthy,76,Moderate
+8905578104385,Yakult Probiotic,Beverage,36.6,1.2,96,3.8,E330,"maltodextrin, protein, glucose, preservative, flaxseed, green gram",Unhealthy,47,Unhealthy
+8902019325557,Bournvita Health Drink,Beverage,46.2,1.8,120,6.2,E200,"clove, hing, flaxseed, garlic, oats, whole grain, sugar",Healthy,46,Unhealthy
+8902885212158,Lays Classic Salted,Snack,0.0,18.2,682,1.0,E150d,"hing, chia, black pepper, garlic, invert sugar, glucose",Unhealthy,39,Unhealthy
+8900929895645,Real Mixed Fruit,Beverage,52.0,1.2,130,10.5,E100,"refined oil, artificial color, quinoa, vitamin, sugar, chia, artificial flavor",Unhealthy,41,Unhealthy
+8903906641845,HealthyNut Mix,Snack,6.7,16.2,553,6.7,E220,"ragi, stabilizer, vitamin, sugar, brown rice",Healthy,63,Moderate
+8900400082250,Kellogg's Muesli,Breakfast,15.7,4.6,127,9.6,E211,"artificial color, ginger, fiber, millets",Healthy,88,Healthy
+8908646840677,BrownBread Slice,Breakfast,6.9,0.0,297,15.1,E110,"artificial color, refined oil, protein, whole grain, stabilizer, sugar, vitamin",Unhealthy,100,Healthy
+8900577403087,Bingo Tedhe Medhe,Snack,22.2,5.0,209,1.3,E200,"peanuts, fructose, barley, palm oil, green gram, protein, whey protein",Healthy,58,Moderate
+8902805095111,ChocoBite Energy Bar,Snack,8.0,18.3,326,5.6,E220,"oats, palm oil, tamarind",Unhealthy,60,Moderate
+8903916629953,Kellogg's Muesli,Breakfast,4.1,1.2,307,6.0,E110,"vitamin, invert sugar, cardamom, fiber, turmeric, cumin",Healthy,89,Healthy
+8909277407894,Tropicana Orange,Beverage,38.0,0.0,149,0.1,E330,"ragi, chia, fructose, clove, quinoa, whey protein, turmeric",Unhealthy,35,Unhealthy
+8907621880931,Saffola Oats,Breakfast,8.9,7.0,311,8.0,E120,"corn syrup, oats, vitamin, fructose, stabilizer, whole grain",Unhealthy,76,Moderate
+8904594958698,BrownBread Slice,Breakfast,8.1,9.2,199,8.3,E211,"artificial flavor, coriander, emulsifier, salt, maltodextrin, clove, green gram",Unhealthy,79,Moderate
+8900105030738,Kurkure Masala Munch,Snack,4.8,16.3,318,3.5,E330,"palm oil, sugar, oats, stabilizer, tamarind, salt, refined oil",Unhealthy,61,Moderate
+8907577215617,Horlicks Classic Malt,Beverage,100.0,0.9,54,0.0,E102,"walnuts, black pepper, invert sugar, trans fat, honey, emulsifier, green gram",Unhealthy,0,Unhealthy
+8905270496786,Oreo Vanilla,Snack,12.4,7.1,432,1.0,E330,"cardamom, almonds, green gram, ginger, salt, fructose, coriander, stabilizer",Unhealthy,49,Unhealthy
+8907135931819,BrownBread Slice,Breakfast,15.4,2.7,175,7.5,E330,"cumin, almonds, glucose, salt, peanuts, barley",Healthy,86,Healthy
+8903620052365,Parle-G Biscuits,Snack,7.1,9.2,579,13.9,E150d,"oats, palm oil, maltodextrin, cardamom, garlic, peanuts",Unhealthy,74,Moderate
+8908640943956,Haldiram Bhujia,Snack,23.2,20.1,860,1.0,E330,"tamarind, palm oil, almonds, vitamin, barley, fiber, whey protein",Healthy,9,Unhealthy
+8905844333983,ZeroSugar Soda,Beverage,76.0,0.2,100,0.0,E102,"whole grain, artificial flavor, glucose, vitamin, tamarind, artificial color, whey protein",Unhealthy,0,Unhealthy
+8902133462280,Yakult Probiotic,Beverage,62.4,0.3,66,1.1,E211,"invert sugar, quinoa, stabilizer, peanuts, refined oil, cumin, salt",Unhealthy,6,Unhealthy
+8907025518685,ChocoBite Energy Bar,Snack,35.7,15.2,602,2.4,E220,"millets, protein, black pepper, artificial color, jaggery, garlic",Healthy,13,Unhealthy
+8907356774373,ChocoBite Energy Bar,Snack,12.2,22.5,455,1.0,E330,"coriander, hing, maltodextrin, sugar, honey, black pepper, preservative, whey protein",Unhealthy,33,Unhealthy
+8906582306702,HealthyNut Mix,Snack,18.8,29.9,286,5.5,E500,"maltodextrin, honey, flaxseed, emulsifier, turmeric, ragi, walnuts, whole grain",Healthy,44,Unhealthy
+8907017914991,Sunfeast Dark Fantasy,Snack,14.0,11.8,411,3.0,E102,"millets, ginger, coriander, peanuts, artificial flavor",Healthy,53,Moderate
+8909720119776,Saffola Oats,Breakfast,11.0,9.1,329,8.2,E200,"hing, coriander, chia, almonds, quinoa, green gram, preservative",Healthy,79,Moderate
+8905093069086,Baked Veggie Chips,Snack,20.5,20.5,411,2.1,E110,"natural, honey, palm oil, sugar, invert sugar, maltodextrin, cumin, turmeric, cardamom",Unhealthy,26,Unhealthy
+8905145010499,ZeroSugar Soda,Beverage,4.4,2.1,80,3.4,E211,"emulsifier, refined oil, vitamin, stabilizer, sugar",Unhealthy,85,Healthy
+8906066919868,Kurkure Masala Munch,Snack,22.4,28.6,550,1.0,E220,"sugar, salt, refined oil, oats, preservative",Unhealthy,9,Unhealthy
+8909795879516,Lays Classic Salted,Snack,16.5,21.0,548,6.6,E150d,"whole grain, black pepper, coriander, refined oil, preservative, glucose, oats, walnuts, corn syrup",Unhealthy,35,Unhealthy
+8902152634830,Bournvita Health Drink,Beverage,23.2,1.6,141,4.2,E500,"corn syrup, brown rice, preservative, trans fat, natural",Unhealthy,63,Moderate
+8907870858411,ZeroSugar Soda,Beverage,30.6,1.1,100,12.9,E202,"ginger, garlic, millets, palm oil, invert sugar, quinoa, preservative",Healthy,85,Healthy
+8905227958714,Granola Delight,Breakfast,13.9,5.8,30,9.1,E202,"fructose, maltodextrin, chia, walnuts, refined oil, invert sugar",Unhealthy,88,Healthy
+8904380173096,SodaPop Drink,Beverage,11.5,1.0,10,6.4,E110,"preservative, black pepper, stabilizer, glucose, turmeric",Unhealthy,87,Healthy
+8905843472781,OatCrunch Cookies,Snack,26.2,17.0,527,3.3,E200,"trans fat, fructose, ragi, quinoa, turmeric, vitamin, corn syrup, walnuts, artificial flavor",Unhealthy,22,Unhealthy
+8903432433812,Parle-G Biscuits,Snack,18.0,15.0,480,1.0,E200,"tamarind, glucose, sugar, green gram, barley, whey protein, hing",Unhealthy,32,Unhealthy
+8908237468141,Kellogg's Corn Flakes,Breakfast,10.1,8.5,223,8.4,E202,"corn syrup, sugar, vitamin, ginger, coriander, natural, peanuts, garlic, preservative",Unhealthy,79,Moderate
+8903111736125,OatCrunch Cookies,Snack,3.6,17.6,235,21.0,E202,"palm oil, cardamom, ginger, ragi",Unhealthy,100,Healthy
+8908731803602,Paper Boat Jaljeera,Beverage,57.4,0.2,103,0.0,E102,"turmeric, brown rice, peanuts, black pepper, quinoa, hing, salt, oats, walnuts",Healthy,17,Unhealthy
+8905102579408,Amul Toned Milk,Beverage,77.8,0.8,199,5.0,E150d,"turmeric, salt, walnuts, emulsifier, quinoa, millets",Unhealthy,0,Unhealthy
+8908216207802,Paper Boat Jaljeera,Beverage,7.0,0.0,32,1.9,E211,"protein, stabilizer, fructose, ginger, honey, garlic, emulsifier, whey protein",Unhealthy,82,Healthy
+8905388795302,Soy Protein Drink,Beverage,57.8,0.0,54,4.0,E120,"cumin, artificial color, sugar, trans fat, garlic, brown rice, fructose",Unhealthy,23,Unhealthy
+8900076419712,PowerBite Protein Bar,Snack,13.5,5.0,319,4.9,E150d,"peanuts, sugar, millets, quinoa, jaggery, emulsifier",Healthy,70,Moderate
+8902627202150,Saffola Oats,Breakfast,26.3,8.4,225,6.3,E200,"chia, stabilizer, salt, fiber, emulsifier, corn syrup",Unhealthy,53,Moderate
+8901396080642,Real Mixed Fruit,Beverage,48.9,0.6,44,2.0,None,"cumin, millets, clove, coriander, flaxseed, glucose",Healthy,42,Unhealthy
+8906378161100,Maggi Masala Noodles,Snack,10.8,22.8,371,5.3,E202,"artificial color, artificial flavor, tamarind, corn syrup, cumin",Unhealthy,49,Unhealthy
+8907866713253,Oreo Vanilla,Snack,4.6,21.5,582,5.8,E120,"whey protein, glucose, honey, fructose, salt, peanuts, protein, artificial flavor",Unhealthy,49,Unhealthy
+8901163706693,Britannia Marie Gold,Snack,4.1,19.4,361,4.4,E220,"millets, green gram, preservative, refined oil, clove, cumin, whey protein",Healthy,67,Moderate
+8905537485206,Granola Delight,Breakfast,5.0,2.4,38,5.6,E500,"maltodextrin, artificial color, sugar, turmeric, corn syrup",Unhealthy,94,Healthy
+8905438688342,Soy Protein Drink,Beverage,41.4,0.0,25,1.8,E100,"whey protein, jaggery, sugar, fiber, turmeric, millets, fructose",Healthy,49,Unhealthy
+8900244586492,Quaker Oats,Breakfast,5.1,6.4,30,9.3,E150d,"artificial color, salt, ragi, artificial flavor, barley, maltodextrin, jaggery",Unhealthy,96,Healthy
+8907977875545,BrownBread Slice,Breakfast,5.0,3.8,235,9.1,E211,"salt, artificial color, chia, millets, cumin",Unhealthy,88,Healthy
+8905794608774,Parle-G Biscuits,Snack,13.2,15.8,302,5.9,E296,"clove, maltodextrin, garlic, artificial flavor, sugar, stabilizer, flaxseed, oats",Unhealthy,58,Moderate
+8904014976229,Britannia Marie Gold,Snack,2.1,11.6,401,5.5,E220,"ragi, honey, brown rice, trans fat, preservative, garlic, whey protein, invert sugar, whole grain",Healthy,78,Moderate
+8904930787102,Horlicks Classic Malt,Beverage,29.2,0.4,152,0.0,E500,"chia, oats, fiber, tamarind, millets, coriander, emulsifier, cardamom, whey protein",Healthy,54,Moderate
+8906095963640,Britannia Marie Gold,Snack,0.0,18.7,406,4.5,E500,"trans fat, sugar, natural, stabilizer, honey",Unhealthy,63,Moderate
+8909860174088,Kellogg's Corn Flakes,Breakfast,18.8,3.5,199,8.5,E211,"artificial color, barley, artificial flavor, garlic, refined oil",Unhealthy,71,Moderate
+8901244661285,Real Mixed Fruit,Beverage,31.3,1.0,171,3.1,E100,"flaxseed, honey, chia, palm oil, jaggery",Healthy,57,Moderate
+8901269839167,Britannia Marie Gold,Snack,3.3,18.7,234,6.1,E202,"stabilizer, flaxseed, artificial color, salt, corn syrup, palm oil",Unhealthy,72,Moderate
+8901993230755,Amul Toned Milk,Beverage,29.7,2.8,98,9.9,E330,"trans fat, honey, natural, palm oil, tamarind",Unhealthy,69,Moderate
+8902701966789,Britannia Marie Gold,Snack,11.2,21.1,723,5.7,E120,"chia, emulsifier, artificial flavor",Unhealthy,33,Unhealthy
+8907342852747,Tropicana Orange,Beverage,21.4,2.7,76,4.0,E296,"artificial flavor, walnuts",Unhealthy,67,Moderate
+8901359246595,Horlicks Classic Malt,Beverage,51.2,2.0,108,0.0,E120,"brown rice, almonds, fructose, vitamin, quinoa",Healthy,26,Unhealthy
+8904166774218,Tropicana Orange,Beverage,45.6,2.0,56,11.1,None,"peanuts, clove, green gram, corn syrup, vitamin, garlic",Healthy,66,Moderate
+8904307000389,OatCrunch Cookies,Snack,9.7,20.3,505,17.8,E150d,"honey, palm oil, quinoa, ginger, refined oil, preservative, corn syrup",Unhealthy,73,Moderate
+8909604311223,Amul Lassi,Beverage,64.2,1.4,77,11.4,E202,"tamarind, coriander, oats, invert sugar, clove, maltodextrin",Unhealthy,30,Unhealthy
+8906620638356,Too Yumm Multigrain Chips,Snack,13.8,23.6,80,5.2,E202,"oats, flaxseed, stabilizer, garlic",Healthy,66,Moderate
+8909093862568,Lays Classic Salted,Snack,42.5,20.1,343,7.8,E102,"corn syrup, walnuts, clove, palm oil, invert sugar",Unhealthy,15,Unhealthy
+8904690390432,Baked Veggie Chips,Snack,14.5,23.7,435,4.3,E220,"tamarind, millets, oats, honey, invert sugar, cumin",Healthy,46,Unhealthy
+8908568151924,Kellogg's Corn Flakes,Breakfast,0.0,4.7,177,7.4,E500,"whey protein, coriander, hing, brown rice, stabilizer, cardamom",Healthy,100,Healthy
+8902508354236,EnergyPlus Drink,Beverage,89.0,0.4,98,0.0,E102,"cumin, protein, whey protein, stabilizer",Healthy,0,Unhealthy
+8905335716486,Baked Veggie Chips,Snack,14.3,28.5,499,4.4,E220,"sugar, cardamom, garlic, almonds, vitamin, brown rice, maltodextrin",Healthy,38,Unhealthy
+8902394992914,Too Yumm Multigrain Chips,Snack,5.6,14.4,226,6.9,E100,"ginger, tamarind, almonds, honey, palm oil, whey protein, millets",Healthy,83,Healthy
+8905787020363,Bournvita Health Drink,Beverage,0.0,2.3,73,3.5,E500,"green gram, fiber, cardamom, cumin, hing",Healthy,100,Healthy
+8908286125856,Kurkure Masala Munch,Snack,14.3,6.7,226,8.4,E110,"whey protein, maltodextrin, palm oil, flaxseed, trans fat",Unhealthy,72,Moderate
+8902478743792,Horlicks Classic Malt,Beverage,40.0,3.5,119,2.0,E200,"cardamom, corn syrup, refined oil, salt, chia, glucose, flaxseed",Unhealthy,35,Unhealthy
+8906667662836,Haldiram Bhujia,Snack,0.0,14.1,326,3.6,E200,"chia, cardamom, quinoa, fructose, peanuts, oats, preservative",Healthy,78,Moderate
+8906126473470,Kellogg's Muesli,Breakfast,17.3,11.3,294,7.2,E100,"palm oil, fructose, invert sugar, whole grain, trans fat, artificial color",Unhealthy,60,Moderate
+8902339889275,Baked Veggie Chips,Snack,0.0,22.0,528,3.8,E102,"walnuts, garlic, stabilizer, whey protein, flaxseed",Healthy,57,Moderate
+8903358792373,Bingo Tedhe Medhe,Snack,0.0,18.3,217,7.2,E150d,"quinoa, sugar, invert sugar, cumin",Unhealthy,77,Moderate
+8906486072117,Parle-G Biscuits,Snack,6.2,19.3,785,7.6,E150d,"trans fat, artificial color, glucose, peanuts, fructose",Unhealthy,40,Unhealthy
+8904791333970,ZeroSugar Soda,Beverage,46.8,4.1,42,2.5,E110,"emulsifier, artificial flavor, brown rice, fructose, almonds, sugar, corn syrup, cardamom, ginger",Unhealthy,28,Unhealthy
+8908816381501,Maggi Masala Noodles,Snack,21.0,24.3,200,1.0,E200,"ragi, artificial color, garlic, peanuts, natural, stabilizer",Unhealthy,32,Unhealthy
+8900212728066,Lays Classic Salted,Snack,10.8,5.7,605,3.0,E100,"glucose, vitamin, ragi, stabilizer, refined oil, oats, protein",Healthy,57,Moderate
+8904666300150,Yakult Probiotic,Beverage,22.4,0.0,154,0.0,E120,"clove, fiber, sugar, refined oil, palm oil, turmeric, emulsifier",Unhealthy,55,Moderate
+8901923604384,Paper Boat Aam Panna,Beverage,15.7,3.1,69,5.0,E100,"natural, protein, corn syrup, turmeric, stabilizer",Unhealthy,77,Moderate
+8906037965052,Lays Classic Salted,Snack,9.8,19.3,345,5.1,E220,"turmeric, jaggery, whole grain, barley, natural, black pepper, refined oil",Healthy,62,Moderate
+8906560916898,Amul Lassi,Beverage,66.5,2.5,10,0.6,E200,"ginger, turmeric, honey, coriander, stabilizer",Unhealthy,4,Unhealthy
+8907465876557,EnergyPlus Drink,Beverage,33.8,0.4,52,11.2,E202,"stabilizer, turmeric, glucose, emulsifier, salt",Unhealthy,71,Moderate
+8908480336536,Oreo Vanilla,Snack,26.3,23.8,257,20.7,E330,"vitamin, barley, garlic, clove, honey, maltodextrin, glucose",Healthy,78,Moderate
+8904443657311,Kellogg's Muesli,Breakfast,7.8,5.7,252,8.9,E500,"protein, emulsifier, ginger",Unhealthy,85,Healthy
+8908806233921,Britannia Marie Gold,Snack,11.7,19.3,254,10.2,E150d,"flaxseed, black pepper, quinoa, glucose, cumin, refined oil, turmeric",Unhealthy,66,Moderate
+8908177489535,BrownBread Slice,Breakfast,15.8,2.5,78,10.3,E110,"ragi, tamarind, emulsifier, black pepper",Unhealthy,86,Healthy
+8901012199842,Bournvita Health Drink,Beverage,63.4,1.8,162,0.6,E200,"fructose, ragi, salt, walnuts, preservative",Unhealthy,1,Unhealthy
+8907032253470,Quaker Oats,Breakfast,13.7,6.0,142,9.0,None,"protein, garlic, jaggery, clove, walnuts, maltodextrin",Healthy,94,Healthy
+8906803584699,Amul Lassi,Beverage,65.3,0.7,222,1.3,E120,"honey, corn syrup, ragi, hing, oats, coriander, walnuts, invert sugar, vitamin",Healthy,6,Unhealthy
+8906047573361,PowerBite Protein Bar,Snack,21.6,16.4,335,5.2,E100,"fructose, chia, artificial color, black pepper, oats, corn syrup",Unhealthy,43,Unhealthy
+8909903373366,Paper Boat Aam Panna,Beverage,31.8,0.6,116,3.4,E102,"chia, fructose, artificial color, peanuts, protein, stabilizer, green gram",Healthy,57,Moderate
+8906436442624,Parle-G Biscuits,Snack,3.0,19.7,486,1.9,None,"whey protein, artificial color, salt, green gram",Unhealthy,52,Moderate
+8901072497784,Paper Boat Aam Panna,Beverage,82.4,1.2,39,0.0,E200,"honey, cumin, refined oil, millets, chia, almonds",Healthy,0,Unhealthy
+8909393720175,Britannia Marie Gold,Snack,0.0,13.3,622,12.3,E110,"maltodextrin, stabilizer, turmeric, fiber, hing, cardamom, vitamin",Unhealthy,74,Moderate
+8904269137208,ZeroSugar Soda,Beverage,42.1,1.3,115,2.7,E100,"emulsifier, quinoa, maltodextrin, stabilizer, palm oil, millets, artificial flavor",Unhealthy,36,Unhealthy
+8900036424145,Oreo Vanilla,Snack,20.9,30.3,659,8.2,E120,"turmeric, trans fat, jaggery, whole grain",Healthy,29,Unhealthy
+8906830642329,Bingo Tedhe Medhe,Snack,0.0,32.3,331,7.1,E211,"garlic, artificial flavor, refined oil, coriander, quinoa, chia, flaxseed, vitamin, brown rice",Healthy,65,Moderate
+8903996847058,Too Yumm Multigrain Chips,Snack,22.1,6.0,537,4.7,E211,"ragi, natural, emulsifier, cardamom, invert sugar",Unhealthy,38,Unhealthy
+8906550454198,Too Yumm Multigrain Chips,Snack,21.8,16.8,569,6.2,E120,"fiber, whole grain, green gram, black pepper, turmeric, quinoa",Healthy,41,Unhealthy
+8907629329202,PowerBite Protein Bar,Snack,0.5,22.2,388,4.0,E120,"ginger, turmeric, brown rice, fructose, corn syrup",Unhealthy,59,Moderate
+8906194837466,Oreo Vanilla,Snack,26.5,24.2,383,3.7,E296,"maltodextrin, honey, refined oil, whole grain, tamarind, palm oil",Unhealthy,22,Unhealthy
+8903201697955,Bingo Tedhe Medhe,Snack,22.2,6.6,348,6.8,E500,"fructose, chia, millets, oats, fiber, jaggery",Healthy,63,Moderate
+8907989607657,Kurkure Masala Munch,Snack,9.9,7.4,330,5.1,E200,"chia, refined oil, artificial color",Unhealthy,67,Moderate
+8902059825828,Britannia Marie Gold,Snack,7.8,5.0,452,7.4,E296,"refined oil, green gram, brown rice, tamarind",Healthy,79,Moderate
+8906654230775,Soy Protein Drink,Beverage,60.9,0.8,67,3.0,E202,"preservative, ginger, artificial flavor, emulsifier, flaxseed, sugar",Unhealthy,15,Unhealthy
+8900480408576,Maggi Masala Noodles,Snack,32.6,20.6,620,5.8,E500,"millets, vitamin, maltodextrin",Healthy,19,Unhealthy
+8905634203934,Parle-G Biscuits,Snack,21.0,9.9,404,1.4,E200,"cumin, hing, oats, brown rice, refined oil, preservative",Unhealthy,37,Unhealthy
+8903471992521,Mother Dairy Dahi,Beverage,74.2,1.2,32,2.8,E110,"emulsifier, garlic, tamarind, barley, clove",Unhealthy,0,Unhealthy
+8902980435920,HealthyNut Mix,Snack,0.0,20.8,475,8.0,E100,"cumin, jaggery, fiber, artificial flavor, peanuts, refined oil",Unhealthy,66,Moderate
+8903054665137,Horlicks Classic Malt,Beverage,100.0,0.0,117,0.0,E100,"cumin, emulsifier, black pepper, cardamom, artificial flavor, green gram",Unhealthy,0,Unhealthy
+8900412105946,Too Yumm Multigrain Chips,Snack,22.8,12.4,234,1.0,E500,"refined oil, corn syrup, emulsifier, whole grain, trans fat, almonds, flaxseed, chia",Unhealthy,40,Unhealthy
+8901892231798,Paper Boat Jaljeera,Beverage,48.1,0.0,89,1.9,E110,"turmeric, brown rice, sugar, protein, cardamom",Healthy,34,Unhealthy
+8901365830861,Granola Delight,Breakfast,11.0,5.6,223,5.0,E296,"artificial flavor, maltodextrin, whey protein, clove, preservative, artificial color, emulsifier",Unhealthy,72,Moderate
+8903393542318,Bingo Tedhe Medhe,Snack,5.1,10.4,347,2.8,E200,"tamarind, fiber, coriander, vitamin, honey",Healthy,72,Moderate
+8907850131243,Maggi Masala Noodles,Snack,25.1,18.5,539,7.2,E202,"salt, vitamin, barley, flaxseed, whole grain",Healthy,39,Unhealthy
+8900921191530,Saffola Oats,Breakfast,14.9,6.5,232,2.3,E220,"fiber, vitamin, peanuts, refined oil",Healthy,68,Moderate
+8909180866142,Parle-G Biscuits,Snack,23.9,15.6,388,1.0,E110,"quinoa, natural, whole grain, fiber, invert sugar, cardamom",Healthy,33,Unhealthy
+8906407242705,Kurkure Masala Munch,Snack,8.1,28.6,445,4.2,E296,"barley, tamarind, whole grain, oats, millets",Healthy,48,Unhealthy
+8904385619947,Too Yumm Multigrain Chips,Snack,6.2,21.4,337,9.6,E202,"hing, protein, black pepper, flaxseed, almonds, whey protein",Healthy,76,Moderate
+8909647909872,Tropicana Orange,Beverage,32.0,0.1,10,3.2,E202,"protein, artificial color, clove",Unhealthy,57,Moderate
+8907727354212,SodaPop Drink,Beverage,42.1,1.8,111,0.0,E110,"cumin, refined oil, salt, preservative, whey protein, emulsifier",Unhealthy,26,Unhealthy
+8906898582358,Kellogg's Muesli,Breakfast,20.4,5.4,172,2.0,E500,"invert sugar, artificial flavor, peanuts, black pepper, barley",Unhealthy,56,Moderate
+8909186390557,Kurkure Masala Munch,Snack,8.7,28.5,563,8.1,E102,"hing, emulsifier, protein, palm oil, chia, salt, barley, flaxseed",Healthy,48,Unhealthy
+8907009675707,EnergyPlus Drink,Beverage,55.1,1.6,18,1.5,E202,"coriander, millets, trans fat, green gram, protein, flaxseed, invert sugar, brown rice",Healthy,29,Unhealthy
+8908115367417,Baked Veggie Chips,Snack,0.0,25.7,374,4.9,E102,"cumin, jaggery, peanuts, coriander, emulsifier, green gram, salt, artificial flavor",Unhealthy,56,Moderate
+8904656309503,Tropicana Orange,Beverage,61.6,0.0,10,3.5,E110,"millets, refined oil, honey",Healthy,24,Unhealthy
+8909726031102,Yakult Probiotic,Beverage,24.6,1.4,89,1.6,E202,"artificial flavor, millets, preservative, clove, palm oil, fiber, invert sugar, glucose, whole grain",Unhealthy,58,Moderate
+8900235212914,ChocoBite Energy Bar,Snack,8.0,17.1,286,1.0,E211,"refined oil, brown rice, maltodextrin, fructose, invert sugar, ginger, salt",Unhealthy,49,Unhealthy
+8907818429049,Lays Classic Salted,Snack,0.0,14.7,517,6.7,E200,"millets, sugar, artificial flavor",Unhealthy,67,Moderate
+8904432887625,Saffola Oats,Breakfast,0.0,4.4,393,10.2,E200,"brown rice, tamarind, natural, preservative, vitamin, garlic",Healthy,100,Healthy
+8907479953789,Tropicana Orange,Beverage,20.8,0.0,57,2.6,E100,"artificial flavor, hing, barley, emulsifier, brown rice, peanuts",Unhealthy,68,Moderate
+8908107474342,PowerBite Protein Bar,Snack,19.3,25.0,539,4.7,E296,"peanuts, ragi, oats, clove, millets, garlic",Healthy,34,Unhealthy
+8901132955619,Kurkure Masala Munch,Snack,20.3,5.0,619,5.9,E220,"artificial flavor, artificial color, fructose, maltodextrin, jaggery, preservative",Unhealthy,43,Unhealthy
+8909280678518,Lays Classic Salted,Snack,12.4,19.4,507,7.4,E220,"artificial color, palm oil, salt, cardamom, refined oil",Unhealthy,48,Unhealthy
+8907577610240,Lays Classic Salted,Snack,20.7,20.5,563,6.7,E200,"fructose, hing, cumin, salt, maltodextrin",Unhealthy,32,Unhealthy
+8902734462066,ZeroSugar Soda,Beverage,77.1,0.0,108,0.0,E500,"ginger, natural, tamarind, palm oil, fructose, cardamom, chia, stabilizer",Unhealthy,0,Unhealthy
+8904141497443,Sunfeast Dark Fantasy,Snack,6.9,21.7,481,3.1,E100,"artificial color, sugar, stabilizer, cumin, black pepper, almonds, invert sugar",Unhealthy,44,Unhealthy
+8907050956375,Kurkure Masala Munch,Snack,21.6,23.8,296,8.5,E296,"chia, invert sugar, refined oil, oats, corn syrup, sugar, whey protein, walnuts",Unhealthy,45,Unhealthy
+8901948356743,Paper Boat Aam Panna,Beverage,42.8,0.9,33,3.9,E102,"garlic, turmeric, refined oil, maltodextrin, glucose, cardamom, almonds, walnuts",Unhealthy,40,Unhealthy
+8900943024074,Sunfeast Dark Fantasy,Snack,13.7,29.2,429,8.2,None,"refined oil, oats, preservative, vitamin, palm oil",Unhealthy,47,Unhealthy
+8909793816181,Parle-G Biscuits,Snack,7.6,30.3,763,11.4,E330,"ginger, fructose, fiber, whole grain, honey, jaggery, garlic",Healthy,49,Unhealthy
+8900984319835,Saffola Oats,Breakfast,24.0,3.3,260,7.1,E211,"vitamin, artificial flavor, invert sugar, peanuts, green gram",Unhealthy,58,Moderate
+8906628430737,Amul Toned Milk,Beverage,63.3,0.0,118,1.1,E296,"coriander, preservative, hing, flaxseed, oats, quinoa, emulsifier, palm oil",Unhealthy,6,Unhealthy
+8909877096007,PowerBite Protein Bar,Snack,0.0,19.8,681,5.2,None,"maltodextrin, whey protein, palm oil, brown rice, refined oil, artificial flavor, walnuts",Unhealthy,54,Moderate
+8907492857335,Maggi Masala Noodles,Snack,6.7,19.4,342,8.3,E102,"whey protein, ragi, salt, quinoa, refined oil",Healthy,71,Moderate
+8901904175167,Real Mixed Fruit,Beverage,72.0,0.0,45,1.9,E100,"barley, cumin, millets, emulsifier, green gram",Healthy,8,Unhealthy
+8907093073980,Horlicks Classic Malt,Beverage,64.8,1.9,27,0.0,E120,"green gram, whole grain, flaxseed, salt",Healthy,12,Unhealthy
+8907358619368,ChocoBite Energy Bar,Snack,20.9,6.2,330,1.0,E200,"black pepper, coriander, salt, whey protein, cardamom, invert sugar",Unhealthy,44,Unhealthy
+8906528172325,Tropicana Orange,Beverage,32.9,2.2,150,4.3,None,"palm oil, chia, millets, black pepper, maltodextrin, turmeric, ginger, fiber, invert sugar",Unhealthy,53,Moderate
+8909089982769,Too Yumm Multigrain Chips,Snack,16.1,16.1,419,3.5,E211,"palm oil, glucose, preservative, fiber, jaggery, trans fat",Unhealthy,39,Unhealthy
+8906835123211,Yakult Probiotic,Beverage,49.1,1.5,171,1.2,E110,"clove, garlic, fructose, vitamin, whole grain, fiber, almonds",Healthy,26,Unhealthy
+8903650738490,Soy Protein Drink,Beverage,30.9,0.4,10,5.5,E211,"fiber, trans fat, sugar, almonds, whole grain, preservative, flaxseed, artificial flavor",Unhealthy,61,Moderate
+8901029023395,Kurkure Masala Munch,Snack,3.0,14.0,404,9.7,E211,"trans fat, fructose, artificial color, stabilizer, salt, brown rice, fiber",Unhealthy,74,Moderate
+8903161770829,PowerBite Protein Bar,Snack,2.9,16.9,361,10.0,E202,"vitamin, refined oil, sugar, invert sugar, tamarind, black pepper, natural, artificial color, trans fat",Unhealthy,77,Moderate
+8903791415056,Tropicana Orange,Beverage,47.0,1.1,66,0.0,E202,"corn syrup, palm oil, peanuts, chia, glucose, whole grain, clove, ragi",Healthy,34,Unhealthy
+8907215987897,Haldiram Bhujia,Snack,5.4,23.3,80,1.1,E150d,"coriander, palm oil, sugar, millets, fructose",Unhealthy,57,Moderate
+8906977555743,Bingo Tedhe Medhe,Snack,5.6,22.5,460,7.4,E202,"black pepper, honey, salt",Unhealthy,57,Moderate
+8900856095876,Real Mixed Fruit,Beverage,83.3,1.9,198,3.5,E211,"artificial color, flaxseed, garlic, cardamom, glucose, corn syrup",Unhealthy,0,Unhealthy
+8900991750103,Yakult Probiotic,Beverage,48.0,0.9,10,2.8,E102,"peanuts, fiber, sugar, whole grain",Healthy,39,Unhealthy
+8902265532752,Bingo Tedhe Medhe,Snack,12.3,29.5,768,3.1,E150d,"preservative, invert sugar, refined oil, peanuts",Unhealthy,12,Unhealthy
+8908376912389,Paper Boat Jaljeera,Beverage,0.0,2.3,32,1.0,E296,"peanuts, whole grain, fructose",Healthy,98,Healthy
+8903225727605,Maggi Masala Noodles,Snack,13.9,28.7,481,2.4,E200,"emulsifier, peanuts, maltodextrin, jaggery, clove",Unhealthy,26,Unhealthy
+8907073256241,BrownBread Slice,Breakfast,17.5,5.4,174,10.5,E500,"tamarind, emulsifier, trans fat, natural, whey protein, refined oil",Unhealthy,80,Healthy
+8909383288735,Baked Veggie Chips,Snack,2.2,17.5,388,2.5,E220,"preservative, ragi, tamarind, salt",Unhealthy,58,Moderate
+8909503794022,EnergyPlus Drink,Beverage,31.8,0.7,111,2.6,E296,"whey protein, fructose, cumin, whole grain, turmeric, stabilizer, invert sugar",Unhealthy,50,Moderate
+8903728365624,Mother Dairy Dahi,Beverage,37.8,1.2,95,2.1,E120,"fructose, jaggery, green gram, sugar, chia, ginger, salt",Unhealthy,41,Unhealthy
+8907052326807,Mother Dairy Dahi,Beverage,100.0,0.6,149,2.7,E296,"vitamin, artificial color",Unhealthy,0,Unhealthy
+8906958908223,Bingo Tedhe Medhe,Snack,9.3,8.1,313,9.8,E110,"maltodextrin, jaggery, glucose, flaxseed, ragi, millets",Unhealthy,76,Moderate
+8900529547313,Tropicana Orange,Beverage,36.4,0.8,80,4.0,E150d,"whey protein, artificial color, fructose, barley, refined oil, palm oil",Unhealthy,46,Unhealthy
+8908342759917,Soy Protein Drink,Beverage,3.0,2.3,40,0.0,E220,"peanuts, corn syrup, clove, barley, maltodextrin, vitamin",Healthy,91,Healthy
+8903014612088,Oreo Vanilla,Snack,22.9,7.6,337,7.9,E296,"maltodextrin, barley, turmeric, black pepper",Unhealthy,56,Moderate
+8907619220589,Paper Boat Jaljeera,Beverage,23.5,0.0,54,3.7,E110,"glucose, stabilizer, almonds, artificial color, oats, walnuts",Unhealthy,64,Moderate
+8903388539992,BrownBread Slice,Breakfast,6.3,3.5,326,9.6,E211,"coriander, natural, stabilizer, fructose, oats, jaggery",Healthy,92,Healthy
+8901031616506,ChocoBite Energy Bar,Snack,3.9,9.1,287,2.9,E150d,"artificial color, maltodextrin, coriander, whey protein, sugar",Unhealthy,67,Moderate
+8900542843733,Oreo Vanilla,Snack,16.0,12.2,506,12.0,E211,"artificial flavor, green gram, honey, millets, cumin",Healthy,67,Moderate
+8907458600467,Bingo Tedhe Medhe,Snack,0.0,26.9,499,3.5,E211,"turmeric, clove, corn syrup, tamarind, stabilizer, whole grain",Unhealthy,45,Unhealthy
+8905216994704,Paper Boat Jaljeera,Beverage,68.1,3.0,90,4.5,E100,"trans fat, protein, cumin",Unhealthy,6,Unhealthy
+8909905713120,Kellogg's Muesli,Breakfast,9.9,11.0,41,9.0,E150d,"trans fat, emulsifier, maltodextrin, honey, fiber, whey protein, sugar",Unhealthy,84,Healthy
+8904682064024,Paper Boat Aam Panna,Beverage,23.8,1.8,145,2.5,E110,"cumin, emulsifier, garlic, whole grain, oats",Healthy,63,Moderate
+8900480418029,Amul Lassi,Beverage,53.4,2.9,115,0.0,E110,"clove, peanuts, preservative, chia, fructose, trans fat, refined oil, hing, corn syrup",Unhealthy,10,Unhealthy
+8906534523180,ChocoBite Energy Bar,Snack,24.2,18.6,347,2.3,E102,"trans fat, vitamin, corn syrup, flaxseed, emulsifier, cardamom, jaggery, palm oil",Unhealthy,26,Unhealthy
+8900536115259,Maggi Masala Noodles,Snack,11.8,7.3,697,6.9,None,"chia, invert sugar, green gram",Healthy,62,Moderate
+8909036814391,Paper Boat Jaljeera,Beverage,46.5,0.3,111,2.8,E102,"salt, coriander, preservative, sugar, chia",Unhealthy,29,Unhealthy
+8901033059704,Lays Classic Salted,Snack,28.3,35.9,496,7.4,E202,"salt, artificial flavor, honey, vitamin, whey protein, oats",Healthy,20,Unhealthy
+8909368122459,HealthyNut Mix,Snack,0.0,9.4,368,4.1,E330,"jaggery, peanuts, artificial color, hing, chia",Healthy,81,Healthy
+8906476609511,Lays Classic Salted,Snack,16.8,21.7,441,6.5,E500,"glucose, chia, invert sugar, emulsifier, palm oil, cumin",Unhealthy,42,Unhealthy
+8904350497465,Too Yumm Multigrain Chips,Snack,0.0,30.2,283,5.9,E150d,"glucose, preservative, brown rice, artificial color, fructose, whey protein, whole grain, refined oil",Unhealthy,58,Moderate
+8903347371820,HealthyNut Mix,Snack,9.8,31.0,570,6.1,E150d,"maltodextrin, preservative, emulsifier, green gram, invert sugar, cardamom, sugar",Unhealthy,31,Unhealthy
+8900689217931,Too Yumm Multigrain Chips,Snack,5.6,34.2,769,1.0,E500,"glucose, refined oil, corn syrup, honey, fiber, millets, stabilizer",Unhealthy,14,Unhealthy
+8902919413378,HealthyNut Mix,Snack,2.2,23.6,123,6.6,None,"sugar, stabilizer, preservative, walnuts, salt",Unhealthy,79,Moderate
+8906520242087,Real Mixed Fruit,Beverage,42.8,0.0,113,4.4,E202,"garlic, trans fat, green gram, brown rice",Healthy,49,Unhealthy
+8902764716617,Amul Toned Milk,Beverage,77.9,0.6,85,0.0,E220,"hing, millets, walnuts, oats, whey protein, invert sugar, peanuts, corn syrup",Healthy,0,Unhealthy
+8907694884172,Mother Dairy Dahi,Beverage,33.1,2.3,92,8.3,E220,"emulsifier, whey protein, invert sugar, artificial flavor, refined oil",Unhealthy,62,Moderate
+8906706014866,Amul Toned Milk,Beverage,3.9,0.6,198,0.0,E500,"clove, salt, brown rice, jaggery, cardamom, cumin, chia, peanuts",Healthy,84,Healthy
+8900064073388,Soy Protein Drink,Beverage,14.0,0.9,23,5.6,E102,"trans fat, walnuts, barley, emulsifier",Unhealthy,82,Healthy
+8902205100557,Mother Dairy Dahi,Beverage,30.5,0.5,59,3.3,E296,"vitamin, jaggery, artificial color, refined oil, peanuts",Healthy,64,Moderate
+8908504729215,Amul Toned Milk,Beverage,68.3,1.2,143,1.9,E220,"emulsifier, vitamin, oats, black pepper, walnuts, protein, natural",Healthy,7,Unhealthy
+8907558698648,Amul Toned Milk,Beverage,68.4,0.9,109,1.6,E102,"chia, emulsifier, natural, flaxseed, ragi",Healthy,5,Unhealthy
+8901781661979,Oreo Vanilla,Snack,1.8,8.8,349,14.8,E202,"invert sugar, quinoa, peanuts, black pepper, maltodextrin",Unhealthy,98,Healthy
+8902515047064,Lays Classic Salted,Snack,37.6,18.2,457,9.8,E202,"palm oil, ginger, millets, invert sugar, green gram, maltodextrin, walnuts",Unhealthy,25,Unhealthy
+8904860392279,Quaker Oats,Breakfast,13.9,1.8,130,8.6,E500,"turmeric, maltodextrin, ginger, artificial flavor, chia",Unhealthy,86,Healthy
+8901011205263,Bingo Tedhe Medhe,Snack,0.0,10.1,282,6.9,E100,"black pepper, chia, honey, maltodextrin, brown rice",Healthy,92,Healthy
+8903076867720,Parle-G Biscuits,Snack,4.8,36.2,523,2.5,E202,"artificial flavor, garlic, almonds, green gram, ginger, brown rice, stabilizer, fiber",Healthy,37,Unhealthy
+8905965906982,Sunfeast Dark Fantasy,Snack,1.3,27.1,626,5.7,E220,"artificial color, cardamom, flaxseed",Unhealthy,45,Unhealthy
+8907779780036,Granola Delight,Breakfast,5.8,7.2,307,10.8,E330,"fiber, almonds, refined oil, vitamin, stabilizer, sugar, ginger, hing",Healthy,95,Healthy
+8905915155278,Britannia Marie Gold,Snack,7.4,19.8,414,4.7,E102,"green gram, stabilizer, ginger, cumin, peanuts, ragi, whey protein, vitamin",Healthy,58,Moderate
+8906766323350,Too Yumm Multigrain Chips,Snack,16.2,17.1,729,3.8,E120,"brown rice, fructose, trans fat, barley",Unhealthy,26,Unhealthy
+8905418406438,Yakult Probiotic,Beverage,35.0,0.0,53,10.4,E211,"quinoa, almonds, ragi, sugar",Healthy,73,Moderate
+8908715550002,Too Yumm Multigrain Chips,Snack,5.1,17.1,468,9.2,None,"invert sugar, fiber, salt, walnuts, preservative, glucose, refined oil, cumin",Unhealthy,70,Moderate
+8902645615656,Maggi Masala Noodles,Snack,9.1,12.0,440,8.5,E500,"corn syrup, cumin, oats, stabilizer, millets, jaggery",Healthy,74,Moderate
+8907214179889,Soy Protein Drink,Beverage,57.6,0.9,59,0.2,E100,"whole grain, vitamin, artificial flavor, green gram, fructose, jaggery",Healthy,21,Unhealthy
+8906393128722,Bournvita Health Drink,Beverage,69.8,0.9,71,12.2,E220,"ragi, glucose, whey protein, almonds, millets, flaxseed",Healthy,34,Unhealthy
+8909645972603,Too Yumm Multigrain Chips,Snack,12.1,20.7,112,16.9,E296,"hing, emulsifier, sugar, barley, maltodextrin",Unhealthy,90,Healthy
+8905701541638,Too Yumm Multigrain Chips,Snack,22.5,24.1,725,14.0,E102,"fructose, trans fat, salt, almonds, green gram, maltodextrin",Unhealthy,32,Unhealthy
+8901430700818,Tropicana Orange,Beverage,37.9,1.4,47,14.0,E211,"garlic, jaggery, clove, protein, whey protein, oats",Unhealthy,69,Moderate
+8909657550724,Kellogg's Muesli,Breakfast,19.4,10.5,30,6.2,E120,"corn syrup, chia, clove, glucose, honey, hing",Unhealthy,69,Moderate
+8905813991428,Baked Veggie Chips,Snack,15.7,20.0,248,3.8,E220,"jaggery, honey, artificial color, hing, whole grain, ragi, garlic",Healthy,56,Moderate
+8908360101556,Parle-G Biscuits,Snack,17.9,12.6,359,5.9,E211,"artificial color, natural, millets, stabilizer, clove, preservative",Unhealthy,49,Unhealthy
+8909590271782,Yakult Probiotic,Beverage,38.9,0.8,94,11.3,E110,"invert sugar, preservative, artificial flavor, fructose, flaxseed, jaggery, honey, peanuts",Unhealthy,60,Moderate
+8908910751647,Amul Lassi,Beverage,65.9,1.4,41,4.7,E202,"ragi, sugar, brown rice, coriander, whey protein, flaxseed",Healthy,22,Unhealthy
+8908328067388,Tropicana Orange,Beverage,66.8,1.6,120,3.7,E100,"maltodextrin, whole grain, glucose, trans fat, flaxseed, clove, sugar, artificial flavor",Unhealthy,6,Unhealthy
+8900430979425,Paper Boat Aam Panna,Beverage,100.0,0.5,115,4.0,E110,"almonds, trans fat, tamarind, green gram, honey, jaggery, hing, ragi",Healthy,0,Unhealthy
+8908299585325,Mother Dairy Dahi,Beverage,19.5,0.0,99,0.9,E202,"whole grain, fructose, sugar, honey, protein, flaxseed, oats",Healthy,72,Moderate
+8908888836442,Britannia Marie Gold,Snack,1.5,18.4,699,21.4,E200,"brown rice, vitamin, glucose, refined oil, ragi",Healthy,96,Healthy
+8904846105669,Maggi Masala Noodles,Snack,0.0,14.1,381,3.9,None,"artificial color, natural, barley, whole grain, salt",Healthy,80,Healthy
+8904165300411,Yakult Probiotic,Beverage,96.5,2.6,21,2.5,None,"salt, trans fat, coriander, cardamom, vitamin",Unhealthy,0,Unhealthy
+8900350171064,Bingo Tedhe Medhe,Snack,28.8,21.6,565,4.9,E110,"hing, emulsifier, cardamom, cumin, chia",Unhealthy,13,Unhealthy
+8902189056892,Soy Protein Drink,Beverage,29.4,0.0,177,13.2,E200,"whey protein, invert sugar, sugar, whole grain, corn syrup, honey, peanuts",Healthy,84,Healthy
+8906766960253,Lays Classic Salted,Snack,9.8,20.7,238,5.3,E150d,"honey, jaggery, trans fat, corn syrup, salt",Unhealthy,56,Moderate
+8902110524883,Oreo Vanilla,Snack,0.0,34.1,355,3.7,E150d,"cardamom, stabilizer, preservative, tamarind, green gram, jaggery, artificial color, turmeric",Unhealthy,45,Unhealthy
+8901750945486,Mother Dairy Dahi,Beverage,39.9,1.2,216,3.8,E102,"refined oil, stabilizer, tamarind, peanuts, clove, invert sugar, jaggery, sugar, brown rice",Unhealthy,34,Unhealthy
+8903241423427,ChocoBite Energy Bar,Snack,11.6,17.8,414,4.5,E102,"invert sugar, preservative, almonds, whole grain, fiber",Unhealthy,46,Unhealthy
+8906384775748,Quaker Oats,Breakfast,6.9,6.7,267,9.5,E211,"quinoa, artificial flavor, almonds, refined oil, glucose, vitamin, artificial color, barley",Healthy,90,Healthy
+8901980263854,Paper Boat Jaljeera,Beverage,14.4,0.1,96,8.6,E330,"ragi, turmeric, cardamom, black pepper, honey, sugar",Healthy,97,Healthy
+8903083065460,Baked Veggie Chips,Snack,9.0,18.8,277,2.4,E220,"oats, fructose, whole grain, walnuts, preservative, brown rice, ragi",Healthy,61,Moderate
+8907222569472,Sunfeast Dark Fantasy,Snack,25.6,13.9,730,8.5,E200,"sugar, cardamom, invert sugar, natural, refined oil",Unhealthy,28,Unhealthy
+8903446718797,Horlicks Classic Malt,Beverage,2.5,3.0,143,1.2,None,"artificial color, hing, vitamin, corn syrup, emulsifier",Unhealthy,85,Healthy
+8905294911400,Too Yumm Multigrain Chips,Snack,6.7,14.6,267,7.4,None,"cardamom, vitamin, fructose, whole grain, black pepper, walnuts, ragi, hing",Healthy,85,Healthy
+8903849453476,Britannia Marie Gold,Snack,26.4,13.8,370,7.2,E150d,"tamarind, turmeric, salt, peanuts, trans fat",Unhealthy,39,Unhealthy
+8905007041682,ZeroSugar Soda,Beverage,62.7,1.1,82,7.4,E150d,"flaxseed, salt, hing, natural, cardamom, artificial flavor, fructose, trans fat",Unhealthy,20,Unhealthy
+8909569748106,Kurkure Masala Munch,Snack,20.3,15.5,522,21.1,E120,"sugar, salt, artificial flavor, trans fat, walnuts, brown rice, protein",Healthy,82,Healthy
+8906496338846,Kellogg's Corn Flakes,Breakfast,11.6,0.7,78,7.4,E296,"trans fat, artificial color, oats, vitamin, natural",Healthy,98,Healthy
+8908806596370,Britannia Marie Gold,Snack,16.6,20.7,160,5.8,None,"brown rice, coriander, green gram, fiber, quinoa",Healthy,67,Moderate
+8904349145739,Amul Lassi,Beverage,66.0,1.2,98,1.7,E110,"ragi, glucose, chia, invert sugar, salt, almonds",Healthy,9,Unhealthy
+8900017184170,Haldiram Bhujia,Snack,8.1,5.2,672,6.0,E200,"natural, fructose, emulsifier, flaxseed, coriander, sugar",Unhealthy,57,Moderate
+8907703171842,Yakult Probiotic,Beverage,19.6,1.5,10,1.3,E220,"fructose, preservative, brown rice, black pepper, garlic",Unhealthy,67,Moderate
+8903291610856,Kellogg's Corn Flakes,Breakfast,16.9,3.4,328,9.1,E330,"chia, barley, millets, invert sugar, garlic, oats, coriander, green gram",Healthy,80,Healthy
+8903652481688,Haldiram Bhujia,Snack,3.5,22.0,733,4.3,None,"invert sugar, millets, emulsifier, peanuts, glucose, vitamin, fructose, walnuts, sugar",Unhealthy,43,Unhealthy
+8907152045728,Too Yumm Multigrain Chips,Snack,3.8,13.6,468,5.5,E500,"salt, palm oil, green gram, vitamin, walnuts",Healthy,71,Moderate
+8904828701376,Lays Classic Salted,Snack,29.9,15.8,345,8.3,E110,"palm oil, barley, black pepper, clove, ginger, emulsifier, protein",Unhealthy,36,Unhealthy
+8906878260023,Mother Dairy Dahi,Beverage,100.0,0.3,116,4.0,E120,"jaggery, whole grain, maltodextrin, barley, preservative",Unhealthy,0,Unhealthy
+8903407090991,Saffola Oats,Breakfast,11.6,0.1,285,4.0,E500,"fructose, garlic, palm oil, artificial flavor, glucose, hing, cumin",Unhealthy,72,Moderate
+8900742403086,Maggi Masala Noodles,Snack,30.3,13.6,328,7.4,E120,"preservative, emulsifier, maltodextrin, flaxseed, cumin, whey protein, hing, peanuts, natural",Healthy,48,Unhealthy
+8905477708898,ChocoBite Energy Bar,Snack,11.7,11.9,399,7.7,E100,"jaggery, sugar, hing, invert sugar, quinoa, ginger, corn syrup, protein",Healthy,71,Moderate
+8908866886781,Bingo Tedhe Medhe,Snack,12.8,13.7,465,6.1,E330,"trans fat, artificial color, whey protein, hing, quinoa, glucose",Unhealthy,53,Moderate
+8909828596080,Haldiram Bhujia,Snack,24.1,16.8,812,7.6,None,"brown rice, turmeric, ragi, stabilizer, walnuts, emulsifier, cumin",Unhealthy,25,Unhealthy
+8901198631833,Baked Veggie Chips,Snack,0.0,23.9,633,3.8,E100,"black pepper, green gram, vitamin, refined oil, artificial color, cumin, palm oil, ragi, natural",Healthy,53,Moderate
+8909298027882,Paper Boat Aam Panna,Beverage,21.2,1.3,10,1.4,E220,"natural, black pepper, refined oil, invert sugar, cardamom",Unhealthy,66,Moderate
+8909965837785,Tropicana Orange,Beverage,53.3,1.3,47,4.3,E120,"maltodextrin, clove, preservative, salt, honey",Unhealthy,29,Unhealthy
+8901564774374,EnergyPlus Drink,Beverage,46.4,0.2,109,10.0,E120,"clove, emulsifier, salt, brown rice, preservative",Unhealthy,50,Moderate
+8902060714217,Mother Dairy Dahi,Beverage,99.6,0.1,113,0.0,E500,"whole grain, salt, glucose, stabilizer, cumin",Unhealthy,0,Unhealthy
+8904627696687,Lays Classic Salted,Snack,15.1,15.3,463,1.0,E211,"walnuts, brown rice, clove, corn syrup, artificial color, whey protein",Healthy,41,Unhealthy
+8901691140921,OatCrunch Cookies,Snack,0.0,23.4,620,17.3,E500,"emulsifier, clove, palm oil, brown rice, jaggery, sugar, fructose, cumin",Unhealthy,79,Moderate
+8905680693643,Tropicana Orange,Beverage,6.0,0.0,31,3.2,E330,"fiber, trans fat",Unhealthy,90,Healthy
+8901392753490,Horlicks Classic Malt,Beverage,77.9,2.0,10,0.6,E150d,"turmeric, stabilizer, peanuts, sugar, maltodextrin",Unhealthy,0,Unhealthy
+8905935778141,Amul Lassi,Beverage,92.5,0.4,115,3.1,E211,"artificial flavor, sugar, whey protein, black pepper, ragi",Unhealthy,0,Unhealthy
+8907932535050,Britannia Marie Gold,Snack,3.1,19.3,550,18.8,E200,"stabilizer, artificial color, protein, glucose, oats, cardamom, preservative, refined oil, almonds",Unhealthy,86,Healthy
+8905032764939,Kurkure Masala Munch,Snack,18.1,22.5,145,3.0,None,"stabilizer, ginger, walnuts, green gram, almonds, natural, honey, salt",Healthy,57,Moderate
+8901530925426,EnergyPlus Drink,Beverage,54.6,1.4,10,2.1,E211,"ragi, maltodextrin, clove, almonds",Healthy,29,Unhealthy
+8906499098738,Saffola Oats,Breakfast,19.1,7.5,428,5.5,E100,"refined oil, emulsifier, coriander, oats, vitamin, protein, fructose",Healthy,59,Moderate
+8906252731284,HealthyNut Mix,Snack,11.3,17.3,348,2.3,E100,"cardamom, sugar, refined oil, tamarind, vitamin",Unhealthy,48,Unhealthy
+8900491790037,Amul Toned Milk,Beverage,100.0,0.0,74,0.0,E211,"maltodextrin, coriander, chia, whey protein, artificial color",Healthy,0,Unhealthy
+8909055704462,Soy Protein Drink,Beverage,26.2,0.4,89,4.1,E120,"jaggery, artificial flavor, ragi, sugar",Unhealthy,62,Moderate
+8904443085592,Quaker Oats,Breakfast,7.6,2.2,343,2.9,E330,"ginger, palm oil, black pepper, salt, artificial color, honey, natural, glucose",Unhealthy,69,Moderate
+8909895068689,Maggi Masala Noodles,Snack,5.5,29.6,80,15.8,E110,"black pepper, clove, green gram, preservative, quinoa",Healthy,94,Healthy
+8908684862554,Saffola Oats,Breakfast,9.2,10.7,68,6.7,None,"protein, almonds, clove, maltodextrin, turmeric, black pepper",Healthy,93,Healthy
+8906689760175,Amul Toned Milk,Beverage,79.4,1.6,10,3.1,E120,"protein, maltodextrin, walnuts, ginger, quinoa, cardamom, sugar, brown rice",Unhealthy,0,Unhealthy
+8900109574928,Real Mixed Fruit,Beverage,59.3,0.8,106,5.4,None,"glucose, invert sugar, refined oil, black pepper, preservative, oats, artificial color, cumin, natural",Unhealthy,25,Unhealthy
+8904755184901,Bournvita Health Drink,Beverage,100.0,1.8,16,1.3,E202,"vitamin, trans fat, salt, barley, quinoa",Unhealthy,0,Unhealthy
+8901555258131,Oreo Vanilla,Snack,8.5,19.2,407,2.6,E110,"flaxseed, whole grain, black pepper, cumin, quinoa, millets, turmeric, fructose, corn syrup",Healthy,52,Moderate
+8905152227228,Bournvita Health Drink,Beverage,15.3,0.5,54,1.6,E500,"sugar, salt, walnuts, trans fat",Unhealthy,72,Moderate
+8903075757603,Bournvita Health Drink,Beverage,17.4,0.5,48,11.1,E296,"garlic, cardamom, vitamin, almonds, maltodextrin, fiber",Healthy,100,Healthy
+8900881112981,OatCrunch Cookies,Snack,22.2,16.5,508,6.3,E102,"oats, quinoa, brown rice, corn syrup, jaggery, protein",Healthy,41,Unhealthy
+8906601716408,Parle-G Biscuits,Snack,0.0,17.2,462,1.7,E202,"millets, barley, salt, refined oil, chia, quinoa, garlic, clove, black pepper",Healthy,63,Moderate
+8907471323454,Real Mixed Fruit,Beverage,37.5,1.2,48,2.8,E330,"invert sugar, glucose, stabilizer, garlic, peanuts, artificial color, sugar",Unhealthy,46,Unhealthy
+8904318121158,Bournvita Health Drink,Beverage,26.3,3.2,78,0.0,E202,"corn syrup, preservative, cumin, fructose, tamarind",Unhealthy,50,Moderate
+8900557469374,Parle-G Biscuits,Snack,9.6,8.2,457,6.9,None,"tamarind, natural, green gram, corn syrup, refined oil, palm oil, protein, cardamom, hing",Unhealthy,69,Moderate
+8904978112357,BrownBread Slice,Breakfast,13.6,3.0,416,13.2,E202,"fiber, palm oil, whey protein, honey",Healthy,90,Healthy
+8908782263929,BrownBread Slice,Breakfast,16.9,12.6,202,6.5,E120,"tamarind, cumin, protein, preservative",Unhealthy,62,Moderate
+8909795923625,Baked Veggie Chips,Snack,26.3,23.5,95,1.0,None,"emulsifier, cumin, garlic, green gram, turmeric, flaxseed",Unhealthy,35,Unhealthy
+8908378207479,Britannia Marie Gold,Snack,7.9,15.6,493,20.3,None,"walnuts, peanuts, refined oil, fiber, honey, trans fat, artificial flavor, barley",Unhealthy,94,Healthy
+8901370416642,Lays Classic Salted,Snack,13.1,13.2,336,8.1,E102,"protein, invert sugar, fiber, whey protein, whole grain, trans fat, brown rice",Healthy,69,Moderate
+8904952091216,Haldiram Bhujia,Snack,0.0,13.1,589,6.1,E102,"coriander, refined oil, garlic, invert sugar, whey protein, artificial color, fructose",Unhealthy,61,Moderate
+8908146526857,SodaPop Drink,Beverage,41.8,1.4,32,9.3,E211,"ginger, green gram, garlic, artificial color, oats, glucose, walnuts, quinoa",Healthy,61,Moderate
+8906518540156,Sunfeast Dark Fantasy,Snack,17.3,27.9,695,1.0,E100,"cardamom, oats, trans fat, preservative, maltodextrin, barley",Unhealthy,9,Unhealthy
+8907275282685,Yakult Probiotic,Beverage,39.6,0.5,76,1.3,E296,"corn syrup, artificial color, hing, clove, honey, trans fat, refined oil",Unhealthy,39,Unhealthy
+8904464344760,ZeroSugar Soda,Beverage,46.8,1.4,57,2.9,E296,"maltodextrin, fructose, ragi, glucose, flaxseed, invert sugar",Unhealthy,33,Unhealthy
+8901495540380,Baked Veggie Chips,Snack,0.3,16.4,424,3.8,E150d,"palm oil, tamarind, protein, millets, jaggery",Healthy,68,Moderate
+8902594677607,Lays Classic Salted,Snack,0.0,5.4,378,2.3,E110,"whey protein, sugar, clove, artificial color, refined oil, fiber, almonds, corn syrup, honey",Healthy,78,Moderate
+8904230382055,SodaPop Drink,Beverage,35.9,0.0,151,4.3,E200,"artificial color, jaggery, preservative, chia, ginger",Unhealthy,48,Unhealthy
+8909061283869,Amul Lassi,Beverage,53.9,1.7,40,1.6,E150d,"turmeric, green gram, corn syrup, palm oil, whey protein, emulsifier, preservative, artificial flavor",Unhealthy,19,Unhealthy
+8908031024294,Britannia Marie Gold,Snack,13.0,21.7,264,9.3,None,"walnuts, protein, glucose",Healthy,74,Moderate
+8906087439718,Parle-G Biscuits,Snack,29.9,20.2,607,3.3,E220,"hing, whey protein, barley, oats, vitamin, tamarind, natural, artificial flavor",Healthy,18,Unhealthy
+8901860970940,HealthyNut Mix,Snack,3.5,19.0,352,4.7,E211,"invert sugar, refined oil, whey protein, garlic, trans fat, preservative",Unhealthy,59,Moderate
+8904622749393,Kurkure Masala Munch,Snack,16.7,14.1,260,1.7,E202,"almonds, whey protein, vitamin, green gram, cumin, maltodextrin",Healthy,55,Moderate
+8906709269297,Britannia Marie Gold,Snack,0.0,16.7,256,4.4,E100,"trans fat, corn syrup, ragi, vitamin, quinoa",Healthy,81,Healthy
+8905310183483,ChocoBite Energy Bar,Snack,21.1,8.4,332,5.0,E100,"barley, black pepper, emulsifier, brown rice, tamarind",Healthy,59,Moderate
+8904230226111,Granola Delight,Breakfast,18.3,3.4,42,4.8,E200,"millets, maltodextrin, fiber, whey protein, turmeric",Healthy,82,Healthy
+8905853152371,PowerBite Protein Bar,Snack,21.1,24.9,454,9.2,E202,"garlic, fructose, almonds, corn syrup, artificial flavor, emulsifier",Unhealthy,39,Unhealthy
+8902029819859,Saffola Oats,Breakfast,17.1,5.6,479,4.5,E120,"refined oil, clove, jaggery, brown rice, corn syrup",Unhealthy,50,Moderate
+8900354526839,OatCrunch Cookies,Snack,14.7,11.5,438,18.5,E211,"artificial color, stabilizer, salt, oats, emulsifier, tamarind",Unhealthy,80,Healthy
+8909243126631,Baked Veggie Chips,Snack,15.1,17.0,540,5.2,E330,"protein, emulsifier, barley, artificial flavor, oats, cumin",Healthy,48,Unhealthy
+8908087039707,Baked Veggie Chips,Snack,5.6,7.8,672,1.0,E220,"coriander, flaxseed, invert sugar, natural, fiber",Healthy,53,Moderate
+8900972353783,Amul Toned Milk,Beverage,36.7,0.3,87,3.0,E102,"clove, fiber, sugar, trans fat, refined oil, millets, oats, glucose, artificial color",Unhealthy,43,Unhealthy
+8902853193100,ChocoBite Energy Bar,Snack,11.9,27.3,337,3.9,E102,"stabilizer, invert sugar, oats, fiber, maltodextrin",Unhealthy,38,Unhealthy
+8900228465389,Amul Toned Milk,Beverage,84.0,0.3,32,2.7,E202,"protein, maltodextrin, refined oil, tamarind, fructose, flaxseed",Unhealthy,0,Unhealthy
+8900587533498,BrownBread Slice,Breakfast,3.3,6.2,131,6.3,E202,"garlic, brown rice, glucose, refined oil, corn syrup, sugar, coriander, vitamin",Unhealthy,89,Healthy
+8907578369832,Yakult Probiotic,Beverage,15.0,0.0,34,3.2,E100,"cumin, corn syrup, whole grain, turmeric, chia, vitamin, salt",Healthy,86,Healthy
+8907775330636,PowerBite Protein Bar,Snack,8.8,12.9,206,6.7,E120,"ginger, jaggery, black pepper, clove, trans fat, sugar, invert sugar",Unhealthy,73,Moderate
+8904746333607,EnergyPlus Drink,Beverage,49.9,1.8,121,2.1,E102,"glucose, coriander, ragi",Unhealthy,21,Unhealthy
+8907271077931,Tropicana Orange,Beverage,100.0,2.2,30,1.1,E202,"vitamin, almonds, cardamom, invert sugar, hing, flaxseed",Healthy,0,Unhealthy
+8900522435970,ZeroSugar Soda,Beverage,14.9,1.8,92,1.3,E150d,"honey, refined oil, palm oil, jaggery, ginger, clove, millets, peanuts",Healthy,74,Moderate
+8901315513021,Horlicks Classic Malt,Beverage,0.0,0.2,181,3.9,E100,"fiber, millets, stabilizer",Healthy,100,Healthy
+8901141982552,Haldiram Bhujia,Snack,10.2,16.9,417,7.9,E120,"artificial color, protein, chia, quinoa",Healthy,67,Moderate
+8901918511608,Kurkure Masala Munch,Snack,7.6,15.0,773,11.6,E211,"coriander, protein, turmeric, black pepper, emulsifier",Unhealthy,53,Moderate
+8905337417369,OatCrunch Cookies,Snack,15.8,20.3,384,6.4,E330,"maltodextrin, clove, artificial flavor, hing, fiber, corn syrup, turmeric",Unhealthy,47,Unhealthy
+8900322945864,Maggi Masala Noodles,Snack,13.8,26.2,366,8.1,E330,"flaxseed, quinoa, brown rice, vitamin, walnuts",Healthy,56,Moderate
+8909889746593,Kellogg's Muesli,Breakfast,7.4,3.8,398,3.1,E296,"clove, stabilizer, refined oil, turmeric, preservative, invert sugar, brown rice, almonds",Unhealthy,66,Moderate
+8908409305346,OatCrunch Cookies,Snack,3.8,12.1,303,6.5,E500,"walnuts, palm oil, chia, flaxseed, corn syrup, glucose",Unhealthy,75,Moderate
+8904066958329,Tropicana Orange,Beverage,39.6,0.8,148,1.3,E102,"flaxseed, cumin, whey protein, quinoa, barley, glucose, chia",Healthy,40,Unhealthy
+8901658199028,PowerBite Protein Bar,Snack,30.8,26.0,434,3.0,None,"whey protein, sugar, black pepper, ragi, peanuts",Healthy,23,Unhealthy
+8906695417741,Parle-G Biscuits,Snack,8.8,16.1,392,6.6,E330,"preservative, glucose, peanuts, whey protein, vitamin, artificial flavor",Unhealthy,60,Moderate
+8905118423308,BrownBread Slice,Breakfast,2.7,7.7,314,7.8,E120,"maltodextrin, clove, ragi, stabilizer, natural",Unhealthy,83,Healthy
+8904285938875,Paper Boat Aam Panna,Beverage,77.5,2.4,102,0.8,E102,"brown rice, clove, maltodextrin, protein, vitamin, whey protein, trans fat",Healthy,0,Unhealthy
+8909060097402,Paper Boat Jaljeera,Beverage,63.8,2.5,125,11.3,E200,"glucose, oats, invert sugar, turmeric, trans fat, flaxseed",Unhealthy,27,Unhealthy
+8908177500863,Yakult Probiotic,Beverage,67.3,0.3,48,3.4,E100,"preservative, whole grain, cardamom, palm oil, salt, emulsifier, cumin",Unhealthy,9,Unhealthy
+8906061375945,Haldiram Bhujia,Snack,13.9,28.4,255,1.0,E202,"chia, fructose, hing, barley, millets, ginger, almonds, oats",Healthy,43,Unhealthy
+8904205370919,Horlicks Classic Malt,Beverage,100.0,0.0,38,2.9,E150d,"stabilizer, glucose, cardamom, clove, whey protein, flaxseed",Healthy,0,Unhealthy
+8909877635014,Yakult Probiotic,Beverage,41.6,0.0,127,0.0,E220,"preservative, natural, protein, clove",Healthy,39,Unhealthy
+8902162759799,Lays Classic Salted,Snack,8.7,22.6,355,21.0,E296,"palm oil, almonds, coriander, garlic, brown rice, millets",Healthy,98,Healthy
+8909142733400,Kellogg's Corn Flakes,Breakfast,15.0,2.9,30,10.1,E200,"vitamin, stabilizer, trans fat, preservative, walnuts, artificial color, honey, turmeric",Unhealthy,92,Healthy
+8905635310014,Britannia Marie Gold,Snack,0.2,19.9,433,2.9,E211,"natural, invert sugar, preservative, clove, honey, ragi, stabilizer, garlic, turmeric",Unhealthy,54,Moderate
+8904673886274,Kellogg's Corn Flakes,Breakfast,0.0,5.5,243,9.5,E102,"natural, emulsifier, hing, millets, corn syrup, sugar, honey",Unhealthy,94,Healthy
+8907580393175,Kellogg's Muesli,Breakfast,10.1,4.1,474,8.5,E330,"maltodextrin, corn syrup, invert sugar, whey protein",Unhealthy,71,Moderate
+8901410311587,ZeroSugar Soda,Beverage,2.2,1.7,91,3.6,None,"maltodextrin, invert sugar, preservative, sugar, palm oil, peanuts, millets",Unhealthy,95,Healthy
+8900817948817,Bingo Tedhe Medhe,Snack,12.4,13.1,413,19.7,E110,"sugar, preservative, black pepper, emulsifier, fiber, ragi, peanuts",Unhealthy,86,Healthy
+8903085079720,Paper Boat Jaljeera,Beverage,42.9,1.1,24,1.8,E150d,"black pepper, flaxseed, cumin, barley, fiber, refined oil",Healthy,43,Unhealthy
+8906355738483,Paper Boat Aam Panna,Beverage,3.4,1.7,72,3.8,E120,"invert sugar, whole grain, barley, maltodextrin, quinoa, emulsifier, brown rice, preservative, walnuts",Healthy,99,Healthy
+8903235961503,Granola Delight,Breakfast,20.1,7.4,193,2.6,E150d,"green gram, sugar, invert sugar",Unhealthy,51,Moderate
+8900084158310,Horlicks Classic Malt,Beverage,46.7,1.8,10,0.0,E120,"clove, fiber, protein, fructose, vitamin, black pepper, preservative, salt",Healthy,36,Unhealthy
+8904924828780,Amul Lassi,Beverage,73.7,0.0,28,0.0,E211,"turmeric, sugar, green gram, jaggery, vitamin, refined oil, artificial color, quinoa, maltodextrin",Unhealthy,0,Unhealthy
+8906632421470,Baked Veggie Chips,Snack,16.7,10.3,127,2.7,E150d,"turmeric, invert sugar, walnuts, quinoa, millets, palm oil, jaggery",Healthy,64,Moderate
+8907467564412,HealthyNut Mix,Snack,17.5,21.4,480,5.0,E200,"sugar, emulsifier, barley, corn syrup, fiber",Unhealthy,35,Unhealthy
+8901104720076,Maggi Masala Noodles,Snack,2.8,15.6,442,1.8,E150d,"fiber, corn syrup, trans fat, barley, jaggery, whey protein",Healthy,60,Moderate
+8902693993222,HealthyNut Mix,Snack,12.4,22.4,163,9.9,E110,"barley, invert sugar, emulsifier, preservative, maltodextrin, brown rice, walnuts, whole grain",Unhealthy,66,Moderate
+8902591671101,PowerBite Protein Bar,Snack,14.3,25.5,80,8.4,E211,"oats, maltodextrin, trans fat, cumin, black pepper, natural, refined oil, clove",Unhealthy,61,Moderate
+8902227464912,Granola Delight,Breakfast,20.8,0.6,160,3.3,E202,"coriander, artificial flavor, hing, maltodextrin, fiber, millets, stabilizer, fructose",Unhealthy,64,Moderate
+8901728151584,Bingo Tedhe Medhe,Snack,10.3,20.1,477,7.5,E220,"artificial flavor, barley, flaxseed, emulsifier, glucose, fructose, salt",Unhealthy,52,Moderate
+8907530280642,Real Mixed Fruit,Beverage,0.0,2.2,90,0.0,E220,"protein, corn syrup, whey protein, fiber, garlic",Healthy,93,Healthy
+8904283125717,Granola Delight,Breakfast,10.0,9.3,279,11.5,E102,"salt, natural, hing, chia, palm oil, stabilizer, protein, artificial color, invert sugar",Unhealthy,80,Healthy
+8906521372221,Haldiram Bhujia,Snack,18.4,29.6,435,5.3,E200,"salt, trans fat, artificial color, walnuts, emulsifier, palm oil, fiber, whole grain, almonds",Unhealthy,29,Unhealthy
+8907848456807,Amul Toned Milk,Beverage,0.0,0.0,21,13.3,E100,"palm oil, whey protein, quinoa, brown rice, oats, ginger, refined oil",Healthy,100,Healthy
+8908281585976,Sunfeast Dark Fantasy,Snack,27.4,27.2,326,4.9,E211,"quinoa, stabilizer, walnuts, artificial color, flaxseed, artificial flavor, garlic",Unhealthy,21,Unhealthy
+8905871820431,ChocoBite Energy Bar,Snack,15.5,10.2,269,7.0,E296,"fructose, black pepper, quinoa, coriander, fiber",Healthy,73,Moderate
+8908940266331,Saffola Oats,Breakfast,14.0,8.6,244,5.2,E100,"barley, preservative, fructose, flaxseed, protein, whey protein",Healthy,73,Moderate
+8905105082071,Baked Veggie Chips,Snack,11.8,6.5,463,2.7,E220,"almonds, artificial color, glucose, preservative, turmeric",Unhealthy,53,Moderate
+8905322616919,Kellogg's Corn Flakes,Breakfast,0.0,9.7,232,6.4,E102,"ginger, refined oil, palm oil, brown rice, maltodextrin, green gram, jaggery",Unhealthy,82,Healthy
+8901267344298,Granola Delight,Breakfast,16.7,6.2,386,6.2,E100,"barley, whole grain, trans fat, quinoa, stabilizer",Unhealthy,59,Moderate
+8904459136325,Granola Delight,Breakfast,10.3,5.0,166,8.2,E110,"almonds, trans fat",Unhealthy,82,Healthy
+8908361317351,Quaker Oats,Breakfast,18.9,11.3,407,11.9,E220,"flaxseed, artificial color, turmeric, whey protein, clove, natural",Healthy,72,Moderate
+8908980061250,Soy Protein Drink,Beverage,63.0,1.6,84,15.0,E202,"emulsifier, vitamin, hing, black pepper, whole grain, fiber",Healthy,48,Unhealthy
+8906331599093,Parle-G Biscuits,Snack,13.0,15.0,309,2.7,E150d,"maltodextrin, artificial color, glucose, almonds, black pepper, turmeric, cumin",Unhealthy,47,Unhealthy
+8902751202633,Real Mixed Fruit,Beverage,23.7,3.1,37,0.0,E100,"emulsifier, chia, natural, artificial flavor, whole grain, whey protein, almonds",Healthy,64,Moderate
+8907951707486,Quaker Oats,Breakfast,5.7,8.7,103,6.6,E202,"clove, protein, peanuts, flaxseed, glucose",Healthy,94,Healthy
+8907442212057,Paper Boat Aam Panna,Beverage,40.6,1.7,10,1.4,E211,"green gram, turmeric, fructose, natural, cardamom, cumin",Healthy,45,Unhealthy
+8903145199812,Paper Boat Aam Panna,Beverage,32.8,4.3,194,7.7,E100,"flaxseed, glucose, salt, trans fat, honey, emulsifier",Unhealthy,53,Moderate
+8901351728688,Oreo Vanilla,Snack,16.1,11.8,95,2.5,None,"walnuts, preservative, artificial color, jaggery, fructose, clove, millets",Unhealthy,64,Moderate
+8903044733281,Quaker Oats,Breakfast,10.9,6.8,30,3.0,E296,"artificial color, glucose, peanuts, coriander, tamarind",Unhealthy,76,Moderate
+8906753710892,ZeroSugar Soda,Beverage,4.0,1.3,98,1.9,None,"maltodextrin, glucose, peanuts",Unhealthy,89,Healthy
+8901862416000,Mother Dairy Dahi,Beverage,41.1,1.5,24,4.4,E150d,"emulsifier, walnuts, artificial flavor, coriander, almonds, tamarind",Unhealthy,43,Unhealthy
+8907548265750,EnergyPlus Drink,Beverage,31.8,1.1,10,1.4,E110,"preservative, honey, almonds, trans fat, refined oil, brown rice",Unhealthy,49,Unhealthy
+8905945325617,Parle-G Biscuits,Snack,2.7,14.6,441,10.4,E200,"almonds, salt, coriander, walnuts, ginger",Healthy,84,Healthy
+8904276040286,ZeroSugar Soda,Beverage,51.4,2.5,26,0.3,E200,"green gram, refined oil, emulsifier, fiber, sugar, corn syrup",Unhealthy,22,Unhealthy
+8905122838249,Amul Toned Milk,Beverage,24.2,1.6,161,8.4,E100,"flaxseed, cumin, barley, corn syrup, clove",Healthy,79,Moderate
+8909613501615,Too Yumm Multigrain Chips,Snack,5.4,14.8,202,1.7,E200,"peanuts, sugar, refined oil, natural, quinoa, ragi, salt, preservative, hing",Unhealthy,64,Moderate
+8908049298020,Kurkure Masala Munch,Snack,4.4,13.4,396,11.0,E110,"invert sugar, coriander, refined oil, honey, green gram",Unhealthy,76,Moderate
+8901388698932,Amul Lassi,Beverage,28.6,4.6,97,0.0,E150d,"coriander, artificial color, palm oil, millets, emulsifier, trans fat, flaxseed, barley",Unhealthy,42,Unhealthy
+8908259267527,BrownBread Slice,Breakfast,0.4,6.6,273,11.1,None,"cumin, walnuts, black pepper, quinoa, refined oil",Healthy,100,Healthy
+8902509439824,Baked Veggie Chips,Snack,10.9,19.6,184,5.0,None,"peanuts, whole grain, stabilizer, green gram, hing, walnuts, black pepper",Healthy,73,Moderate
+8908181508714,Saffola Oats,Breakfast,13.9,4.2,276,9.5,E202,"fructose, hing, clove, corn syrup, natural, stabilizer",Unhealthy,78,Moderate
+8909613932523,Britannia Marie Gold,Snack,10.9,12.2,318,7.5,E200,"garlic, sugar, chia, fructose, hing, trans fat, clove, refined oil",Unhealthy,67,Moderate
+8902065862253,Maggi Masala Noodles,Snack,11.4,7.5,734,9.5,E211,"palm oil, artificial flavor, artificial color, salt, quinoa",Unhealthy,52,Moderate
+8903324375807,OatCrunch Cookies,Snack,21.6,9.5,290,1.0,E500,"flaxseed, artificial color, protein, fiber, brown rice, coriander",Healthy,50,Moderate
+8904827854661,OatCrunch Cookies,Snack,28.6,17.9,445,7.3,E150d,"fructose, green gram, jaggery, almonds, hing, millets, black pepper, corn syrup",Healthy,37,Unhealthy
+8907649215113,SodaPop Drink,Beverage,0.0,2.3,54,1.4,E296,"walnuts, hing, refined oil, almonds, whole grain, corn syrup",Healthy,98,Healthy
+8904381442649,BrownBread Slice,Breakfast,15.0,5.5,205,5.2,E110,"protein, artificial color, jaggery, green gram, invert sugar",Healthy,74,Moderate
+8903549255725,HealthyNut Mix,Snack,16.2,16.6,360,4.0,E110,"maltodextrin, preservative, refined oil, glucose, invert sugar",Unhealthy,42,Unhealthy
+8902709266873,Kellogg's Muesli,Breakfast,17.2,8.4,69,6.9,E330,"cumin, invert sugar, ginger, hing, artificial flavor, walnuts, fiber",Unhealthy,74,Moderate
+8907941631814,Saffola Oats,Breakfast,16.3,8.2,241,6.2,E330,"jaggery, palm oil, maltodextrin, clove, invert sugar, corn syrup",Unhealthy,65,Moderate
+8907477674349,Amul Lassi,Beverage,100.0,0.0,99,0.1,E100,"refined oil, artificial flavor, glucose, whole grain, artificial color, green gram, stabilizer",Unhealthy,0,Unhealthy
+8904778460872,ZeroSugar Soda,Beverage,22.5,1.7,123,0.0,E200,"whole grain, preservative, artificial flavor, emulsifier, invert sugar, salt, cumin",Unhealthy,54,Moderate
+8901660741298,EnergyPlus Drink,Beverage,49.8,0.3,36,2.9,E150d,"protein, natural, brown rice, oats, jaggery, fructose, black pepper, glucose, preservative",Healthy,37,Unhealthy
+8908727521658,Amul Toned Milk,Beverage,18.7,0.5,68,1.8,E200,"walnuts, corn syrup, brown rice, vitamin, sugar",Healthy,76,Moderate
+8900467982941,Too Yumm Multigrain Chips,Snack,12.3,21.3,455,2.6,E100,"trans fat, barley, brown rice, natural, clove, salt, whey protein, whole grain",Healthy,46,Unhealthy
+8901477108715,Amul Toned Milk,Beverage,26.1,0.0,40,6.3,E296,"almonds, refined oil, maltodextrin, glucose, fructose",Unhealthy,71,Moderate
+8904576912307,PowerBite Protein Bar,Snack,13.1,5.7,484,10.8,None,"quinoa, fructose, whey protein",Healthy,82,Healthy
+8903642856313,ZeroSugar Soda,Beverage,34.9,0.0,117,4.1,E500,"peanuts, corn syrup, honey, artificial flavor, salt, maltodextrin",Unhealthy,50,Moderate
+8904837015214,Haldiram Bhujia,Snack,7.6,37.4,488,1.0,None,"salt, fructose, honey, black pepper, turmeric, coriander, sugar, stabilizer, palm oil",Unhealthy,26,Unhealthy
+8901247110407,BrownBread Slice,Breakfast,19.7,12.8,111,8.3,E102,"garlic, corn syrup, natural, honey, millets",Unhealthy,65,Moderate
+8900179218349,Sunfeast Dark Fantasy,Snack,13.4,14.6,603,5.4,E200,"garlic, ginger, cardamom, natural, artificial flavor",Unhealthy,42,Unhealthy
+8904585225572,Kurkure Masala Munch,Snack,19.1,19.2,578,3.6,E120,"protein, artificial flavor, coriander, hing, turmeric",Unhealthy,27,Unhealthy
+8904294307137,Maggi Masala Noodles,Snack,13.4,21.8,634,1.0,None,"garlic, flaxseed, cardamom, hing, refined oil, oats, fiber",Healthy,35,Unhealthy
+8907154539952,Parle-G Biscuits,Snack,8.2,12.9,578,7.6,E150d,"walnuts, fiber, black pepper, ragi, stabilizer, maltodextrin, whole grain, clove",Healthy,62,Moderate
+8908444437629,Kurkure Masala Munch,Snack,2.5,5.0,511,17.7,E150d,"refined oil, corn syrup, peanuts, sugar",Unhealthy,97,Healthy
+8906281044039,Lays Classic Salted,Snack,0.0,23.8,370,5.7,E500,"oats, protein, glucose, peanuts, fructose, chia",Healthy,71,Moderate
+8907933705387,HealthyNut Mix,Snack,25.0,21.4,803,4.8,E211,"coriander, cumin, almonds, salt, emulsifier, natural",Unhealthy,6,Unhealthy
+8903766811660,Maggi Masala Noodles,Snack,23.8,9.4,251,4.7,E150d,"cumin, quinoa, barley, glucose, maltodextrin, fiber, black pepper, artificial flavor",Unhealthy,47,Unhealthy
+8907701015008,Granola Delight,Breakfast,17.8,7.0,371,6.5,E500,"cumin, oats, corn syrup",Unhealthy,58,Moderate
+8908078255390,Kellogg's Muesli,Breakfast,17.7,6.0,507,8.2,E200,"fructose, oats, trans fat",Unhealthy,57,Moderate
+8902940416706,HealthyNut Mix,Snack,5.2,13.8,419,6.7,E330,"peanuts, oats, glucose, vitamin, artificial color, fiber",Healthy,74,Moderate
+8908938085606,Yakult Probiotic,Beverage,16.6,1.5,163,7.3,E150d,"millets, tamarind, trans fat",Unhealthy,75,Moderate
+8907841096401,Kurkure Masala Munch,Snack,9.7,17.7,252,20.8,E202,"artificial color, cardamom, salt, maltodextrin, refined oil, ragi",Unhealthy,99,Healthy
+8901639738600,Too Yumm Multigrain Chips,Snack,8.0,22.7,354,7.0,E110,"fructose, millets",Unhealthy,55,Moderate
+8908606076057,Parle-G Biscuits,Snack,7.4,20.0,406,4.9,E202,"jaggery, artificial flavor, emulsifier, fiber, millets, preservative, green gram",Healthy,61,Moderate
+8906125870033,Oreo Vanilla,Snack,20.9,9.8,454,3.8,E100,"preservative, flaxseed, jaggery, refined oil, tamarind, turmeric",Unhealthy,41,Unhealthy
+8902711536188,Kellogg's Muesli,Breakfast,14.6,2.7,212,8.3,E202,"sugar, fructose, artificial flavor, coriander, corn syrup, turmeric",Unhealthy,79,Moderate
+8902451763268,ChocoBite Energy Bar,Snack,0.0,22.8,379,4.4,None,"glucose, invert sugar, ginger, stabilizer, chia, almonds, artificial color, quinoa",Unhealthy,64,Moderate
+8902619208527,Saffola Oats,Breakfast,26.5,4.0,284,6.0,E220,"barley, artificial color, trans fat, stabilizer, invert sugar",Unhealthy,53,Moderate
+8902882100027,Bournvita Health Drink,Beverage,35.7,0.3,120,0.0,E200,"brown rice, artificial flavor, maltodextrin, tamarind, invert sugar",Unhealthy,39,Unhealthy
+8901840037194,Too Yumm Multigrain Chips,Snack,5.0,14.9,570,18.0,E330,"sugar, glucose, coriander, refined oil, fructose, palm oil, whole grain, vitamin, black pepper",Unhealthy,85,Healthy
+8907184350279,Mother Dairy Dahi,Beverage,47.6,0.0,127,4.3,E200,"sugar, barley, cumin, walnuts, hing",Healthy,42,Unhealthy
+8902241664433,Paper Boat Jaljeera,Beverage,41.4,0.0,10,2.8,E100,"natural, emulsifier, honey, artificial color, maltodextrin, invert sugar",Unhealthy,44,Unhealthy
+8903840141886,ZeroSugar Soda,Beverage,34.4,1.5,91,1.4,E120,"honey, jaggery, stabilizer, vitamin, natural",Healthy,52,Moderate
+8903836264529,Horlicks Classic Malt,Beverage,39.6,0.1,55,3.8,E102,"natural, stabilizer, turmeric, garlic",Unhealthy,43,Unhealthy
+8902939234368,HealthyNut Mix,Snack,0.0,25.1,343,8.2,E330,"invert sugar, stabilizer, jaggery, barley, chia, walnuts, artificial flavor, sugar, clove",Unhealthy,69,Moderate
+8904392802021,OatCrunch Cookies,Snack,17.6,11.8,515,8.7,E120,"cumin, almonds, fiber, cardamom, quinoa, fructose, jaggery",Healthy,60,Moderate
+8904121447128,Sunfeast Dark Fantasy,Snack,21.7,16.8,828,8.8,None,"green gram, refined oil, cardamom, fiber, almonds",Healthy,38,Unhealthy
+8906354371262,Kellogg's Corn Flakes,Breakfast,20.6,10.7,378,10.2,E120,"flaxseed, refined oil, ginger, walnuts, millets, salt, whey protein, quinoa",Healthy,68,Moderate
+8906217229221,SodaPop Drink,Beverage,28.5,1.3,10,2.3,E220,"black pepper, brown rice, corn syrup",Unhealthy,58,Moderate
+8906065395866,Kurkure Masala Munch,Snack,19.5,10.3,336,8.2,E500,"millets, clove, refined oil, almonds, artificial color, garlic, sugar, glucose",Unhealthy,59,Moderate
+8908850036194,EnergyPlus Drink,Beverage,69.0,1.5,72,2.5,E211,"corn syrup, fructose, black pepper, stabilizer, green gram, natural, sugar",Unhealthy,0,Unhealthy
+8901832681497,Kellogg's Muesli,Breakfast,14.3,0.0,423,4.8,None,"turmeric, brown rice, oats, barley, corn syrup, stabilizer, artificial flavor",Unhealthy,67,Moderate
+8900691301278,Paper Boat Aam Panna,Beverage,8.9,0.6,132,3.3,E211,"trans fat, quinoa, oats, flaxseed, refined oil, artificial flavor, natural, salt, peanuts",Healthy,86,Healthy
+8901372329619,Kellogg's Muesli,Breakfast,18.1,4.9,100,8.3,E120,"brown rice, honey, turmeric, flaxseed, ragi",Healthy,86,Healthy
+8904700548969,Britannia Marie Gold,Snack,17.5,15.8,645,5.0,E500,"ragi, preservative, glucose, flaxseed, emulsifier, palm oil, artificial color, tamarind",Unhealthy,33,Unhealthy
+8904211702180,Baked Veggie Chips,Snack,8.1,14.7,277,5.6,E330,"jaggery, natural, brown rice, quinoa, sugar, glucose",Healthy,74,Moderate
+8905395416148,Kellogg's Muesli,Breakfast,23.2,9.7,134,7.1,E102,"green gram, whole grain, sugar, almonds, jaggery, salt",Unhealthy,59,Moderate
+8908823062842,Bingo Tedhe Medhe,Snack,32.8,23.0,340,8.5,None,"emulsifier, artificial color, brown rice, trans fat",Unhealthy,33,Unhealthy
+8903269961906,Tropicana Orange,Beverage,58.6,2.0,95,0.0,E110,"cumin, corn syrup, barley, refined oil, green gram",Unhealthy,6,Unhealthy
+8906828671810,Saffola Oats,Breakfast,8.7,5.8,160,7.8,E211,"fructose, oats, maltodextrin, corn syrup, emulsifier, honey, millets",Unhealthy,82,Healthy
+8908303233910,Paper Boat Jaljeera,Beverage,29.1,0.4,101,4.9,E110,"maltodextrin, invert sugar, walnuts",Unhealthy,57,Moderate
+8900531873396,OatCrunch Cookies,Snack,23.9,19.0,283,1.5,E200,"glucose, oats, quinoa, maltodextrin, walnuts, whey protein",Healthy,39,Unhealthy
+8904058259591,Paper Boat Aam Panna,Beverage,29.2,0.7,10,0.1,E500,"hing, green gram, ragi, honey, stabilizer, coriander",Healthy,61,Moderate
+8908523937909,Kellogg's Corn Flakes,Breakfast,19.2,4.7,30,6.0,E330,"emulsifier, maltodextrin, coriander, corn syrup, flaxseed, honey, ragi",Unhealthy,75,Moderate
+8908101948311,Haldiram Bhujia,Snack,21.4,19.4,302,5.6,E110,"hing, chia, brown rice, flaxseed, whey protein, fructose, whole grain, cumin",Healthy,47,Unhealthy
+8904511522364,Horlicks Classic Malt,Beverage,72.8,3.4,118,3.7,E330,"peanuts, clove, jaggery, fiber, garlic, sugar, chia",Healthy,4,Unhealthy
+8900344760288,HealthyNut Mix,Snack,28.1,15.5,597,5.6,E200,"sugar, cardamom, chia, artificial color, fiber",Healthy,31,Unhealthy
+8903650676238,Kellogg's Corn Flakes,Breakfast,6.1,8.1,393,11.3,E200,"corn syrup, whole grain, whey protein, tamarind, cumin, stabilizer, peanuts, maltodextrin, glucose",Unhealthy,83,Healthy
+8908756795753,Kurkure Masala Munch,Snack,30.5,24.7,629,20.9,E500,"maltodextrin, cumin, salt, turmeric, barley, artificial flavor, cardamom",Unhealthy,46,Unhealthy
+8907333000957,Saffola Oats,Breakfast,12.9,8.4,30,11.6,E220,"artificial flavor, palm oil, black pepper, artificial color, honey",Unhealthy,93,Healthy
+8904528125319,Saffola Oats,Breakfast,0.0,6.3,274,7.2,E102,"trans fat, honey, jaggery, vitamin, whole grain, green gram, emulsifier",Healthy,94,Healthy
+8904875766185,Yakult Probiotic,Beverage,28.9,2.0,71,3.3,E100,"jaggery, clove, trans fat, peanuts, palm oil, whole grain, glucose, stabilizer, fiber",Healthy,64,Moderate
+8908201429849,Granola Delight,Breakfast,22.7,5.1,223,11.0,E150d,"barley, hing, maltodextrin",Unhealthy,69,Moderate
+8903194020947,Tropicana Orange,Beverage,8.3,0.0,127,16.5,E220,"barley, ragi, jaggery, quinoa, artificial flavor",Healthy,100,Healthy
+8908217715814,Kellogg's Corn Flakes,Breakfast,7.6,0.2,38,7.7,E202,"fructose, jaggery, fiber, oats, sugar",Unhealthy,98,Healthy
+8909866076257,Real Mixed Fruit,Beverage,21.2,1.0,10,1.7,E500,"protein, artificial color, coriander, maltodextrin, whole grain",Unhealthy,66,Moderate
+8908507247619,Yakult Probiotic,Beverage,63.0,3.4,144,3.6,E330,"millets, barley, walnuts, glucose, salt, invert sugar, almonds, palm oil",Unhealthy,8,Unhealthy
+8900792066895,PowerBite Protein Bar,Snack,23.6,13.5,372,3.1,E120,"refined oil, fructose, almonds, artificial color, peanuts, clove, invert sugar",Unhealthy,36,Unhealthy
+8900219463712,Yakult Probiotic,Beverage,35.3,0.7,10,1.7,E211,"walnuts, jaggery, turmeric, emulsifier, millets",Healthy,53,Moderate
+8904429396535,Parle-G Biscuits,Snack,4.0,14.4,334,7.7,E150d,"honey, fiber, invert sugar, green gram, artificial flavor",Healthy,79,Moderate
+8907196175595,EnergyPlus Drink,Beverage,22.9,0.4,143,3.4,E150d,"invert sugar, brown rice, salt, sugar, refined oil, hing, artificial flavor",Unhealthy,59,Moderate
+8902544190486,Maggi Masala Noodles,Snack,8.9,15.2,387,8.3,E102,"clove, protein, black pepper, green gram, whole grain, artificial flavor",Healthy,70,Moderate
+8903487674303,Amul Lassi,Beverage,59.2,1.0,52,4.4,E500,"turmeric, millets, chia, whole grain, ginger, preservative",Healthy,30,Unhealthy
+8903865930232,Amul Toned Milk,Beverage,10.5,1.4,21,3.6,E102,"protein, cumin, emulsifier, sugar, vitamin, salt, preservative, brown rice",Unhealthy,81,Healthy
+8906235651877,Saffola Oats,Breakfast,16.8,13.0,310,7.8,None,"tamarind, stabilizer, whey protein, quinoa, walnuts",Healthy,72,Moderate
+8900422889822,Lays Classic Salted,Snack,4.0,22.2,460,3.0,E100,"emulsifier, tamarind, maltodextrin, barley, stabilizer, flaxseed",Unhealthy,48,Unhealthy
+8902963472359,Amul Toned Milk,Beverage,59.0,2.1,134,0.0,None,"maltodextrin, whole grain, artificial flavor",Unhealthy,10,Unhealthy
+8904265850335,Paper Boat Jaljeera,Beverage,22.6,1.5,141,12.0,E150d,"refined oil, trans fat, hing, stabilizer, whey protein",Unhealthy,79,Moderate
+8908079435786,Paper Boat Jaljeera,Beverage,25.2,0.0,10,9.8,E330,"stabilizer, whole grain, garlic, turmeric, fiber",Healthy,90,Healthy
+8901115857541,Bournvita Health Drink,Beverage,48.2,2.2,101,1.6,E330,"almonds, vitamin, whole grain, chia, salt",Healthy,33,Unhealthy
+8909786844567,Parle-G Biscuits,Snack,22.2,24.5,488,2.9,E500,"cardamom, protein, jaggery, oats, stabilizer, garlic, artificial flavor",Unhealthy,21,Unhealthy
+8901700965153,Tropicana Orange,Beverage,0.0,0.8,53,3.5,E500,"emulsifier, artificial flavor, whey protein, green gram, ginger, natural, quinoa, fructose, palm oil",Unhealthy,96,Healthy
+8901896912379,Bingo Tedhe Medhe,Snack,33.2,27.9,705,10.0,E150d,"turmeric, palm oil, brown rice, tamarind, peanuts",Healthy,14,Unhealthy
+8909584486448,OatCrunch Cookies,Snack,23.5,22.5,248,4.3,E120,"coriander, brown rice, black pepper, artificial color, vitamin, refined oil, clove, natural",Healthy,44,Unhealthy
+8908514054369,HealthyNut Mix,Snack,2.1,20.2,475,8.7,E102,"clove, almonds, fiber, coriander, millets, honey",Healthy,71,Moderate
+8903478293282,Paper Boat Aam Panna,Beverage,28.5,3.2,171,0.8,E120,"clove, protein, peanuts, green gram, trans fat, turmeric",Healthy,53,Moderate
+8901567598259,Mother Dairy Dahi,Beverage,82.6,1.2,104,2.5,None,"millets, jaggery, artificial flavor, glucose, refined oil",Unhealthy,0,Unhealthy
+8904479179596,Amul Lassi,Beverage,100.0,1.1,10,4.3,E330,"coriander, whole grain, emulsifier",Unhealthy,0,Unhealthy
+8904586961665,Oreo Vanilla,Snack,0.0,10.9,107,11.1,E100,"turmeric, quinoa, cumin, whole grain, natural, whey protein, artificial color, chia",Healthy,100,Healthy
+8905341846120,Too Yumm Multigrain Chips,Snack,12.1,15.3,361,5.5,E120,"ginger, maltodextrin, emulsifier, fiber, preservative",Unhealthy,56,Moderate
+8906098608296,Britannia Marie Gold,Snack,21.5,21.9,602,12.6,E500,"millets, brown rice, corn syrup, cumin, coriander, honey",Healthy,50,Moderate
+8905215741150,Maggi Masala Noodles,Snack,11.4,27.1,482,5.3,E220,"artificial flavor, almonds, black pepper, green gram",Healthy,46,Unhealthy
+8900870973914,Kellogg's Muesli,Breakfast,25.3,1.1,409,8.1,E220,"invert sugar, black pepper, quinoa, ragi, garlic",Healthy,64,Moderate
+8901653308230,Tropicana Orange,Beverage,58.7,0.0,66,1.7,E202,"trans fat, millets, maltodextrin, artificial flavor, sugar, invert sugar, garlic",Unhealthy,16,Unhealthy
+8907526941738,Parle-G Biscuits,Snack,0.0,11.7,587,1.0,E110,"fructose, almonds, cumin, hing, vitamin, honey, millets",Healthy,58,Moderate
+8904015734772,Kellogg's Corn Flakes,Breakfast,21.6,6.7,238,6.1,E220,"black pepper, ginger, refined oil, honey, ragi, garlic",Healthy,68,Moderate
+8902200444187,Granola Delight,Breakfast,3.9,4.9,144,10.1,E296,"oats, maltodextrin, refined oil, stabilizer, preservative",Unhealthy,98,Healthy
+8907314994626,Oreo Vanilla,Snack,2.6,29.6,500,6.9,E150d,"jaggery, emulsifier, chia, brown rice, invert sugar, corn syrup",Unhealthy,47,Unhealthy
+8904473649734,Kellogg's Corn Flakes,Breakfast,19.4,8.8,317,5.4,E330,"whey protein, barley, palm oil, ginger, flaxseed, cardamom",Healthy,63,Moderate
+8909784347062,Tropicana Orange,Beverage,80.0,0.1,128,5.7,E220,"palm oil, chia, artificial flavor, glucose, refined oil",Unhealthy,0,Unhealthy
+8900266012617,EnergyPlus Drink,Beverage,53.0,0.1,50,0.1,E500,"ragi, fructose, palm oil, invert sugar, preservative",Unhealthy,20,Unhealthy
+8904227579519,Too Yumm Multigrain Chips,Snack,1.7,17.4,462,4.0,E220,"clove, almonds, preservative, vitamin, oats, sugar, corn syrup",Unhealthy,58,Moderate
+8900362089870,SodaPop Drink,Beverage,41.9,0.4,49,2.9,E500,"whey protein, cumin, honey, millets, hing, chia, preservative, turmeric",Healthy,49,Unhealthy
+8909531253218,EnergyPlus Drink,Beverage,100.0,3.0,86,1.0,E211,"honey, garlic, protein, refined oil, salt",Unhealthy,0,Unhealthy
+8908974870254,Bournvita Health Drink,Beverage,26.3,1.5,15,3.9,E120,"artificial color, tamarind, whey protein, cumin, protein, fiber",Healthy,72,Moderate
+8909429011254,Horlicks Classic Malt,Beverage,18.6,0.2,78,2.2,E150d,"fructose, salt, stabilizer, emulsifier, peanuts",Unhealthy,66,Moderate
+8909417323524,Horlicks Classic Malt,Beverage,79.4,1.3,107,11.4,E120,"hing, coriander, chia, ragi, maltodextrin, preservative",Unhealthy,9,Unhealthy
+8900876916630,Baked Veggie Chips,Snack,19.7,20.3,444,2.6,E211,"refined oil, sugar, whey protein",Unhealthy,27,Unhealthy
+8900264508077,Saffola Oats,Breakfast,20.5,11.7,98,8.9,E500,"palm oil, cardamom, ragi, salt, whey protein, tamarind, refined oil, maltodextrin",Unhealthy,70,Moderate
+8909154558724,Real Mixed Fruit,Beverage,92.6,1.1,80,2.8,E102,"barley, preservative",Unhealthy,0,Unhealthy
+8908157737751,Mother Dairy Dahi,Beverage,13.0,2.7,33,12.3,E100,"turmeric, protein, maltodextrin, whey protein, hing, vitamin, invert sugar",Healthy,100,Healthy
+8907685431942,Tropicana Orange,Beverage,34.2,0.0,76,1.0,E100,"walnuts, fructose, tamarind, chia, coriander, ginger",Healthy,54,Moderate
+8900695479451,ZeroSugar Soda,Beverage,63.7,1.5,10,0.9,E110,"walnuts, corn syrup, tamarind, maltodextrin, stabilizer",Unhealthy,6,Unhealthy
+8906234896379,Quaker Oats,Breakfast,10.1,1.9,304,4.5,E330,"fructose, flaxseed, palm oil, ragi, emulsifier, stabilizer, cardamom, glucose",Unhealthy,72,Moderate
+8902292994417,Granola Delight,Breakfast,16.6,5.6,244,2.0,E200,"salt, stabilizer, flaxseed, barley, cumin, invert sugar, sugar",Unhealthy,57,Moderate
+8905134072787,Kellogg's Corn Flakes,Breakfast,19.9,4.4,128,2.0,E200,"trans fat, green gram, fructose, whole grain, sugar, vitamin",Unhealthy,60,Moderate
+8909590931499,Parle-G Biscuits,Snack,19.0,18.1,523,13.4,E220,"preservative, emulsifier, fructose, fiber",Unhealthy,55,Moderate
+8908814240980,ChocoBite Energy Bar,Snack,21.9,24.9,235,2.0,E150d,"palm oil, coriander, hing, green gram, clove, vitamin",Healthy,36,Unhealthy
+8902408897656,Tropicana Orange,Beverage,1.2,2.0,184,2.7,E150d,"turmeric, black pepper, refined oil, brown rice, millets, tamarind, jaggery, whole grain",Healthy,90,Healthy
+8902158216697,Saffola Oats,Breakfast,14.6,1.3,128,8.2,E211,"corn syrup, barley, green gram, invert sugar, natural, whole grain, whey protein",Healthy,89,Healthy
+8908947275753,Parle-G Biscuits,Snack,23.9,23.7,315,5.3,E200,"ragi, jaggery, preservative, green gram, protein, artificial color, trans fat",Unhealthy,34,Unhealthy
+8907668999306,Paper Boat Aam Panna,Beverage,25.9,2.4,47,4.6,E500,"fructose, jaggery, quinoa, tamarind, refined oil",Healthy,72,Moderate
+8908281030969,Kellogg's Corn Flakes,Breakfast,13.4,3.0,48,14.0,E202,"cardamom, hing, invert sugar, garlic, glucose, refined oil",Unhealthy,100,Healthy
+8905629372643,Sunfeast Dark Fantasy,Snack,22.4,16.2,288,7.4,None,"natural, corn syrup, clove, glucose, green gram, walnuts, refined oil",Unhealthy,54,Moderate
+8906766273504,Real Mixed Fruit,Beverage,93.8,0.6,152,3.3,E150d,"artificial color, tamarind, fructose, whey protein, ginger, turmeric, glucose, stabilizer",Unhealthy,0,Unhealthy
+8902734489077,Horlicks Classic Malt,Beverage,55.0,1.4,119,2.7,E500,"whole grain, maltodextrin, honey, palm oil, walnuts, glucose, corn syrup, whey protein, clove",Unhealthy,19,Unhealthy
+8905846392990,Britannia Marie Gold,Snack,8.5,13.2,155,8.8,E211,"chia, invert sugar, trans fat, fructose, black pepper, palm oil, ginger, garlic",Unhealthy,78,Moderate
+8909896929864,Yakult Probiotic,Beverage,54.9,2.8,59,0.0,E211,"jaggery, stabilizer, whey protein, fructose, maltodextrin",Healthy,19,Unhealthy
+8905100508274,ZeroSugar Soda,Beverage,0.0,0.4,123,0.1,E102,"emulsifier, salt, millets, artificial flavor, maltodextrin, artificial color, ginger, tamarind",Unhealthy,82,Healthy
+8903276318709,Bournvita Health Drink,Beverage,44.4,0.4,163,6.3,E296,"jaggery, protein, natural, artificial flavor, ginger",Healthy,48,Unhealthy
+8906240104841,Paper Boat Aam Panna,Beverage,46.2,0.0,177,2.3,E120,"palm oil, oats, salt, maltodextrin, green gram, garlic",Unhealthy,28,Unhealthy
+8904473011917,Sunfeast Dark Fantasy,Snack,24.6,13.2,686,7.4,E102,"protein, trans fat, honey, peanuts, clove, cumin",Healthy,35,Unhealthy
+8900507579401,Amul Toned Milk,Beverage,38.9,1.4,113,3.2,None,"millets, emulsifier, green gram, glucose, brown rice, ragi, palm oil",Healthy,54,Moderate
+8908383229362,BrownBread Slice,Breakfast,11.2,11.8,30,8.6,E102,"palm oil, fiber, whole grain, trans fat, cumin, oats, honey",Healthy,89,Healthy
+8906882093432,Real Mixed Fruit,Beverage,33.6,0.6,39,1.7,E202,"palm oil, trans fat, refined oil, protein, turmeric, walnuts, glucose, flaxseed, ragi",Unhealthy,49,Unhealthy
+8903214575235,Bingo Tedhe Medhe,Snack,15.0,28.2,446,4.5,E100,"barley, sugar, brown rice, refined oil, millets, peanuts, preservative",Healthy,40,Unhealthy
+8902978236554,Tropicana Orange,Beverage,68.3,1.1,39,0.0,E100,"fructose, palm oil, quinoa, sugar, tamarind, invert sugar, clove",Unhealthy,0,Unhealthy
+8902999284927,Paper Boat Jaljeera,Beverage,68.5,0.8,102,1.2,E110,"maltodextrin, fructose, flaxseed, artificial flavor, oats, protein, ragi",Healthy,4,Unhealthy
+8905238528858,OatCrunch Cookies,Snack,14.2,25.1,198,8.7,E211,"invert sugar, salt, ginger, preservative, black pepper, oats, garlic",Unhealthy,56,Moderate
+8905777604874,Soy Protein Drink,Beverage,50.9,0.2,80,0.3,E150d,"salt, sugar, ginger, maltodextrin, cardamom",Unhealthy,19,Unhealthy
+8907638752520,ChocoBite Energy Bar,Snack,0.0,8.9,407,1.0,E500,"tamarind, barley, quinoa, invert sugar, peanuts",Healthy,73,Moderate
+8904252416536,Haldiram Bhujia,Snack,11.9,16.6,406,2.3,E296,"cardamom, artificial flavor, stabilizer, sugar, trans fat, peanuts, clove, fructose, black pepper",Unhealthy,45,Unhealthy
+8904707761095,Kellogg's Corn Flakes,Breakfast,8.2,4.2,113,5.3,None,"artificial flavor, glucose, natural, protein, preservative",Unhealthy,88,Healthy
+8904718109899,Baked Veggie Chips,Snack,5.1,17.6,522,4.8,E202,"cumin, oats, maltodextrin, almonds, clove, cardamom, sugar",Unhealthy,53,Moderate
+8901103075310,Kellogg's Corn Flakes,Breakfast,9.5,5.1,248,12.8,E200,"preservative, refined oil, quinoa, chia, natural, walnuts",Healthy,100,Healthy
+8909533671842,Kellogg's Muesli,Breakfast,22.9,6.0,261,7.0,E110,"glucose, cumin, brown rice, invert sugar, stabilizer",Unhealthy,57,Moderate
+8900704932311,Real Mixed Fruit,Beverage,12.2,1.5,128,9.4,E330,"quinoa, ginger, refined oil, sugar, garlic, fructose, salt",Unhealthy,90,Healthy
+8900202650206,Paper Boat Aam Panna,Beverage,75.7,0.0,10,1.5,E150d,"natural, protein, glucose, green gram, whole grain, preservative, corn syrup, artificial color, refined oil",Unhealthy,0,Unhealthy
+8900764731375,Oreo Vanilla,Snack,8.6,21.5,671,6.6,E202,"fiber, vitamin, oats, peanuts, palm oil, fructose, corn syrup",Healthy,49,Unhealthy
+8909865112283,OatCrunch Cookies,Snack,17.1,22.5,80,1.0,E100,"salt, ragi, hing, tamarind, chia",Unhealthy,45,Unhealthy
+8901547888011,Lays Classic Salted,Snack,24.5,18.9,277,1.0,E211,"honey, artificial flavor, walnuts, jaggery, preservative",Healthy,34,Unhealthy
+8909375742606,Oreo Vanilla,Snack,12.0,29.3,293,4.2,None,"green gram, chia, whole grain, black pepper, barley, maltodextrin",Healthy,54,Moderate
+8909590740910,Soy Protein Drink,Beverage,0.0,2.0,105,4.1,E102,"maltodextrin, whey protein, sugar, protein",Unhealthy,91,Healthy
+8905693956243,Paper Boat Jaljeera,Beverage,45.8,1.6,104,7.9,E220,"vitamin, maltodextrin, trans fat, refined oil",Unhealthy,44,Unhealthy
+8903402721025,Tropicana Orange,Beverage,79.3,1.6,19,1.2,E296,"black pepper, green gram, hing, sugar, invert sugar, quinoa",Unhealthy,0,Unhealthy
+8904525247184,Parle-G Biscuits,Snack,0.0,20.5,619,6.9,E202,"ragi, coriander, trans fat, garlic, hing",Unhealthy,57,Moderate
+8901392704857,SodaPop Drink,Beverage,38.9,1.9,121,0.0,E330,"oats, ragi, green gram, quinoa, cardamom, salt",Healthy,41,Unhealthy
+8907228671707,Soy Protein Drink,Beverage,20.3,0.8,26,7.8,E202,"artificial color, jaggery, walnuts, artificial flavor, coriander",Healthy,90,Healthy
+8902651266414,Soy Protein Drink,Beverage,32.9,0.0,80,0.0,E211,"honey, flaxseed, whey protein, ragi, corn syrup, palm oil, artificial color",Healthy,50,Moderate
+8900599368308,Saffola Oats,Breakfast,12.4,9.5,237,7.2,E296,"whole grain, hing, invert sugar, fructose, emulsifier",Unhealthy,71,Moderate
+8908150532738,ZeroSugar Soda,Beverage,97.4,2.0,86,3.3,E102,"stabilizer, oats, artificial flavor, whey protein, palm oil",Unhealthy,0,Unhealthy
+8908978118113,Kellogg's Muesli,Breakfast,12.0,8.3,30,5.2,E296,"fiber, salt, coriander, oats, artificial color, vitamin",Healthy,86,Healthy
+8905881434021,OatCrunch Cookies,Snack,0.0,15.6,374,10.9,E202,"chia, whole grain, peanuts, preservative, tamarind, hing",Healthy,91,Healthy
+8903121393527,Kellogg's Corn Flakes,Breakfast,20.5,6.8,241,7.2,None,"clove, garlic, preservative, artificial flavor, emulsifier, whey protein, whole grain",Unhealthy,67,Moderate
+8900016034073,Kurkure Masala Munch,Snack,0.0,17.8,403,1.0,E211,"flaxseed, invert sugar, sugar, fiber",Unhealthy,53,Moderate
+8908884454831,Horlicks Classic Malt,Beverage,0.0,1.0,79,10.8,E200,"almonds, preservative, sugar, peanuts, ragi, trans fat",Healthy,100,Healthy
+8903145227604,EnergyPlus Drink,Beverage,50.3,0.3,10,0.0,E500,"barley, preservative, walnuts, salt",Unhealthy,25,Unhealthy
+8905212604993,OatCrunch Cookies,Snack,24.3,9.1,224,1.4,E100,"cardamom, palm oil, jaggery, fiber, ragi",Healthy,51,Moderate
+8909671272391,Parle-G Biscuits,Snack,6.4,25.9,249,3.1,E330,"whey protein, preservative, cumin, sugar, artificial flavor",Unhealthy,52,Moderate
+8908360975107,PowerBite Protein Bar,Snack,30.4,13.0,602,9.6,E200,"black pepper, refined oil, walnuts, sugar, vitamin, invert sugar",Unhealthy,32,Unhealthy
+8906410482539,Parle-G Biscuits,Snack,27.3,22.5,759,6.5,E120,"coriander, stabilizer, tamarind, millets, fructose",Unhealthy,11,Unhealthy
+8909888651191,Real Mixed Fruit,Beverage,43.8,0.3,21,3.4,E100,"emulsifier, fiber, maltodextrin, hing, vitamin, barley, green gram, artificial color",Healthy,49,Unhealthy
+8909972725978,Oreo Vanilla,Snack,0.0,28.9,411,1.0,E200,"green gram, almonds, refined oil, palm oil, corn syrup, flaxseed",Unhealthy,45,Unhealthy
+8901614987884,Paper Boat Aam Panna,Beverage,62.2,1.0,80,2.0,E200,"brown rice, vitamin, cumin, refined oil, sugar",Unhealthy,10,Unhealthy
+8907058188868,Quaker Oats,Breakfast,18.9,8.0,327,8.5,E211,"barley, ginger, artificial flavor, hing, fructose, honey, whey protein",Healthy,68,Moderate
+8905815794494,Parle-G Biscuits,Snack,20.8,18.4,393,5.6,E220,"ragi, trans fat, jaggery, millets, salt",Unhealthy,40,Unhealthy
+8903858154038,ChocoBite Energy Bar,Snack,11.6,12.1,266,7.3,E330,"coriander, vitamin, turmeric, ragi, brown rice",Healthy,76,Moderate
+8907057119061,Mother Dairy Dahi,Beverage,32.5,2.7,129,2.5,E150d,"garlic, corn syrup, vitamin, preservative, maltodextrin, tamarind",Unhealthy,43,Unhealthy
+8904718888882,EnergyPlus Drink,Beverage,65.7,3.3,13,0.4,E120,"chia, maltodextrin, invert sugar, coriander, honey, hing, artificial flavor",Unhealthy,3,Unhealthy
+8901424663433,Bournvita Health Drink,Beverage,70.7,0.0,115,9.3,E200,"cumin, jaggery, natural, garlic, honey",Healthy,24,Unhealthy
+8902877559739,Quaker Oats,Breakfast,21.2,5.6,117,6.4,E120,"salt, quinoa, artificial color, stabilizer, trans fat",Unhealthy,68,Moderate
+8903869529687,Soy Protein Drink,Beverage,94.6,0.0,112,0.0,E220,"ginger, quinoa, millets, ragi, vitamin, preservative",Healthy,0,Unhealthy
+8906179437503,Tropicana Orange,Beverage,67.3,0.0,113,0.1,E330,"palm oil, natural, whole grain, turmeric, cardamom, whey protein, corn syrup, salt",Unhealthy,0,Unhealthy
+8909370780861,PowerBite Protein Bar,Snack,3.2,8.0,598,5.5,E102,"flaxseed, fructose, trans fat, ragi, quinoa, cumin",Healthy,68,Moderate
+8907936617562,Amul Lassi,Beverage,13.1,0.1,117,1.3,E211,"flaxseed, salt, palm oil, refined oil, black pepper, protein, green gram, artificial flavor, brown rice",Healthy,77,Moderate
+8904894591991,ChocoBite Energy Bar,Snack,9.3,18.2,559,6.8,E200,"hing, preservative, stabilizer, chia",Unhealthy,50,Moderate
+8905230056721,Horlicks Classic Malt,Beverage,54.6,0.0,88,5.6,E296,"glucose, whey protein, sugar, emulsifier, hing",Unhealthy,30,Unhealthy
+8906144844329,Baked Veggie Chips,Snack,3.8,18.9,623,6.0,E500,"maltodextrin, turmeric, vitamin, black pepper",Unhealthy,51,Moderate
+8900361088103,Britannia Marie Gold,Snack,17.1,16.5,299,5.8,E100,"protein, salt, green gram, artificial flavor, honey, chia",Healthy,60,Moderate
+8909601736700,Yakult Probiotic,Beverage,57.9,1.2,70,3.4,None,"black pepper, hing, barley, millets, fructose, tamarind",Unhealthy,24,Unhealthy
+8903242003494,Amul Toned Milk,Beverage,93.0,0.1,147,2.8,E200,"garlic, green gram, barley, natural, fiber, oats",Healthy,0,Unhealthy
+8902398340289,Kellogg's Muesli,Breakfast,16.8,5.2,293,3.0,E202,"brown rice, whey protein, invert sugar, corn syrup, trans fat, barley, maltodextrin",Unhealthy,57,Moderate
+8907750717164,Yakult Probiotic,Beverage,53.4,2.4,229,1.2,E110,"ginger, ragi, chia, emulsifier, walnuts, black pepper",Healthy,16,Unhealthy
+8907312255233,Baked Veggie Chips,Snack,10.5,20.2,430,1.7,E220,"invert sugar, glucose, refined oil, emulsifier, whey protein",Unhealthy,40,Unhealthy
+8902523305560,Too Yumm Multigrain Chips,Snack,13.2,29.8,503,9.4,E110,"corn syrup, turmeric, ragi, cardamom, barley, salt, stabilizer",Unhealthy,39,Unhealthy
+8905849383334,Kurkure Masala Munch,Snack,11.6,28.1,121,3.2,E220,"salt, turmeric, stabilizer, jaggery, emulsifier",Unhealthy,50,Moderate
+8900645010894,Too Yumm Multigrain Chips,Snack,6.5,16.7,228,3.6,E102,"black pepper, clove, glucose, palm oil, chia",Unhealthy,61,Moderate
+8903943799014,Kellogg's Muesli,Breakfast,22.4,3.5,413,9.2,E150d,"ginger, vitamin, brown rice, honey, sugar, millets",Healthy,65,Moderate
+8904300517951,EnergyPlus Drink,Beverage,39.5,0.0,59,1.0,E211,"salt, invert sugar, oats, natural",Unhealthy,37,Unhealthy
+8903767623443,Amul Lassi,Beverage,100.0,0.0,105,1.6,E211,"flaxseed, ginger, maltodextrin, oats, corn syrup, palm oil, refined oil",Unhealthy,0,Unhealthy
+8901183007530,Saffola Oats,Breakfast,0.0,0.6,205,9.3,E330,"sugar, black pepper, ragi, artificial flavor, oats, chia, refined oil, tamarind",Healthy,100,Healthy
+8902673196583,PowerBite Protein Bar,Snack,0.0,20.5,718,7.5,None,"brown rice, stabilizer, preservative, glucose",Unhealthy,57,Moderate
+8905559473212,Kellogg's Corn Flakes,Breakfast,18.2,3.4,123,5.8,E500,"fructose, natural, trans fat, garlic, artificial color, emulsifier",Unhealthy,72,Moderate
+8905804178854,Amul Toned Milk,Beverage,71.7,3.3,101,0.2,None,"fiber, fructose, turmeric, oats, cardamom, flaxseed",Healthy,2,Unhealthy
+8908606301900,Britannia Marie Gold,Snack,21.3,31.2,310,7.2,E120,"tamarind, jaggery, stabilizer, cardamom",Unhealthy,34,Unhealthy
+8906772608202,Amul Toned Milk,Beverage,74.2,2.2,51,0.0,None,"turmeric, preservative, corn syrup, oats, green gram, cardamom, cumin, artificial color",Healthy,2,Unhealthy
+8909899983164,Yakult Probiotic,Beverage,46.7,0.0,73,0.2,E211,"stabilizer, artificial flavor, whole grain, ginger, preservative, walnuts",Unhealthy,25,Unhealthy
+8908467004377,Lays Classic Salted,Snack,7.6,17.7,659,1.0,E330,"cumin, cardamom, glucose, refined oil, stabilizer, protein, hing, maltodextrin, invert sugar",Unhealthy,33,Unhealthy
+8905408445127,Bingo Tedhe Medhe,Snack,12.7,26.8,426,4.9,E500,"refined oil, oats, honey, trans fat, cardamom, sugar",Unhealthy,39,Unhealthy
+8907658966996,Tropicana Orange,Beverage,64.0,2.3,123,0.0,None,"walnuts, fructose, peanuts, tamarind, garlic, palm oil, whey protein",Unhealthy,4,Unhealthy
+8903713086466,Tropicana Orange,Beverage,48.0,0.0,123,3.0,None,"oats, fructose, ragi, chia, maltodextrin",Healthy,42,Unhealthy
+8907124616873,Amul Toned Milk,Beverage,69.7,2.7,10,2.7,E211,"artificial flavor, peanuts, maltodextrin, garlic, coriander, millets",Unhealthy,1,Unhealthy
+8901054493290,Too Yumm Multigrain Chips,Snack,1.1,22.0,444,6.6,E102,"maltodextrin, preservative, refined oil, vitamin, hing, cardamom, trans fat",Unhealthy,59,Moderate
+8901152618267,Kellogg's Muesli,Breakfast,17.3,7.4,331,7.2,E220,"flaxseed, invert sugar, peanuts, oats, green gram",Healthy,70,Moderate
+8906489666956,Bingo Tedhe Medhe,Snack,22.6,8.4,346,8.2,E296,"turmeric, whey protein, honey, natural, palm oil, artificial flavor, sugar",Healthy,64,Moderate
+8908923275225,Soy Protein Drink,Beverage,6.4,1.2,44,8.7,E296,"whole grain, fiber, palm oil, salt, artificial color, jaggery",Unhealthy,100,Healthy
+8908273062018,HealthyNut Mix,Snack,12.8,25.5,353,8.1,E220,"ragi, vitamin, green gram, natural, brown rice, artificial flavor",Healthy,59,Moderate
+8907817399611,ChocoBite Energy Bar,Snack,22.4,12.0,473,8.1,E211,"vitamin, whole grain, fructose, almonds, jaggery",Healthy,51,Moderate
+8904285417212,Lays Classic Salted,Snack,23.7,29.8,449,9.6,E211,"clove, black pepper, invert sugar, palm oil, quinoa, artificial flavor, trans fat",Unhealthy,28,Unhealthy
+8908959175127,Quaker Oats,Breakfast,18.6,7.5,209,12.0,E100,"artificial color, trans fat, chia, maltodextrin, barley, palm oil",Unhealthy,78,Moderate
+8905572231838,Baked Veggie Chips,Snack,16.4,14.7,433,1.0,None,"artificial color, artificial flavor, peanuts, ginger, glucose, emulsifier, flaxseed",Unhealthy,40,Unhealthy
+8906579691243,Sunfeast Dark Fantasy,Snack,2.3,22.2,273,7.8,E211,"palm oil, stabilizer, tamarind, quinoa, coriander",Unhealthy,68,Moderate
+8901495071880,Yakult Probiotic,Beverage,87.6,2.5,17,2.7,E500,"millets, invert sugar, oats, whole grain, maltodextrin, ragi, jaggery, corn syrup",Healthy,0,Unhealthy
+8901956999823,Quaker Oats,Breakfast,27.9,5.2,317,8.5,None,"clove, walnuts, black pepper, flaxseed, preservative, tamarind, fructose",Unhealthy,59,Moderate
+8900248127562,Britannia Marie Gold,Snack,1.3,9.9,513,1.4,E150d,"preservative, fructose, vitamin, walnuts, coriander, trans fat, ragi",Healthy,63,Moderate
+8901957055030,Kellogg's Corn Flakes,Breakfast,22.3,8.0,282,8.9,None,"artificial flavor, chia, cumin, barley, ginger, millets, vitamin",Healthy,74,Moderate
+8901163191721,Britannia Marie Gold,Snack,0.0,5.0,282,3.2,E296,"almonds, jaggery, quinoa, peanuts, invert sugar, fiber",Healthy,88,Healthy
+8900760955536,Parle-G Biscuits,Snack,14.1,17.6,489,7.6,E220,"natural, brown rice, barley, walnuts, artificial color, trans fat, artificial flavor, black pepper",Healthy,57,Moderate
+8908525377245,Kellogg's Muesli,Breakfast,28.8,3.2,329,7.9,None,"ginger, protein, black pepper, artificial color, natural, invert sugar, clove, artificial flavor",Unhealthy,57,Moderate
+8900415645692,Soy Protein Drink,Beverage,36.0,2.5,10,0.0,E200,"jaggery, clove, vitamin, cumin, sugar",Unhealthy,42,Unhealthy
+8904496461801,Real Mixed Fruit,Beverage,52.8,1.3,127,2.6,E200,"palm oil, quinoa, salt, protein, ginger",Unhealthy,22,Unhealthy
+8903403341097,Quaker Oats,Breakfast,20.0,5.2,337,6.6,E330,"clove, turmeric, vitamin, quinoa, garlic, emulsifier, jaggery, whole grain, corn syrup",Healthy,67,Moderate
+8900221880897,Mother Dairy Dahi,Beverage,78.6,0.4,107,1.6,E110,"flaxseed, hing, palm oil, cardamom, fructose, preservative, refined oil",Unhealthy,0,Unhealthy
+8906550116276,Paper Boat Aam Panna,Beverage,80.4,1.7,51,2.3,E220,"whey protein, protein, oats, sugar, millets, turmeric, trans fat, fructose",Healthy,0,Unhealthy
+8902334209500,Kurkure Masala Munch,Snack,8.5,13.6,637,1.0,E220,"trans fat, invert sugar, artificial flavor, millets, fructose, almonds, peanuts",Unhealthy,37,Unhealthy
+8903526792459,OatCrunch Cookies,Snack,14.4,31.6,229,8.7,E100,"ragi, fiber, quinoa, glucose, clove, preservative",Unhealthy,51,Moderate
+8907287249513,Tropicana Orange,Beverage,47.9,1.7,81,0.0,E330,"protein, trans fat, artificial color, glucose, hing, palm oil, garlic",Unhealthy,23,Unhealthy
+8908674327830,Paper Boat Aam Panna,Beverage,17.8,1.6,52,0.0,E220,"almonds, honey, hing, walnuts, emulsifier, refined oil, black pepper",Healthy,72,Moderate
+8907592539831,Sunfeast Dark Fantasy,Snack,12.3,29.9,339,10.5,E120,"salt, honey, ragi, quinoa, sugar, cardamom",Healthy,62,Moderate
+8909201466630,Lays Classic Salted,Snack,13.7,11.8,486,7.6,E200,"fructose, natural, chia, barley, quinoa, stabilizer",Healthy,64,Moderate
+8901333804725,ChocoBite Energy Bar,Snack,10.3,29.5,684,10.1,E330,"vitamin, peanuts, garlic, artificial flavor, whole grain, brown rice",Healthy,47,Unhealthy
+8903707060755,Granola Delight,Breakfast,18.6,4.2,403,7.5,E500,"salt, flaxseed, fiber, protein, emulsifier, whole grain, millets",Healthy,69,Moderate
+8909798335114,BrownBread Slice,Breakfast,12.3,0.0,239,10.2,E330,"green gram, fructose, ragi, invert sugar, flaxseed, protein, oats",Healthy,96,Healthy
+8907776781048,ZeroSugar Soda,Beverage,54.2,0.3,10,8.7,E330,"coriander, garlic, stabilizer, turmeric, trans fat, brown rice",Unhealthy,41,Unhealthy
+8909354906813,Paper Boat Aam Panna,Beverage,18.8,0.0,26,0.5,E220,"walnuts, green gram, jaggery, fructose, glucose, vitamin, almonds",Healthy,75,Moderate
+8907372381093,Tropicana Orange,Beverage,0.0,2.7,91,0.0,E202,"preservative, natural, invert sugar, ragi, stabilizer, oats, vitamin",Healthy,92,Healthy
+8905642130508,OatCrunch Cookies,Snack,13.4,18.2,389,8.9,E211,"natural, corn syrup, honey, almonds, vitamin",Healthy,63,Moderate
+8900982038599,Maggi Masala Noodles,Snack,12.2,19.3,279,7.5,E100,"stabilizer, invert sugar, ginger, protein, sugar",Unhealthy,60,Moderate
+8903286275476,Paper Boat Aam Panna,Beverage,71.0,0.8,91,4.2,E202,"brown rice, green gram, fructose, black pepper, barley, tamarind",Healthy,12,Unhealthy
+8906635435604,Soy Protein Drink,Beverage,9.1,0.0,10,2.1,E500,"oats, maltodextrin, sugar, fructose, whey protein, green gram, vitamin",Unhealthy,84,Healthy
+8905374871927,SodaPop Drink,Beverage,11.7,2.1,53,7.3,E500,"quinoa, salt, ginger, cumin, millets, black pepper, refined oil",Unhealthy,89,Healthy
+8909581283211,Amul Lassi,Beverage,10.6,2.8,91,0.0,E200,"quinoa, salt, artificial flavor, clove, vitamin, almonds, cumin, barley, preservative",Healthy,78,Moderate
+8909292394820,Kurkure Masala Munch,Snack,19.8,11.3,209,8.8,E100,"black pepper, whole grain, coriander, walnuts, peanuts",Healthy,73,Moderate
+8909355552166,Bingo Tedhe Medhe,Snack,11.5,16.9,393,8.9,None,"cardamom, refined oil, garlic, whey protein, fructose, tamarind, emulsifier, fiber, sugar",Unhealthy,65,Moderate
+8900616598618,Tropicana Orange,Beverage,6.0,2.4,96,11.2,E150d,"protein, walnuts, honey, corn syrup, barley",Healthy,100,Healthy
+8904240648644,Granola Delight,Breakfast,23.4,4.5,145,8.0,E296,"fructose, flaxseed, corn syrup, preservative, walnuts, turmeric",Healthy,77,Moderate
+8907568906794,BrownBread Slice,Breakfast,7.3,5.3,30,10.8,E102,"black pepper, preservative, tamarind, vitamin",Unhealthy,98,Healthy
+8903865022088,Paper Boat Aam Panna,Beverage,95.8,1.2,71,3.6,E150d,"sugar, palm oil, invert sugar, quinoa, chia, artificial color, vitamin",Unhealthy,0,Unhealthy
+8907000291485,Paper Boat Aam Panna,Beverage,42.6,1.1,248,2.9,None,"ragi, artificial flavor, walnuts, flaxseed, green gram, refined oil",Healthy,42,Unhealthy
+8900099539588,Real Mixed Fruit,Beverage,100.0,2.0,13,0.8,E211,"emulsifier, cardamom, ragi, chia, maltodextrin, salt, hing, sugar",Unhealthy,0,Unhealthy
+8906216067777,Granola Delight,Breakfast,15.8,2.3,455,4.4,E202,"turmeric, whole grain, garlic, cumin, refined oil",Unhealthy,56,Moderate
+8901471139567,Sunfeast Dark Fantasy,Snack,15.4,17.1,608,7.0,E200,"natural, walnuts, maltodextrin, ragi, jaggery, palm oil",Healthy,49,Unhealthy
+8906690438077,Amul Toned Milk,Beverage,58.5,0.0,41,3.0,E200,"glucose, oats, salt, artificial flavor, stabilizer, turmeric, honey",Unhealthy,21,Unhealthy
+8906059039456,Too Yumm Multigrain Chips,Snack,7.6,7.6,498,8.6,E200,"vitamin, emulsifier, ragi, protein, preservative",Healthy,78,Moderate
+8906478134625,ZeroSugar Soda,Beverage,60.9,0.8,69,0.7,E120,"flaxseed, walnuts, palm oil, invert sugar, protein, tamarind, peanuts, artificial color",Unhealthy,10,Unhealthy
+8903605232148,Britannia Marie Gold,Snack,23.5,22.9,309,3.8,E120,"palm oil, artificial flavor, flaxseed, vitamin, protein, oats, turmeric, natural",Healthy,40,Unhealthy
+8901177528620,PowerBite Protein Bar,Snack,28.4,26.1,324,1.4,E500,"ginger, oats, clove, flaxseed, maltodextrin",Unhealthy,16,Unhealthy
+8902175890785,HealthyNut Mix,Snack,4.3,23.6,470,1.0,E500,"garlic, quinoa, fructose, whey protein, cardamom",Healthy,49,Unhealthy
+8900219543995,Sunfeast Dark Fantasy,Snack,13.0,26.7,213,15.6,E211,"coriander, salt, glucose, millets, black pepper, artificial color, hing",Unhealthy,72,Moderate
+8900102220035,Yakult Probiotic,Beverage,3.9,0.0,10,1.2,None,"emulsifier, turmeric, artificial flavor, refined oil, protein, stabilizer, fructose",Unhealthy,93,Healthy
+8901045653008,Too Yumm Multigrain Chips,Snack,0.0,19.4,495,2.5,E211,"ragi, protein, fiber, preservative, turmeric, whey protein",Healthy,58,Moderate
+8909573169572,Bournvita Health Drink,Beverage,45.5,0.5,55,0.0,E296,"sugar, oats, almonds",Healthy,37,Unhealthy
+8906572192203,Kellogg's Corn Flakes,Breakfast,15.9,8.7,192,8.1,E102,"artificial color, hing, green gram, natural, refined oil, palm oil",Unhealthy,69,Moderate
+8907918502666,Tropicana Orange,Beverage,24.5,0.0,125,1.3,E110,"brown rice, jaggery, glucose, millets",Healthy,62,Moderate
+8902885393460,Too Yumm Multigrain Chips,Snack,0.0,15.1,373,5.7,E100,"honey, refined oil, protein, fructose, almonds",Healthy,79,Moderate
+8909854934301,Tropicana Orange,Beverage,42.4,1.2,56,0.0,E120,"cardamom, chia, salt, barley, tamarind, refined oil, coriander",Unhealthy,32,Unhealthy
+8901887036508,Amul Toned Milk,Beverage,68.6,2.1,103,2.2,E110,"stabilizer, palm oil, chia, artificial color, sugar, coriander, cumin",Unhealthy,0,Unhealthy
+8904536261659,Saffola Oats,Breakfast,16.2,4.8,479,2.0,E110,"emulsifier, peanuts, salt, whey protein, artificial flavor, trans fat",Unhealthy,44,Unhealthy
+8907210531783,Parle-G Biscuits,Snack,7.7,22.2,262,6.3,E500,"refined oil, fiber, artificial color, artificial flavor, tamarind, walnuts, coriander",Unhealthy,61,Moderate
+8909038095466,Amul Toned Milk,Beverage,79.9,1.1,80,3.5,E202,"chia, refined oil, emulsifier",Unhealthy,0,Unhealthy
+8906875448638,Kellogg's Muesli,Breakfast,19.7,5.3,187,3.5,E211,"coriander, salt, preservative, invert sugar, green gram, brown rice, fiber",Healthy,65,Moderate
+8904399338066,Maggi Masala Noodles,Snack,6.8,21.2,464,3.8,E500,"glucose, barley, stabilizer, hing, turmeric",Unhealthy,47,Unhealthy
+8908483828955,Mother Dairy Dahi,Beverage,0.0,0.0,25,0.0,E220,"cumin, peanuts, turmeric, stabilizer, coriander",Unhealthy,90,Healthy
+8903827807245,Amul Toned Milk,Beverage,44.3,1.0,91,0.0,E296,"maltodextrin, hing, natural, fiber, coriander, sugar, vitamin, flaxseed, invert sugar",Healthy,36,Unhealthy
+8904613012114,Real Mixed Fruit,Beverage,36.2,1.7,158,0.0,E150d,"coriander, stabilizer, salt, brown rice",Unhealthy,32,Unhealthy
+8907184885817,Amul Lassi,Beverage,75.4,1.3,23,2.6,E211,"peanuts, maltodextrin, trans fat, sugar, refined oil, palm oil",Unhealthy,0,Unhealthy
+8901222256989,Kellogg's Corn Flakes,Breakfast,17.2,7.3,192,17.7,E500,"preservative, salt, fiber, jaggery, trans fat, palm oil, walnuts",Unhealthy,95,Healthy
+8902758849221,OatCrunch Cookies,Snack,26.3,28.7,512,4.3,E150d,"whey protein, honey, artificial flavor, salt, hing",Healthy,18,Unhealthy
+8906105705094,Too Yumm Multigrain Chips,Snack,0.0,20.3,596,4.7,E202,"barley, ragi, protein, fiber, whey protein",Healthy,61,Moderate
+8909767157668,Bingo Tedhe Medhe,Snack,5.9,22.1,462,2.6,E211,"brown rice, tamarind, turmeric, invert sugar, clove",Healthy,50,Moderate
+8903860137621,PowerBite Protein Bar,Snack,10.0,19.2,302,1.0,E500,"trans fat, stabilizer, cardamom, millets, glucose, turmeric, protein",Unhealthy,47,Unhealthy
+8900071496714,Soy Protein Drink,Beverage,44.0,0.9,10,3.6,E200,"sugar, stabilizer, barley, trans fat, whey protein, cardamom",Unhealthy,41,Unhealthy
+8901010353377,EnergyPlus Drink,Beverage,6.7,1.2,57,4.1,E202,"protein, turmeric, walnuts, artificial flavor",Healthy,97,Healthy
+8903689040016,Too Yumm Multigrain Chips,Snack,2.7,14.7,314,7.9,E200,"stabilizer, chia, tamarind, green gram",Healthy,85,Healthy
+8903563893308,Mother Dairy Dahi,Beverage,49.0,1.8,120,0.0,E110,"jaggery, whey protein, glucose, invert sugar",Unhealthy,17,Unhealthy
+8902401012537,Baked Veggie Chips,Snack,1.1,10.9,380,3.3,E100,"refined oil, tamarind, clove, garlic, jaggery",Unhealthy,68,Moderate
+8900478944485,SodaPop Drink,Beverage,100.0,0.1,117,3.2,E110,"brown rice, emulsifier, salt, cardamom, tamarind, oats, quinoa",Healthy,0,Unhealthy
+8905642805485,Horlicks Classic Malt,Beverage,29.1,0.0,10,4.9,E110,"oats, invert sugar, preservative, emulsifier, artificial flavor, whey protein",Unhealthy,62,Moderate
+8902567443450,Sunfeast Dark Fantasy,Snack,12.5,11.0,481,2.3,E200,"preservative, chia, corn syrup, honey, salt, millets",Unhealthy,46,Unhealthy
+8905131708403,PowerBite Protein Bar,Snack,32.9,19.2,604,1.2,E150d,"trans fat, coriander, whole grain, protein, preservative, invert sugar, refined oil, barley, sugar",Unhealthy,0,Unhealthy
+8909267206908,Paper Boat Jaljeera,Beverage,58.6,1.3,158,0.1,E296,"trans fat, cardamom, vitamin, sugar, whey protein, protein, artificial color, fiber",Healthy,15,Unhealthy
+8904101964908,Tropicana Orange,Beverage,35.6,0.0,36,0.0,E200,"invert sugar, garlic, turmeric, refined oil, quinoa, oats, coriander",Unhealthy,43,Unhealthy
+8909635069943,Parle-G Biscuits,Snack,15.2,21.2,282,9.0,E220,"cardamom, brown rice, coriander, natural, ginger, salt",Healthy,66,Moderate
+8904633086895,HealthyNut Mix,Snack,5.4,28.6,497,4.1,E110,"invert sugar, natural, whey protein, walnuts, preservative",Unhealthy,38,Unhealthy
+8902600428015,Kellogg's Corn Flakes,Breakfast,22.6,9.3,178,8.9,E330,"refined oil, corn syrup, salt, maltodextrin, brown rice",Unhealthy,65,Moderate
+8908564415078,Maggi Masala Noodles,Snack,17.3,15.1,344,8.1,E102,"hing, ragi, brown rice, preservative, fructose, garlic, salt, trans fat, corn syrup",Unhealthy,53,Moderate
+8907230304107,Haldiram Bhujia,Snack,8.7,17.9,174,6.0,E110,"sugar, maltodextrin, palm oil, chia, invert sugar, natural",Unhealthy,65,Moderate
+8900482834773,EnergyPlus Drink,Beverage,74.4,3.7,10,0.0,E296,"palm oil, artificial flavor, brown rice, salt, walnuts, maltodextrin",Unhealthy,0,Unhealthy
+8907300556644,Oreo Vanilla,Snack,1.7,18.3,405,2.0,E120,"cardamom, flaxseed, oats, cumin, black pepper, refined oil, invert sugar, almonds",Healthy,63,Moderate
+8902166595362,Tropicana Orange,Beverage,67.8,1.5,119,1.4,E120,"preservative, protein, artificial flavor",Unhealthy,0,Unhealthy
+8901337010524,Yakult Probiotic,Beverage,30.0,1.7,24,5.0,E100,"cumin, natural, green gram, peanuts, preservative",Healthy,70,Moderate
+8902518441509,Kurkure Masala Munch,Snack,20.8,24.2,303,8.8,E330,"oats, ginger, cumin, flaxseed, garlic",Healthy,54,Moderate
+8906620772913,Too Yumm Multigrain Chips,Snack,0.0,20.4,685,6.4,E102,"turmeric, garlic, stabilizer, whole grain, almonds, jaggery, emulsifier, cumin",Healthy,57,Moderate
+8900891930301,ZeroSugar Soda,Beverage,20.4,0.0,144,0.0,E100,"ginger, tamarind, clove, emulsifier, green gram, flaxseed",Healthy,66,Moderate
+8906792428651,Yakult Probiotic,Beverage,77.9,2.1,19,1.3,E202,"natural, preservative, black pepper, sugar, brown rice, salt, artificial flavor, coriander, jaggery",Unhealthy,0,Unhealthy
+8909743468086,Lays Classic Salted,Snack,10.2,19.6,501,4.1,E211,"almonds, maltodextrin, trans fat, oats, salt",Unhealthy,40,Unhealthy
+8901663339020,Horlicks Classic Malt,Beverage,58.0,1.4,96,0.0,E202,"fiber, clove, ragi, glucose, hing, honey, chia",Healthy,18,Unhealthy
+8909228955117,Granola Delight,Breakfast,0.0,5.9,30,3.7,E211,"salt, vitamin, emulsifier, clove, whole grain, garlic, cardamom",Unhealthy,90,Healthy
+8900691486852,Too Yumm Multigrain Chips,Snack,14.3,21.3,371,4.3,E100,"millets, flaxseed, palm oil, almonds, coriander, maltodextrin",Healthy,52,Moderate
+8900217989408,Oreo Vanilla,Snack,9.5,23.4,680,3.5,E100,"flaxseed, artificial color",Unhealthy,30,Unhealthy
+8901999458440,BrownBread Slice,Breakfast,2.7,4.6,396,11.0,E211,"whey protein, sugar, black pepper, glucose, coriander, protein, green gram, trans fat, cardamom",Unhealthy,87,Healthy
+8905285021560,Paper Boat Aam Panna,Beverage,69.4,1.8,100,2.0,E110,"glucose, artificial flavor, brown rice, millets, sugar, quinoa, tamarind, cumin, peanuts",Healthy,4,Unhealthy
+8909909651234,PowerBite Protein Bar,Snack,27.2,10.3,433,4.2,E150d,"barley, cumin, brown rice, emulsifier, ginger, palm oil, protein",Unhealthy,31,Unhealthy
+8902902575160,Real Mixed Fruit,Beverage,44.4,1.5,54,0.2,E102,"sugar, quinoa, salt, maltodextrin, glucose, green gram, whey protein, invert sugar, ragi",Unhealthy,27,Unhealthy
+8902029202057,Tropicana Orange,Beverage,25.7,0.0,16,14.2,E202,"quinoa, maltodextrin, garlic, almonds",Healthy,99,Healthy
+8901584876358,Kellogg's Corn Flakes,Breakfast,16.5,4.9,129,3.2,E202,"maltodextrin, millets, cumin, black pepper, turmeric",Unhealthy,66,Moderate
+8903297168913,Bingo Tedhe Medhe,Snack,3.2,25.3,579,8.7,E150d,"trans fat, tamarind, glucose, clove, maltodextrin, palm oil, cardamom, millets, stabilizer",Unhealthy,51,Moderate
+8902144923567,OatCrunch Cookies,Snack,10.9,23.0,657,5.9,E500,"turmeric, chia, glucose, cumin, whole grain, whey protein",Healthy,44,Unhealthy
+8907468405444,Horlicks Classic Malt,Beverage,40.1,1.9,65,0.8,E150d,"protein, corn syrup, artificial flavor, honey, cumin, green gram",Unhealthy,33,Unhealthy
+8907056561559,HealthyNut Mix,Snack,12.1,19.8,309,5.5,None,"natural, protein, emulsifier, brown rice, fiber",Healthy,66,Moderate
+8908405600334,Maggi Masala Noodles,Snack,0.2,18.7,367,5.0,E102,"barley, invert sugar, maltodextrin, almonds, palm oil, garlic, millets",Healthy,71,Moderate
+8907354930741,BrownBread Slice,Breakfast,15.3,2.8,375,9.3,E220,"artificial flavor, vitamin, artificial color",Unhealthy,72,Moderate
+8907744987802,Kellogg's Corn Flakes,Breakfast,14.6,5.1,61,6.0,E202,"garlic, hing, almonds, corn syrup, glucose, green gram, cardamom",Healthy,87,Healthy
+8903131571722,Lays Classic Salted,Snack,19.4,27.8,188,21.5,E150d,"refined oil, salt, artificial color, almonds, stabilizer, tamarind, hing",Unhealthy,78,Moderate
+8901649086872,ZeroSugar Soda,Beverage,74.9,0.0,66,5.9,E202,"coriander, vitamin, ragi, invert sugar, flaxseed, peanuts, millets",Healthy,13,Unhealthy
+8905312976403,OatCrunch Cookies,Snack,0.0,20.6,308,1.7,E100,"artificial flavor, invert sugar, walnuts",Unhealthy,60,Moderate
+8907816936234,PowerBite Protein Bar,Snack,5.9,7.2,341,10.6,E110,"natural, invert sugar, fructose, stabilizer, clove, whey protein, hing, cumin",Unhealthy,82,Healthy
+8901275251351,SodaPop Drink,Beverage,76.0,0.8,116,1.1,E220,"cumin, preservative, peanuts, flaxseed, green gram",Healthy,0,Unhealthy
+8907452389180,Haldiram Bhujia,Snack,0.1,17.3,447,2.9,None,"corn syrup, walnuts, fructose, ragi, chia, quinoa",Unhealthy,63,Moderate
+8900496068142,SodaPop Drink,Beverage,65.0,1.1,79,1.9,None,"ragi, peanuts, invert sugar",Healthy,19,Unhealthy
+8904938899793,Granola Delight,Breakfast,24.6,5.8,249,6.5,E150d,"cumin, corn syrup, sugar, millets, tamarind",Unhealthy,54,Moderate
+8900287502679,Kurkure Masala Munch,Snack,13.3,28.9,205,1.0,E120,"oats, salt, palm oil, fructose, whole grain, glucose, protein",Unhealthy,37,Unhealthy
+8901346695548,Saffola Oats,Breakfast,25.6,6.0,168,6.6,E500,"invert sugar, garlic, peanuts, cardamom, black pepper, flaxseed",Healthy,68,Moderate
+8902707206170,Horlicks Classic Malt,Beverage,63.8,0.0,11,0.5,E120,"walnuts, salt, turmeric, cumin, brown rice, hing",Healthy,17,Unhealthy
+8904753067725,Bournvita Health Drink,Beverage,48.9,0.0,10,0.0,E202,"palm oil, salt, chia, tamarind, cardamom, garlic, refined oil",Unhealthy,27,Unhealthy
+8903945618367,Too Yumm Multigrain Chips,Snack,30.8,20.9,446,7.5,E150d,"jaggery, maltodextrin, preservative, coriander, artificial flavor",Unhealthy,23,Unhealthy
+8905830502702,Saffola Oats,Breakfast,5.3,2.0,389,5.2,E100,"vitamin, tamarind, ginger, artificial color, coriander, trans fat, walnuts",Unhealthy,76,Moderate
+8906244714904,Oreo Vanilla,Snack,0.0,16.1,346,6.4,E100,"emulsifier, whey protein, turmeric, green gram",Healthy,81,Healthy
+8908887049590,ChocoBite Energy Bar,Snack,7.3,17.4,242,24.2,E102,"barley, clove, walnuts, artificial flavor, oats, tamarind, whey protein",Healthy,100,Healthy
+8905668357101,Oreo Vanilla,Snack,10.0,19.5,585,1.0,E120,"fiber, salt, whey protein, walnuts, vitamin, black pepper, honey",Healthy,40,Unhealthy
+8904281747416,Yakult Probiotic,Beverage,61.6,1.7,39,2.3,None,"ragi, invert sugar, chia, green gram, cumin, black pepper",Healthy,25,Unhealthy
+8906161312669,Amul Lassi,Beverage,41.5,1.5,176,1.9,E211,"maltodextrin, tamarind, turmeric, flaxseed",Unhealthy,29,Unhealthy
+8904669044070,SodaPop Drink,Beverage,21.7,1.4,49,15.0,E200,"invert sugar, corn syrup, oats, brown rice, quinoa, maltodextrin, tamarind",Unhealthy,95,Healthy
+8902480553506,ZeroSugar Soda,Beverage,20.5,0.0,57,0.0,E200,"natural, fiber, corn syrup, sugar, honey, invert sugar, refined oil",Unhealthy,62,Moderate
+8903416121704,Oreo Vanilla,Snack,17.3,19.3,355,8.3,E500,"honey, trans fat, jaggery, turmeric, artificial flavor, sugar, fructose, artificial color, quinoa",Unhealthy,52,Moderate
+8908172740347,Sunfeast Dark Fantasy,Snack,2.1,14.4,512,24.9,E500,"stabilizer, black pepper, whole grain",Unhealthy,100,Healthy
+8903299064655,BrownBread Slice,Breakfast,13.6,9.6,366,7.6,None,"chia, turmeric, glucose, ginger, maltodextrin, cardamom",Unhealthy,68,Moderate
+8900666111292,Kellogg's Muesli,Breakfast,20.6,1.6,70,8.6,E120,"millets, corn syrup, fructose",Unhealthy,80,Healthy
+8907225659053,Mother Dairy Dahi,Beverage,45.1,2.4,124,0.0,E211,"hing, garlic, sugar, fiber, protein, invert sugar",Healthy,29,Unhealthy
+8906875319146,Bingo Tedhe Medhe,Snack,0.8,13.8,647,2.8,E220,"invert sugar, ragi, hing, maltodextrin, refined oil",Unhealthy,51,Moderate
+8906611257257,Granola Delight,Breakfast,25.7,9.0,146,3.4,E150d,"sugar, whey protein, corn syrup",Unhealthy,47,Unhealthy
+8907426254713,PowerBite Protein Bar,Snack,10.4,5.0,487,1.0,E110,"glucose, palm oil, salt, natural, invert sugar, fiber",Unhealthy,48,Unhealthy
+8904224473478,PowerBite Protein Bar,Snack,17.4,13.2,538,5.5,E211,"stabilizer, millets, coriander, artificial flavor, whey protein",Unhealthy,39,Unhealthy
+8905104325122,Yakult Probiotic,Beverage,83.5,1.4,56,0.0,E211,"ginger, stabilizer, fiber, brown rice, green gram",Healthy,0,Unhealthy
+8907782447002,ChocoBite Energy Bar,Snack,16.1,11.5,490,3.3,E102,"walnuts, jaggery, palm oil, artificial color, invert sugar, oats, garlic, natural",Unhealthy,39,Unhealthy
+8908670031206,Paper Boat Jaljeera,Beverage,58.1,0.6,118,0.0,E220,"sugar, glucose, salt, barley",Unhealthy,9,Unhealthy
+8906721792359,Kellogg's Muesli,Breakfast,15.4,0.8,251,3.9,E120,"artificial color, stabilizer, tamarind, vitamin, hing",Unhealthy,68,Moderate
+8902278993165,Lays Classic Salted,Snack,33.8,20.2,537,7.2,E150d,"stabilizer, almonds, preservative, green gram, emulsifier, ragi, corn syrup",Unhealthy,15,Unhealthy
+8904701035272,Paper Boat Jaljeera,Beverage,43.3,0.0,106,11.3,E150d,"stabilizer, whole grain, walnuts, chia, protein",Healthy,62,Moderate
+8903901303237,Bingo Tedhe Medhe,Snack,10.7,16.7,276,10.1,E150d,"maltodextrin, invert sugar, preservative, refined oil, black pepper",Unhealthy,68,Moderate
+8901060914484,Lays Classic Salted,Snack,3.2,34.8,128,3.1,E330,"ragi, flaxseed, fiber, corn syrup, oats, invert sugar, sugar, tamarind, protein",Healthy,62,Moderate
+8901842777048,Too Yumm Multigrain Chips,Snack,12.4,9.7,80,7.0,E102,"whole grain, corn syrup, brown rice, sugar, hing, artificial color, quinoa",Unhealthy,75,Moderate
+8900558249228,Haldiram Bhujia,Snack,8.4,22.1,375,3.0,E330,"artificial flavor, ragi, jaggery, preservative, artificial color",Unhealthy,47,Unhealthy
+8903875487535,Lays Classic Salted,Snack,24.4,24.4,155,7.3,E120,"salt, preservative, green gram, whey protein, artificial color, ragi, stabilizer, emulsifier",Unhealthy,45,Unhealthy
+8906096658131,Bournvita Health Drink,Beverage,0.0,0.0,65,2.7,E150d,"clove, flaxseed, glucose, trans fat, maltodextrin, stabilizer",Unhealthy,92,Healthy
+8908588825818,Mother Dairy Dahi,Beverage,5.0,0.2,134,5.6,E200,"protein, green gram, brown rice, turmeric, preservative, ragi",Healthy,100,Healthy
+8903544774172,Tropicana Orange,Beverage,37.6,0.9,101,1.8,E100,"whey protein, honey, almonds, refined oil, stabilizer, maltodextrin, emulsifier",Unhealthy,41,Unhealthy
+8907687030663,Paper Boat Jaljeera,Beverage,59.0,0.4,39,0.0,None,"jaggery, vitamin, salt, turmeric",Healthy,24,Unhealthy
+8907513503476,Saffola Oats,Breakfast,22.2,7.1,129,7.0,None,"glucose, preservative, brown rice, protein, artificial color, corn syrup",Unhealthy,70,Moderate
+8900682863914,Quaker Oats,Breakfast,22.6,2.3,109,3.4,None,"corn syrup, stabilizer, walnuts, coriander",Unhealthy,67,Moderate
+8902519851036,Amul Lassi,Beverage,45.6,3.2,77,0.0,None,"millets, sugar, brown rice, fiber, tamarind, clove, oats",Healthy,37,Unhealthy
+8909385361952,Saffola Oats,Breakfast,15.8,8.4,403,4.2,E296,"brown rice, honey, hing, sugar, fructose",Unhealthy,53,Moderate
+8905255998341,Bingo Tedhe Medhe,Snack,13.7,28.3,241,23.7,E500,"almonds, quinoa, oats, barley, salt, turmeric",Healthy,98,Healthy
+8900285454688,Paper Boat Aam Panna,Beverage,15.3,0.4,31,0.3,E200,"artificial flavor, protein, glucose, jaggery, oats, hing, sugar",Unhealthy,70,Moderate
+8900691558617,Parle-G Biscuits,Snack,36.6,16.2,402,9.3,E200,"sugar, vitamin, peanuts, artificial color, preservative, tamarind",Unhealthy,30,Unhealthy
+8906473069492,Kurkure Masala Munch,Snack,18.3,17.8,191,5.7,None,"tamarind, sugar, natural, glucose, palm oil",Unhealthy,58,Moderate
+8905847478020,SodaPop Drink,Beverage,40.0,0.0,121,7.2,E211,"fructose, natural, flaxseed, ginger, peanuts, fiber, whey protein, cumin",Healthy,56,Moderate
+8901298037175,Kellogg's Corn Flakes,Breakfast,13.8,9.9,135,9.3,E100,"refined oil, almonds",Unhealthy,79,Moderate
+8901641900064,Saffola Oats,Breakfast,17.1,4.9,361,7.9,E120,"walnuts, palm oil, peanuts, black pepper, whey protein, preservative, trans fat, clove",Unhealthy,65,Moderate
+8907053707353,Too Yumm Multigrain Chips,Snack,19.3,19.2,416,5.5,E120,"cardamom, quinoa, clove, cumin, sugar",Unhealthy,40,Unhealthy
+8906143917816,Paper Boat Aam Panna,Beverage,0.0,1.9,66,0.0,E150d,"vitamin, refined oil, salt, ginger, ragi, hing",Unhealthy,83,Healthy
+8901095675196,Horlicks Classic Malt,Beverage,22.4,0.8,196,8.6,E202,"green gram, artificial flavor, ginger, fiber, jaggery, chia",Healthy,80,Healthy
+8904771551205,Tropicana Orange,Beverage,34.5,2.5,65,0.1,E102,"whole grain, invert sugar, palm oil, vitamin, natural",Healthy,46,Unhealthy
+8907883886108,SodaPop Drink,Beverage,32.1,0.7,75,2.0,E500,"millets, trans fat, corn syrup, fructose, invert sugar, sugar",Unhealthy,50,Moderate
+8902525256020,Parle-G Biscuits,Snack,11.9,14.3,533,6.3,E211,"clove, palm oil, oats, turmeric, emulsifier, stabilizer, hing",Unhealthy,47,Unhealthy
+8900827707001,EnergyPlus Drink,Beverage,2.4,0.5,65,11.6,E100,"trans fat, salt, ginger, barley, tamarind, brown rice",Unhealthy,100,Healthy
+8909288823703,HealthyNut Mix,Snack,3.7,26.3,299,3.7,E200,"ragi, almonds, green gram, black pepper, preservative, cardamom",Healthy,62,Moderate
+8909791819941,Paper Boat Jaljeera,Beverage,100.0,1.7,10,0.0,None,"hing, clove, invert sugar, honey, ragi, garlic",Healthy,0,Unhealthy
+8907529203620,HealthyNut Mix,Snack,7.4,18.8,365,1.0,None,"palm oil, salt, sugar, corn syrup, millets, fructose, whole grain",Unhealthy,51,Moderate
+8903233203767,Parle-G Biscuits,Snack,8.7,6.0,350,6.5,E330,"vitamin, trans fat, turmeric, salt, hing",Unhealthy,72,Moderate
+8903582306074,Sunfeast Dark Fantasy,Snack,25.3,19.5,621,7.9,E202,"whole grain, turmeric, salt, glucose, walnuts, green gram, preservative",Unhealthy,27,Unhealthy
+8903952751605,Bournvita Health Drink,Beverage,68.0,3.7,74,0.0,E150d,"artificial flavor, protein, millets, corn syrup, emulsifier",Unhealthy,0,Unhealthy
+8904341468390,OatCrunch Cookies,Snack,5.9,26.4,388,6.1,None,"honey, corn syrup, jaggery, clove, barley, refined oil",Healthy,65,Moderate
+8909372659177,Sunfeast Dark Fantasy,Snack,2.1,14.3,148,4.3,E220,"vitamin, fructose, barley, hing, artificial color",Unhealthy,77,Moderate
+8904991096751,Oreo Vanilla,Snack,0.0,19.1,469,1.1,E100,"artificial color, oats, garlic",Unhealthy,52,Moderate
+8903514966342,Kellogg's Muesli,Breakfast,22.6,3.4,30,9.1,E110,"flaxseed, artificial color, salt, emulsifier, honey, black pepper, maltodextrin",Unhealthy,76,Moderate
+8907153836469,Kellogg's Corn Flakes,Breakfast,21.6,8.7,215,7.8,E500,"preservative, vitamin, barley, walnuts, oats, black pepper, palm oil, chia",Healthy,71,Moderate
+8902985659207,BrownBread Slice,Breakfast,20.3,10.2,241,7.1,None,"maltodextrin, natural, barley, green gram, peanuts, trans fat",Unhealthy,64,Moderate
+8908374127397,Too Yumm Multigrain Chips,Snack,13.2,28.6,326,5.5,E110,"black pepper, clove, turmeric, jaggery, millets, quinoa, stabilizer, vitamin",Healthy,47,Unhealthy
+8905628330005,Bournvita Health Drink,Beverage,30.6,1.4,103,0.0,E220,"quinoa, emulsifier, garlic, black pepper",Unhealthy,45,Unhealthy
+8904859060974,Saffola Oats,Breakfast,20.2,6.3,338,7.8,E102,"salt, ginger, emulsifier, tamarind, green gram, clove, whole grain",Healthy,66,Moderate
+8909755905527,Sunfeast Dark Fantasy,Snack,10.3,23.2,520,19.4,E102,"artificial color, clove, artificial flavor, glucose, garlic, honey",Unhealthy,72,Moderate
+8908985101962,Soy Protein Drink,Beverage,30.4,0.0,102,8.0,E220,"protein, fiber, clove, emulsifier, ragi, whole grain",Healthy,74,Moderate
+8903915053688,Horlicks Classic Malt,Beverage,24.6,0.9,169,0.2,E202,"maltodextrin, jaggery, flaxseed, artificial flavor, fructose",Unhealthy,51,Moderate
+8906598397696,Amul Lassi,Beverage,36.5,1.9,85,4.0,E220,"sugar, fiber, brown rice, almonds",Healthy,55,Moderate
+8900739713002,Granola Delight,Breakfast,12.6,12.8,197,6.4,E120,"green gram, coriander, fructose, emulsifier, salt, vitamin, cardamom",Unhealthy,68,Moderate
+8901446840220,Bingo Tedhe Medhe,Snack,0.0,10.7,395,12.4,E200,"preservative, whey protein, garlic, corn syrup, artificial flavor",Unhealthy,91,Healthy
+8903008055883,Sunfeast Dark Fantasy,Snack,25.1,22.3,317,6.7,E102,"maltodextrin, palm oil, green gram, cumin",Unhealthy,34,Unhealthy
+8903508458899,ChocoBite Energy Bar,Snack,6.5,25.5,336,6.6,E120,"millets, brown rice, salt, whey protein, almonds",Healthy,65,Moderate
+8907225619386,Tropicana Orange,Beverage,8.7,1.1,50,2.2,E102,"green gram, salt, emulsifier, clove, artificial flavor, coriander",Healthy,87,Healthy
+8908909305925,Paper Boat Jaljeera,Beverage,0.3,1.2,32,0.0,E296,"peanuts, protein, chia, quinoa, honey, sugar",Healthy,96,Healthy
+8904597480640,Parle-G Biscuits,Snack,4.7,23.1,232,6.5,E500,"refined oil, corn syrup, artificial color, trans fat, honey, garlic",Unhealthy,66,Moderate
+8906626456959,Paper Boat Jaljeera,Beverage,14.9,1.8,162,1.2,E120,"corn syrup, refined oil, artificial flavor, natural",Unhealthy,65,Moderate
+8901199615329,Britannia Marie Gold,Snack,3.4,17.0,569,5.9,E330,"invert sugar, hing, artificial flavor, ginger, emulsifier, chia, maltodextrin, sugar",Unhealthy,56,Moderate
+8906617357449,Kurkure Masala Munch,Snack,8.3,22.0,490,2.8,E100,"oats, palm oil, invert sugar, walnuts, salt, stabilizer, whey protein, chia, corn syrup",Unhealthy,41,Unhealthy
+8909587920366,Haldiram Bhujia,Snack,10.5,13.1,259,3.9,E102,"ragi, natural, walnuts, emulsifier, turmeric, sugar, salt",Unhealthy,58,Moderate
+8900332146915,Yakult Probiotic,Beverage,70.0,2.0,74,3.5,E202,"ginger, glucose, trans fat, natural, fructose",Unhealthy,3,Unhealthy
+8903525563376,Baked Veggie Chips,Snack,17.9,23.3,488,3.4,E120,"chia, protein, preservative, invert sugar",Unhealthy,29,Unhealthy
+8906438728093,Parle-G Biscuits,Snack,16.7,21.3,547,2.5,E296,"sugar, green gram, almonds, walnuts",Healthy,35,Unhealthy
+8902762485067,HealthyNut Mix,Snack,21.9,25.0,423,3.3,E102,"honey, palm oil, turmeric, fructose, barley, millets",Healthy,30,Unhealthy
+8908984791561,Horlicks Classic Malt,Beverage,68.0,0.0,40,2.7,E500,"cardamom, peanuts, quinoa, black pepper, jaggery, maltodextrin, trans fat, clove",Healthy,16,Unhealthy
+8908125817077,Kurkure Masala Munch,Snack,5.2,15.9,92,6.8,E211,"preservative, maltodextrin, sugar, almonds, green gram, flaxseed",Unhealthy,77,Moderate
+8901466197199,Haldiram Bhujia,Snack,3.1,17.5,309,4.6,E500,"corn syrup, glucose, barley, turmeric, brown rice",Unhealthy,66,Moderate
+8907960244910,EnergyPlus Drink,Beverage,43.7,0.3,146,11.2,E296,"artificial flavor, maltodextrin, millets, peanuts, barley, flaxseed",Healthy,62,Moderate
+8903522984615,Paper Boat Aam Panna,Beverage,100.0,0.0,172,0.0,E500,"clove, honey, oats, trans fat, artificial color",Unhealthy,0,Unhealthy
+8909167886074,EnergyPlus Drink,Beverage,5.5,1.6,93,0.6,E500,"ginger, brown rice, artificial color, palm oil, artificial flavor, maltodextrin",Unhealthy,80,Healthy
+8909995544722,Yakult Probiotic,Beverage,51.6,0.3,117,1.2,E500,"coriander, ginger, corn syrup, natural, preservative, clove",Unhealthy,21,Unhealthy
+8905060084958,Yakult Probiotic,Beverage,0.8,3.3,47,0.4,E296,"whole grain, stabilizer, sugar, corn syrup, millets, honey, fructose",Unhealthy,86,Healthy
+8907394589984,Bournvita Health Drink,Beverage,0.0,0.0,10,0.0,E330,"millets, sugar, peanuts, oats, trans fat, ginger, fructose",Unhealthy,91,Healthy
+8906685683339,BrownBread Slice,Breakfast,32.4,5.5,84,4.8,E220,"refined oil, whole grain, chia, tamarind, salt, sugar, green gram, artificial flavor",Unhealthy,51,Moderate
+8908761766643,PowerBite Protein Bar,Snack,33.6,19.9,392,2.9,E202,"fructose, cardamom, millets, whole grain, maltodextrin, sugar, salt, oats",Unhealthy,15,Unhealthy
+8904012305007,SodaPop Drink,Beverage,53.0,0.0,82,1.2,E296,"whey protein, black pepper, palm oil, green gram",Healthy,29,Unhealthy
+8905681358878,Real Mixed Fruit,Beverage,4.1,0.0,10,1.7,E202,"salt, emulsifier, quinoa, palm oil, artificial color, tamarind",Unhealthy,90,Healthy
+8906190748580,Quaker Oats,Breakfast,14.0,9.0,480,9.8,E120,"barley, invert sugar, preservative, garlic, honey",Unhealthy,64,Moderate
+8902740585232,Horlicks Classic Malt,Beverage,12.3,1.0,51,0.0,E100,"peanuts, hing, refined oil, green gram, clove",Healthy,80,Healthy
+8907054754899,Saffola Oats,Breakfast,6.3,1.9,266,5.9,E202,"green gram, invert sugar, corn syrup, maltodextrin, oats, palm oil, glucose",Unhealthy,82,Healthy
+8905241688592,Horlicks Classic Malt,Beverage,56.0,2.3,32,2.9,E102,"barley, corn syrup, glucose, vitamin",Unhealthy,19,Unhealthy
+8905554475409,Kurkure Masala Munch,Snack,3.3,7.2,317,5.4,E296,"sugar, preservative, corn syrup, maltodextrin, green gram, vitamin, chia, whey protein",Healthy,85,Healthy
+8903241220251,Bingo Tedhe Medhe,Snack,9.3,24.5,622,9.0,E296,"fructose, trans fat, sugar, invert sugar, quinoa, salt, oats, honey",Unhealthy,45,Unhealthy
+8904109142858,Quaker Oats,Breakfast,11.3,6.4,86,5.4,E200,"ginger, sugar, oats, cumin, tamarind, almonds, emulsifier",Unhealthy,79,Moderate
+8900239389242,Britannia Marie Gold,Snack,10.7,37.5,338,17.6,E110,"artificial flavor, millets, fiber, peanuts, cumin",Healthy,70,Moderate
+8905042554954,Real Mixed Fruit,Beverage,57.4,1.1,128,3.6,E296,"preservative, protein, millets, garlic, invert sugar, hing",Unhealthy,18,Unhealthy
+8902646630829,Maggi Masala Noodles,Snack,19.7,21.2,416,6.3,E200,"cumin, green gram, refined oil, black pepper, salt, jaggery, tamarind",Unhealthy,39,Unhealthy
+8900202342708,Amul Toned Milk,Beverage,0.0,0.7,10,12.9,E296,"cumin, salt, coriander, barley, artificial color, sugar, fructose, millets",Unhealthy,100,Healthy
+8908104506753,PowerBite Protein Bar,Snack,18.1,13.0,131,2.1,E150d,"ragi, whole grain, barley, natural, invert sugar",Healthy,58,Moderate
+8909319540722,Amul Toned Milk,Beverage,36.9,2.6,141,3.7,E330,"coriander, turmeric, jaggery, artificial flavor, maltodextrin, chia",Unhealthy,43,Unhealthy
+8907536749721,Bingo Tedhe Medhe,Snack,10.2,19.1,603,6.0,E220,"flaxseed, ginger, corn syrup, peanuts, honey",Healthy,51,Moderate
+8909880936107,BrownBread Slice,Breakfast,3.2,3.6,268,6.4,E211,"green gram, refined oil, jaggery, whey protein",Healthy,91,Healthy
+8908642037217,Paper Boat Jaljeera,Beverage,60.8,1.5,64,4.5,E296,"cumin, whole grain, clove, maltodextrin, vitamin",Healthy,27,Unhealthy
+8908631317468,Bingo Tedhe Medhe,Snack,0.0,12.2,397,2.6,E100,"salt, corn syrup, hing, black pepper, jaggery, artificial flavor, palm oil, tamarind",Unhealthy,66,Moderate
+8909038178769,Amul Toned Milk,Beverage,0.0,0.0,132,0.0,E330,"glucose, invert sugar, refined oil, salt, fiber",Unhealthy,85,Healthy
+8904550580416,Lays Classic Salted,Snack,23.6,10.3,80,8.1,E120,"trans fat, barley, artificial flavor, oats, hing, whey protein",Healthy,74,Moderate
+8905810749019,Parle-G Biscuits,Snack,10.1,21.1,397,10.6,E330,"sugar, millets, coriander, preservative, peanuts",Unhealthy,63,Moderate
+8900668601938,Kurkure Masala Munch,Snack,2.2,19.7,406,9.2,E296,"invert sugar, millets, vitamin, cardamom, flaxseed, clove, garlic",Healthy,79,Moderate
+8907218611184,Maggi Masala Noodles,Snack,4.4,20.6,230,6.4,E110,"tamarind, clove, maltodextrin, refined oil, almonds",Unhealthy,66,Moderate
+8907375034745,Oreo Vanilla,Snack,19.3,22.5,611,6.9,E200,"invert sugar, honey, brown rice, fructose, maltodextrin, flaxseed, refined oil",Unhealthy,30,Unhealthy
+8902138918345,Britannia Marie Gold,Snack,22.9,22.8,225,8.9,None,"fiber, walnuts, coriander, clove, jaggery, hing, invert sugar, chia",Healthy,61,Moderate
+8906635727083,SodaPop Drink,Beverage,41.5,2.2,144,4.9,E296,"vitamin, fiber, maltodextrin, cumin, quinoa",Healthy,48,Unhealthy
+8907848219838,Baked Veggie Chips,Snack,18.6,14.4,667,6.3,None,"chia, flaxseed, green gram, emulsifier, quinoa",Healthy,47,Unhealthy
+8905902225416,Granola Delight,Breakfast,15.7,5.9,398,9.2,E202,"hing, garlic, fructose, flaxseed, protein, quinoa, vitamin, artificial color",Healthy,75,Moderate
+8909316171512,PowerBite Protein Bar,Snack,6.5,5.0,332,2.1,E120,"oats, ginger, salt, glucose, black pepper, ragi, cardamom",Unhealthy,66,Moderate
+8900905457871,BrownBread Slice,Breakfast,0.0,7.9,196,8.4,E220,"clove, refined oil, natural, vitamin, ragi",Healthy,100,Healthy
+8900149538130,Amul Toned Milk,Beverage,44.1,0.1,85,2.6,E202,"coriander, chia, emulsifier, vitamin, maltodextrin",Healthy,44,Unhealthy
+8904161346488,Bournvita Health Drink,Beverage,98.6,1.8,138,0.7,E200,"black pepper, ginger, millets, jaggery, refined oil, cardamom",Unhealthy,0,Unhealthy
+8907225051361,Bingo Tedhe Medhe,Snack,2.7,22.0,368,3.3,E202,"trans fat, walnuts",Unhealthy,55,Moderate
+8901774584645,Bingo Tedhe Medhe,Snack,8.1,9.6,422,8.9,E220,"natural, trans fat, corn syrup, maltodextrin, clove, jaggery, stabilizer",Unhealthy,72,Moderate
+8906036943635,EnergyPlus Drink,Beverage,46.2,1.6,146,18.4,E102,"coriander, corn syrup, quinoa, hing, trans fat, flaxseed, whey protein, emulsifier, barley",Healthy,72,Moderate
+8901560021345,SodaPop Drink,Beverage,25.0,3.0,98,3.2,E202,"whole grain, jaggery, maltodextrin, almonds, brown rice, garlic, artificial color, vitamin",Healthy,67,Moderate
+8900055695001,Granola Delight,Breakfast,21.8,8.1,283,7.1,E100,"ginger, refined oil, oats, clove, quinoa, fructose, honey",Healthy,66,Moderate
+8909628178387,Amul Toned Milk,Beverage,64.3,0.0,123,6.7,E100,"fructose, quinoa, flaxseed, peanuts",Healthy,26,Unhealthy
+8900279568417,Too Yumm Multigrain Chips,Snack,0.0,20.5,591,2.2,E202,"peanuts, honey, emulsifier, maltodextrin, jaggery, walnuts, invert sugar",Healthy,55,Moderate
+8904783805429,Tropicana Orange,Beverage,50.8,0.0,181,2.1,E211,"invert sugar, vitamin, protein, refined oil, artificial color, brown rice",Healthy,27,Unhealthy
+8908096170261,Soy Protein Drink,Beverage,47.8,0.0,123,3.4,E200,"quinoa, honey, artificial color, stabilizer, cardamom, green gram, preservative, vitamin",Unhealthy,31,Unhealthy
+8902160616690,Too Yumm Multigrain Chips,Snack,14.6,6.6,381,1.0,E110,"tamarind, corn syrup, garlic, stabilizer, ragi",Unhealthy,46,Unhealthy
+8905368499202,Kurkure Masala Munch,Snack,2.4,32.4,118,1.6,E102,"black pepper, chia, jaggery, vitamin, tamarind, palm oil",Healthy,59,Moderate
+8906004127529,Paper Boat Aam Panna,Beverage,49.7,0.5,95,0.0,E330,"refined oil, cardamom, cumin, corn syrup, natural",Unhealthy,22,Unhealthy
+8903327354918,Maggi Masala Noodles,Snack,19.1,19.6,124,6.8,E211,"sugar, preservative, artificial color, glucose, almonds",Unhealthy,54,Moderate
+8908631405197,Britannia Marie Gold,Snack,0.0,5.0,570,10.4,E100,"palm oil, emulsifier, garlic, peanuts, salt, walnuts, artificial color",Unhealthy,83,Healthy
+8908149435745,Kellogg's Muesli,Breakfast,15.1,5.1,384,6.4,E110,"protein, palm oil, trans fat, green gram, refined oil, turmeric",Unhealthy,60,Moderate
+8903729558472,PowerBite Protein Bar,Snack,20.1,26.4,499,4.5,E120,"barley, flaxseed, turmeric, oats, almonds, vitamin, maltodextrin, black pepper",Healthy,33,Unhealthy
+8901519763938,Amul Lassi,Beverage,17.6,2.0,75,9.7,E330,"peanuts, almonds, palm oil, fructose, corn syrup, barley",Unhealthy,86,Healthy
+8901881013786,Soy Protein Drink,Beverage,73.2,2.3,109,0.0,E220,"artificial color, artificial flavor, emulsifier, corn syrup, ragi, invert sugar",Unhealthy,0,Unhealthy
+8908898821471,Mother Dairy Dahi,Beverage,30.6,1.8,34,12.2,E211,"brown rice, millets, clove, trans fat, whey protein, whole grain",Healthy,83,Healthy
+8907608591982,SodaPop Drink,Beverage,42.9,0.0,11,2.2,E110,"emulsifier, sugar, almonds, tamarind, ragi, stabilizer, protein",Unhealthy,38,Unhealthy
+8904437565006,Amul Lassi,Beverage,53.7,1.4,225,1.0,E102,"peanuts, fiber, clove, whey protein, natural",Healthy,17,Unhealthy
+8901774626040,Too Yumm Multigrain Chips,Snack,4.0,14.3,774,2.3,E102,"tamarind, emulsifier, trans fat, quinoa, artificial color, chia, black pepper, fructose",Unhealthy,36,Unhealthy
+8907501280660,Soy Protein Drink,Beverage,56.2,1.4,44,0.8,None,"ginger, whey protein, coriander, ragi, natural, maltodextrin, cardamom",Unhealthy,21,Unhealthy
+8907084294820,Bingo Tedhe Medhe,Snack,19.3,14.9,317,2.3,E330,"vitamin, sugar, refined oil, protein",Unhealthy,41,Unhealthy
+8904486642751,Parle-G Biscuits,Snack,16.7,22.6,458,1.0,E296,"ragi, protein, natural, brown rice, flaxseed",Healthy,35,Unhealthy
+8907517240837,Real Mixed Fruit,Beverage,34.4,2.3,118,13.5,E200,"vitamin, fiber, turmeric, quinoa, fructose, refined oil, cumin, corn syrup, sugar",Unhealthy,71,Moderate
+8905620264286,ZeroSugar Soda,Beverage,100.0,2.2,19,0.0,E296,"garlic, black pepper, glucose, natural, tamarind",Unhealthy,0,Unhealthy
+8905444183167,Horlicks Classic Malt,Beverage,8.4,0.6,194,6.6,E150d,"stabilizer, fiber, black pepper, trans fat, quinoa, tamarind, artificial color",Unhealthy,83,Healthy
+8907109668527,Saffola Oats,Breakfast,28.9,3.6,224,10.2,E220,"clove, glucose, hing, whey protein, cardamom",Unhealthy,64,Moderate
+8901343082022,OatCrunch Cookies,Snack,3.9,17.6,336,17.7,E120,"whey protein, jaggery, fructose, invert sugar",Unhealthy,95,Healthy
+8908999557308,OatCrunch Cookies,Snack,14.7,23.8,527,6.1,E110,"protein, invert sugar, ginger, trans fat, coriander",Unhealthy,34,Unhealthy
+8903077788648,Too Yumm Multigrain Chips,Snack,32.9,27.7,533,7.2,E110,"brown rice, stabilizer, fructose, chia, honey, walnuts, emulsifier",Unhealthy,9,Unhealthy
+8904418137941,Quaker Oats,Breakfast,21.6,11.1,345,6.5,E500,"whole grain, honey, corn syrup, cardamom, trans fat, clove, hing, millets, oats",Healthy,59,Moderate
+8900948823355,ZeroSugar Soda,Beverage,41.9,0.0,41,2.1,E200,"tamarind, artificial flavor, ginger, sugar, natural, salt",Unhealthy,40,Unhealthy
+8900750170518,Kellogg's Corn Flakes,Breakfast,18.9,10.7,413,9.5,E296,"corn syrup, whole grain, emulsifier, preservative, fiber, peanuts, artificial color, turmeric",Unhealthy,58,Moderate
+8902667951422,EnergyPlus Drink,Beverage,0.0,0.1,13,0.0,E120,"millets, whey protein, natural, honey, ginger, artificial color",Healthy,99,Healthy
+8902569255108,Paper Boat Aam Panna,Beverage,0.0,1.0,10,0.0,E296,"emulsifier, millets, maltodextrin, turmeric, oats",Unhealthy,90,Healthy
+8905558395156,Bingo Tedhe Medhe,Snack,3.4,20.9,194,4.4,E500,"refined oil, corn syrup, fiber, turmeric, stabilizer, sugar, vitamin, glucose",Unhealthy,67,Moderate
+8905457024078,Bingo Tedhe Medhe,Snack,1.1,25.1,560,4.3,E102,"fructose, palm oil, preservative, black pepper, peanuts, maltodextrin",Unhealthy,44,Unhealthy

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+python-multipart
+pydantic
+numpy
+pillow
+scikit-learn
+joblib
+xgboost
+
