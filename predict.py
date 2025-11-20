@@ -193,6 +193,7 @@
 
 # backend/predict.py
 
+from cProfile import label
 import os
 import pickle
 from pathlib import Path
@@ -204,145 +205,149 @@ import numpy as np
 #  CLEAN, RENDER-COMPATIBLE DIRECTORY SETUP
 # ================================================================
 
-BACKEND_DIR = Path(__file__).resolve().parent             # /backend
-ROOT_DIR = BACKEND_DIR.parent                             # project root
-MODEL_DIR = ROOT_DIR / "model_training"                   # /model_training
+# BACKEND_DIR = Path(__file__).resolve().parent             # /backend
+# ROOT_DIR = BACKEND_DIR.parent                             # project root
+# MODEL_DIR = ROOT_DIR / "model_training"                   # /model_training
 
-MODEL_ENV_PATH = os.getenv("MODEL_PATH")                  # optional override
-ENCODER_ENV_PATH = os.getenv("ENCODER_PATH")
-
-
-def build_path_candidates():
-    """Generate list of candidate paths for model + encoder."""
-
-    model_candidates = []
-    encoder_candidates = []
-
-    # 1) Environment variable (highest priority)
-    if MODEL_ENV_PATH:
-        model_candidates.append(MODEL_ENV_PATH)
-    if ENCODER_ENV_PATH:
-        encoder_candidates.append(ENCODER_ENV_PATH)
-
-    # 2) Project paths (Render, Linux, GitHub)
-    linux_models = [
-        MODEL_DIR / "nutrition_best_model.pkl",
-        MODEL_DIR / "nutrition_bundle.joblib",
-        MODEL_DIR / "trained_model.pkl",
-    ]
-    linux_encoders = [
-        MODEL_DIR / "label_encoder.pkl",
-    ]
-
-    model_candidates.extend(linux_models)
-    encoder_candidates.extend(linux_encoders)
-
-    # 3) Windows local development (optional)
-    if os.name == "nt":
-        user_home = Path.home()
-        win_model_dir = (
-            user_home / "Desktop" / "major-project" /
-            "nutrition-scanner" / "backend" / "model_training"
-        )
-
-        windows_models = [
-            win_model_dir / "nutrition_best_model.pkl",
-            win_model_dir / "nutrition_bundle.joblib",
-            win_model_dir / "trained_model.pkl",
-        ]
-        windows_encoders = [
-            win_model_dir / "label_encoder.pkl"
-        ]
-
-        model_candidates.extend(windows_models)
-        encoder_candidates.extend(windows_encoders)
-
-    # remove duplicates + convert to Path
-    def unique(paths):
-        seen = set()
-        clean = []
-        for p in paths:
-            p = Path(str(p))   # force Path object
-            if p not in seen:
-                seen.add(p)
-                clean.append(p)
-        return clean
-
-    return unique(model_candidates), unique(encoder_candidates)
+# MODEL_ENV_PATH = os.getenv("MODEL_PATH")                  # optional override
+# ENCODER_ENV_PATH = os.getenv("ENCODER_PATH")
 
 
-MODEL_CANDIDATES, ENCODER_CANDIDATES = build_path_candidates()
+# def build_path_candidates():
+#     """Generate list of candidate paths for model + encoder."""
+
+#     model_candidates = []
+#     encoder_candidates = []
+
+#     # 1) Environment variable (highest priority)
+#     if MODEL_ENV_PATH:
+#         model_candidates.append(MODEL_ENV_PATH)
+#     if ENCODER_ENV_PATH:
+#         encoder_candidates.append(ENCODER_ENV_PATH)
+
+#     # 2) Project paths (Render, Linux, GitHub)
+#     linux_models = [
+#         MODEL_DIR / "nutrition_best_model.pkl",
+#         MODEL_DIR / "nutrition_bundle.joblib",
+#         MODEL_DIR / "trained_model.pkl",
+#     ]
+#     linux_encoders = [
+#         MODEL_DIR / "label_encoder.pkl",
+#     ]
+
+#     model_candidates.extend(linux_models)
+#     encoder_candidates.extend(linux_encoders)
+
+#     # 3) Windows local development (optional)
+#     if os.name == "nt":
+#         user_home = Path.home()
+#         win_model_dir = (
+#             user_home / "Desktop" / "major-project" /
+#             "nutrition-scanner" / "backend" / "model_training"
+#         )
+
+#         windows_models = [
+#             win_model_dir / "nutrition_best_model.pkl",
+#             win_model_dir / "nutrition_bundle.joblib",
+#             win_model_dir / "trained_model.pkl",
+#         ]
+#         windows_encoders = [
+#             win_model_dir / "label_encoder.pkl"
+#         ]
+
+#         model_candidates.extend(windows_models)
+#         encoder_candidates.extend(windows_encoders)
+
+#     # remove duplicates + convert to Path
+#     def unique(paths):
+#         seen = set()
+#         clean = []
+#         for p in paths:
+#             p = Path(str(p))   # force Path object
+#             if p not in seen:
+#                 seen.add(p)
+#                 clean.append(p)
+#         return clean
+
+#     return unique(model_candidates), unique(encoder_candidates)
 
 
-
-# ================================================================
-#  MODEL LOADING HELPERS
-# ================================================================
-
-def load_model(path_list):
-    """Try loading model from several possible paths."""
-    tried = []
-
-    for p in path_list:
-        p = Path(p)
-        tried.append(str(p))
-
-        if not p.exists():
-            continue
-
-        try:
-            if p.suffix.lower() in [".joblib", ".jl", ".jb"]:
-                return joblib.load(p), p
-
-            with open(p, "rb") as f:
-                return pickle.load(f), p
-
-        except ModuleNotFoundError as e:
-            missing = str(e).split("'")[1]
-            raise RuntimeError(
-                f"Model requires missing dependency '{missing}'. "
-                "Add it to backend/requirements.txt"
-            )
-        except Exception as e:
-            raise RuntimeError(f"Failed to load model from {p}: {e}")
-
-    raise FileNotFoundError(
-        "Model not found.\nTried:\n" + "\n".join(tried)
-    )
-
-
-def load_encoder(path_list):
-    """Load label encoder from candidates."""
-    tried = []
-
-    for p in path_list:
-        p = Path(p)
-        tried.append(str(p))
-
-        if not p.exists():
-            continue
-
-        try:
-            with open(p, "rb") as f:
-                return pickle.load(f), p
-        except Exception as e:
-            raise RuntimeError(f"Failed to load encoder from {p}: {e}")
-
-    raise FileNotFoundError(
-        "Label encoder not found.\nTried:\n" + "\n".join(tried)
-    )
+# MODEL_CANDIDATES, ENCODER_CANDIDATES = build_path_candidates()
 
 
 
-# ================================================================
-#  LOAD MODEL + ENCODER AT STARTUP (Render will show logs)
-# ================================================================
+# # ================================================================
+# #  MODEL LOADING HELPERS
+# # ================================================================
 
-model, model_path = load_model(MODEL_CANDIDATES)
-label_encoder, encoder_path = load_encoder(ENCODER_CANDIDATES)
+# def load_model(path_list):
+#     """Try loading model from several possible paths."""
+#     tried = []
 
-print(f"[predict.py] ✓ Loaded model from: {model_path}")
-print(f"[predict.py] ✓ Loaded label encoder from: {encoder_path}")
+#     for p in path_list:
+#         p = Path(p)
+#         tried.append(str(p))
+
+#         if not p.exists():
+#             continue
+
+#         try:
+#             if p.suffix.lower() in [".joblib", ".jl", ".jb"]:
+#                 return joblib.load(p), p
+
+#             with open(p, "rb") as f:
+#                 return pickle.load(f), p
+
+#         except ModuleNotFoundError as e:
+#             missing = str(e).split("'")[1]
+#             raise RuntimeError(
+#                 f"Model requires missing dependency '{missing}'. "
+#                 "Add it to backend/requirements.txt"
+#             )
+#         except Exception as e:
+#             raise RuntimeError(f"Failed to load model from {p}: {e}")
+
+#     raise FileNotFoundError(
+#         "Model not found.\nTried:\n" + "\n".join(tried)
+#     )
+
+
+# def load_encoder(path_list):
+#     """Load label encoder from candidates."""
+#     tried = []
+
+#     for p in path_list:
+#         p = Path(p)
+#         tried.append(str(p))
+
+#         if not p.exists():
+#             continue
+
+#         try:
+#             with open(p, "rb") as f:
+#                 return pickle.load(f), p
+#         except Exception as e:
+#             raise RuntimeError(f"Failed to load encoder from {p}: {e}")
+
+#     raise FileNotFoundError(
+#         "Label encoder not found.\nTried:\n" + "\n".join(tried)
+#     )
+
+
+
+# # ================================================================
+# #  LOAD MODEL + ENCODER AT STARTUP (Render will show logs)
+# # ================================================================
+
+# model, model_path = load_model(MODEL_CANDIDATES)
+# label_encoder, encoder_path = load_encoder(ENCODER_CANDIDATES)
+
+# print(f"[predict.py] ✓ Loaded model from: {model_path}")
+# print(f"[predict.py] ✓ Loaded label encoder from: {encoder_path}")
+
+
+model = joblib.load("./model_training/nutrition_best_model.pkl")
+label_encoder = joblib.load("./model_training/label_encoder.pkl")
 
 
 
