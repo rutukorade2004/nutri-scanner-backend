@@ -4,9 +4,9 @@ from fastapi.middleware.cors import CORSMiddleware
 # from fetch_api import fetch_product
 # from scoring import calculate_health
 # from predict import predict_health_label
-from backend.fetch_api import fetch_product
-from backend.scoring import calculate_health
-from backend.predict import predict_health_label
+from fetch_api import fetch_product
+from scoring import calculate_health
+from predict import predict_health_label
 
 
 app = FastAPI(title="Nutrition Scanner API")
